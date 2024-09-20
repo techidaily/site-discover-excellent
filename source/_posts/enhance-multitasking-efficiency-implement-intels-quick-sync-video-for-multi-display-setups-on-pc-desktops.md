@@ -1,7 +1,7 @@
 ---
 title: "Enhance Multitasking Efficiency: Implement Intel's Quick Sync Video for Multi-Display Setups on PC Desktops"
-date: 2024-09-17 21:58:17
-updated: 2024-09-20 12:57:49
+date: 2024-09-16T00:49:35.476Z
+updated: 2024-09-19T23:43:00.149Z
 tags:
   - product
 categories:
@@ -75,9 +75,23 @@ Action Tutorials
 
 ![Mirillis Action! - Intel Graphics Specifications](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_intel_quick_sync_cpu_model_check.jpg "Intel CPU Graphics Specifications") 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Enable Intel graphics card in BIOS 
 
  Check your PC BIOS User Manual or instructions to see how to enable Intel integrated graphics (iGPU). Enable Intel graphics and save BIOS changes. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Connect Intel card to monitor
 
@@ -103,13 +117,18 @@ Action Tutorials
 
 ![Mirillis Action! - File format settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_file_format_settings_intel_quick_sync.jpg "File format settings")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

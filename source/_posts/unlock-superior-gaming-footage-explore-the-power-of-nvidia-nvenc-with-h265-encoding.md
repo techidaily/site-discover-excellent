@@ -1,7 +1,7 @@
 ---
 title: "Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding"
-date: 2024-09-19 19:40:36
-updated: 2024-09-20 12:56:23
+date: 2024-09-14T21:11:48.174Z
+updated: 2024-09-19T22:23:34.071Z
 tags:
   - product
 categories:
@@ -61,11 +61,25 @@ Action Tutorials
 * NVIDIA GPU drover R358 or above
 * The latest Action! version
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting NVIDIA NVENC H.265/HEVC for gameplay recording
 
  Setting Action! to use NVIDIA NVENC acceleration for H.265/HEVC gameplay recording is very easy. Start Action! and open Action! **Video Capture/Recording** tab. Find file format and hardware acceleration settings and select **MP4 / NVIDIA NVENC HEVC**. If you do not see NVIDIA NVENC HEVC on the hardware acceleration list please make sure that you meet all NVIDIA NVENC H.265/HEVC acceleration requirements. 
 
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  H.265/HEVC gameplay recordings playback 
 
@@ -77,8 +91,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
