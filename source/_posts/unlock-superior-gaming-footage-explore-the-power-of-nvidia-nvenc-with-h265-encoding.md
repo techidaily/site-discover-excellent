@@ -1,7 +1,7 @@
 ---
 title: "Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding"
-date: 2024-09-19T20:50:58.960Z
-updated: 2024-09-25T19:01:24.976Z
+date: 2024-09-28T05:41:55.026Z
+updated: 2024-09-30T09:21:29.385Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  NVIDIA NVENC acceleration for H.265/HEVC gameplay recording 
@@ -60,10 +60,10 @@ Action Tutorials
  Please check NVIDIA NVENC system requirements below to see if your PC is ready to use NVIDIA NVENC accelerated H.265/HEVC encoding.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  System Requirements for NVIDIA NVENC H.265/HEVC acceleration 
@@ -75,6 +75,13 @@ Action Tutorials
 * NVIDIA GPU drover R358 or above
 * The latest Action! version
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting NVIDIA NVENC H.265/HEVC for gameplay recording
 
  Setting Action! to use NVIDIA NVENC acceleration for H.265/HEVC gameplay recording is very easy. Start Action! and open Action! **Video Capture/Recording** tab. Find file format and hardware acceleration settings and select **MP4 / NVIDIA NVENC HEVC**. If you do not see NVIDIA NVENC HEVC on the hardware acceleration list please make sure that you meet all NVIDIA NVENC H.265/HEVC acceleration requirements. 
@@ -82,17 +89,10 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC gameplay recordings playback 
@@ -115,19 +115,17 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-foster-conversations-via-thoughtful-instagram-quiz-style-lives-for-2024/"><u>[New] Foster Conversations via Thoughtful Instagram Quiz-Style Lives for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-material-ui-powered-argon-admin-dashboard-a-complimentary-reactive-ui-framework-experience-by-creative-tim/"><u>1. Material-UI Powered Argon Admin Dashboard: A Complimentary Reactive UI Framework Experience by Creative Tim</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-windows-11-on-outdated-devices/"><u>Breaking Barriers: Windows 11 on Outdated Devices</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complimentary-customized-blog-layout-with-nextjs-and-tailwind-css-by-creative-tim/"><u>Complimentary Customized Blog Layout with NextJS & Tailwind CSS by Creative Tim</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/creative-templates-enhance-your-django-admin-and-dashboard-experience/"><u>Creative Templates: Enhance Your Django Admin & Dashboard Experience</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/creative-tims-finest-ultra-user-friendly-advanced-pro-dashboard-with-tailwindcss-integration/"><u>Creative Tim's Finest: Ultra-User-Friendly, Advanced Pro Dashboard with TailwindCSS Integration</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/creative-tims-ultimate-material-kit-pro-top-tier-bootstrap-with-material-ui-components/"><u>Creative Tim's Ultimate Material Kit PRO: Top-Tier Bootstrap with Material UI Components</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719148349131-facebook-judges-announce-date-for-ruling-on-trump-ban/"><u>Facebook Judges Announce Date for Ruling on Trump Ban.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-cut-to-the-chase-efficient-screen-recording-methods-for-hp-users/"><u>In 2024, Cut to the Chase Efficient Screen Recording Methods for HP Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-overcoming-iphone-camera-focusing-glitches-for-2024/"><u>Tips for Overcoming iPhone Camera Focusing Glitches for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs/"><u>[New] Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sculpting-soundscapes-the-fading-trick/"><u>[New] Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-stardew-key-highlights-from-ginger-isle-for-2024/"><u>[Updated] Mastering Stardew Key Highlights From Ginger Isle for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-optimization-for-new-vloggers/"><u>[Updated] YouTube Optimization for New Vloggers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-magix-acid-pros-successors-in-vector-editing/"><u>In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-ebook-orientation-tips-and-tricks-using-flipbuilder-to-get-it-right-every-time/"><u>Mastering eBook Orientation: Tips and Tricks Using FlipBuilder to Get It Right Every Time</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-and-easy-free-pdf-to-docxpptxswfimage-converter-download-now/"><u>Quick & Easy Free PDF to DOCX/PPTX/SWF/Image Converter: Download Now!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-epub-creation-with-free-tool-convert-multiple-pdfs-at-once-on-flipbuilder/"><u>Quick ePub Creation with Free Tool: Convert Multiple PDFs at Once on FlipBuilder</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/revolutionize-your-reading-experience-with-easy-right-to-left-page-turning-in-pdfs-using-flipbuildercom/"><u>Revolutionize Your Reading Experience with Easy Right-to-Left Page Turning in PDFs Using FlipBuilder.com!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/seamless-bookmarking-in-flipbook-creation-without-the-save-button-learn-the-secret-techniques-at-flipbuilder/"><u>Seamless Bookmarking in FlipBook Creation Without the Save Button? Learn the Secret Techniques at FlipBuilder</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10s-razer-deathadder-drivers-the-latest-version-guide/"><u>Win10's Razer Deathadder Drivers: The Latest Version Guide</u></a></li>
 </ul></div>
 

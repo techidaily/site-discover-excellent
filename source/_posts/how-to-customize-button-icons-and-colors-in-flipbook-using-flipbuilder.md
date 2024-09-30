@@ -1,7 +1,7 @@
 ---
 title: How to Customize Button Icons & Colors in FlipBook Using FlipBuilder
-date: 2024-09-19T18:55:09.145Z
-updated: 2024-09-25T18:33:41.070Z
+date: 2024-09-25T20:13:10.858Z
+updated: 2024-09-29T19:07:26.998Z
 tags:
   - product
 categories:
@@ -91,13 +91,6 @@ Video Tutorial of Creating Page Flip eBook
 14. 13.Export and save settings for future uses.
 15. 14.Save and Load your project.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## II. Page-flipping multiple PDF eBook features
 
 With the page-flipping ebook you have created, your book readers will be able to:
@@ -126,32 +119,38 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![easy steps of convert pdf to ebook](https://www.flipbuilder.com/page-flip-ebook/images/steps_for_convert_pdf_to_digital_magazine.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discount information
 
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Flash Player Required
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -159,6 +158,13 @@ With the page-flipping ebook you have created, your book readers will be able to
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,22 +181,20 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screenflow-uncovered-mastering-video-editing-on-a-mac/"><u>[New] 2024 Approved ScreenFlow Uncovered Mastering Video Editing on a Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-comprehensive-picsart-breakdown-for-2024/"><u>[New] Comprehensive PicsArt Breakdown for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories/"><u>[New] In 2024, Boosting Social Impact with the Combined Force of YouTube and Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-technology-for-flawless-youtube-cc-and-subtitled-videos/"><u>[New] Leveraging Technology for Flawless YouTube CC & Subtitled Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/alaw-mp3-online-alaw-mp3-file-converter-for-free-with-movavi/"><u>Alaw MP3 영구제 - Online Alaw MP3 File Converter for Free with Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-pick-for-personal-task-management-comparing-claude-to-chatgpt/"><u>Best Pick for Personal Task Management: Comparing Claude to ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-14-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-convert-videos-from-chomikuj-to-common-formats-like-mp4-mov-and-avi-with-ease/"><u>How to Convert Videos From Chomikuj to Common Formats Like MP4, MOV & AVI with Ease</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-save-your-favorite-films-as-mp4-mov-or-avi-files-directly-from-movie-box-the-ultimate-downloading-tutorial/"><u>How To Save Your Favorite Films As MP4, MOV or AVI Files Directly From Movie Box: The Ultimate Downloading Tutorial</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/hulu-video-saver-pro-convert-and-save-your-favorite-hulu-content-as-mp4-or-avi-files-for-pc-and-mac/"><u>Hulu Video Saver Pro: Convert and Save Your Favorite Hulu Content as MP4 or AVI Files for PC & Mac</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/limelight-content-saver-how-to-download-videos-from-the-platform-into-popular-file-types-such-as-mp4-mov-and-avi-seamlessly/"><u>Limelight Content Saver: How to Download Videos From the Platform Into Popular File Types Such as MP4, MOV, and AVI Seamlessly</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mac-and-windows-guide-saving-your-omegle-calls-as-mp4-videos/"><u>Mac & Windows Guide: Saving Your Omegle Calls as MP4 Videos</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-toutv-content-saving-a-comprehensive-tutorial/"><u>Mastering the Art of Tou.TV Content Saving: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mp4-converter-f4m-software-convert-audio-and-video-formats/"><u>MP4 Converter F4M Software - Convert Audio & Video Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-components-settings-in-windows-11/"><u>Navigating Components Settings in Windows 11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-fix-for-digital-media-lovers-convert-and-download-videoaudio-in-desired-formats-mp3-wav-mp4-with-our-seamless-platform/"><u>Quick-Fix for Digital Media Lovers: Convert and Download Video/Audio in Desired Formats (MP3, WAV, MP4) with Our Seamless Platform!</u></a></li>
-<li><a href="https://facebook.techidaily.com/spotlight-everyone-listing-full-groups-on-fb-posts/"><u>Spotlight Everyone: Listing Full Groups on FB Posts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-ultimate-bootstrap-4-user-interface-kit-by-creative-tim-free-download/"><u>1. Ultimate Bootstrap 4 User Interface Kit by Creative Tim - Free Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-social-video-periscopes-counterparts/"><u>2024 Approved The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-the-ring-doorbell-plus-security-system/"><u>Comprehensive Analysis: The Ultimate Guide to the Ring Doorbell Plus Security System</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-resource-guide-ui-design-tools-tips-and-templates-by-creative-tim/"><u>Comprehensive Resource Guide: UI Design Tools, Tips, and Templates by Creative Tim</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exclusive-access-master-modern-web-with-the-now-ui-pro-react-native-framework-from-creative-tim/"><u>Exclusive Access: Master Modern Web with the Now UI Pro React Native Framework From Creative Tim</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/expand-your-web-projects-with-premium-3plus-flask-admin-and-dashboard-templates-from-creative-tim/"><u>Expand Your Web Projects with Premium 3+ Flask Admin & Dashboard Templates From Creative Tim</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-pre-designed-material-theme-for-laravel-admin-panel-a-quick-start-with-the-creativetim-templates/"><u>Free Pre-Designed Material Theme for Laravel Admin Panel - A Quick Start with the @CreativeTim Templates</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y200e-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y200e 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-securely-withdraw-from-chatgpt-for-enhanced-personal-privacy/"><u>How to Securely Withdraw From ChatGPT for Enhanced Personal Privacy</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-a-broken-start-menu-on-windows-11-a-step-by-step-guide/"><u>Repairing a Broken Start Menu on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-v30t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme V30T</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-space-with-excellence-why-the-sale-on-arlo-pro-5s-makes-it-a-must-have-according-to-zdnet-only-180/"><u>Secure Your Space with Excellence: Why the Sale on Arlo Pro 5S Makes It a Must-Have, According to ZDNET | Only $180!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlock-superior-gaming-footage-explore-the-power-of-nvidia-nvenc-with-h265-encoding/"><u>Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vanguard-wearables-for-sporting-captures/"><u>Vanguard Wearables for Sporting Captures</u></a></li>
 </ul></div>
 
