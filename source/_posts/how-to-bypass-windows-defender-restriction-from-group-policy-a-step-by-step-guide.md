@@ -1,7 +1,7 @@
 ---
 title: "How to Bypass Windows Defender Restriction From Group Policy: A Step-by-Step Guide"
-date: 2024-09-24T10:52:04.449Z
-updated: 2024-09-30T04:22:27.958Z
+date: 2024-09-29T20:52:31.974Z
+updated: 2024-10-05T21:01:49.713Z
 tags:
   - product
   - antivirus
@@ -52,13 +52,6 @@ There could be a number of reasons for this error to happen. Here are the most c
 * Cybercriminals might have used infiltrate Group Policy using [malware](https://tools.techidaily.com/malwarefox/products/) to disable the security of the Windows system.
 * Some unauthorized changes in the Group Policies can also lead to the error. The changes can be made by mistake or intentionally too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix “Windows Defender is Turned off by Group Policy”?
 
 ### **Using Group Policy Editor**
@@ -67,13 +60,6 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 1. Search for the **Group Policy Editor** in the windows search bar and launch it.![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. In the editor, navigate to: **Computer Configuration** \-> **Administrative Templates** \-> **Windows Components** \-> **Microsoft Defender Antivirus**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Locate “**Turn off Microsoft Defender Antivirus**” and double click on it to open it.![Turn Off Microsoft Defender Antivirus](https://www.malwarefox.com/wp-content/uploads/2020/10/Turn-Off-Microsoft-Defender-Antivirus.png)
 4. In order to enable the Microsoft Defender, click on the **Disabled** bullet.![Enable-MS-Defender](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-Defender.png)
@@ -86,21 +72,16 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 1. Search for “**Registry Editor**” in the windows search box and launch it.![launch registry editor](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-registry-editor.png)
 2. Navigate to or copy & paste this path to reach the Windows Defender folder: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender**
-3. Right-click on the **DisableRealTimeMonitoring** key and Delete it.![Delete DisableRealtimeMonitoring key](https://www.malwarefox.com/wp-content/uploads/2020/10/Delete-DisableRealtimeMonitoring-key.png)
-4. Exit from the Registry Editor and reboot your system to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Right-click on the **DisableRealTimeMonitoring** key and Delete it.![Delete DisableRealtimeMonitoring key](https://www.malwarefox.com/wp-content/uploads/2020/10/Delete-DisableRealtimeMonitoring-key.png)
+4. Exit from the Registry Editor and reboot your system to apply the changes.
 
 ---
 
@@ -112,51 +93,52 @@ There could be a number of reasons for this error to happen. Here are the most c
 2. Type or copy & paste this command and hit the enter key: **_Set-MpPreference -DisableRealtimeMonitoring 0_**![Enable MS defender with Powershell](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-defender-with-Powershell.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Using Windows Settings**
 
 1. Right-click on the windows start icon and choose Settings from the list.![Settings](https://www.malwarefox.com/wp-content/uploads/2020/10/Settings.png)
 2. Select **Update & Security** settings.![Update and Security](https://www.malwarefox.com/wp-content/uploads/2020/10/Update-and-Security.png)
-3. From the left-pane choose **Windows Security**![launch windows security](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-windows-security.png)
-4. Next, click on **Virus & threat protection**.![Choose virus & threat protection](https://www.malwarefox.com/wp-content/uploads/2020/10/Choose-virus-threat-protection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. From the left-pane choose **Windows Security**![launch windows security](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-windows-security.png)
+4. Next, click on **Virus & threat protection**.![Choose virus & threat protection](https://www.malwarefox.com/wp-content/uploads/2020/10/Choose-virus-threat-protection.png)
 
 5. Navigate to Virus & threat protection settings and click on **Manage settings**.![manage V&T settings](https://www.malwarefox.com/wp-content/uploads/2020/10/manage-VT-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Toggle the switch to turn on the Microsoft Defender **real-time protection**.![turn On the Real Time protection](https://www.malwarefox.com/wp-content/uploads/2020/10/turn-On-the-RT-protection.png)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,6 +149,13 @@ The “Windows Defender blocked by Group Policy” error can also be caused if a
 [How to Choose Best Antivirus for Windows 10](https://tools.techidaily.com/malwarefox/products/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -179,6 +168,13 @@ Windows Defender on your system can be turned off because of the various reasons
 **Where is Windows Defender in group policy?** 
 
 To edit the Windows Defender settings in the group policy editor, you can follow this path: **Local Computer Policy > Administrative Templates > Windows Components > Windows Defender Antivirus.** In the latest Windows version, the name of the Windows Defender is changed to **Microsoft Defender.** On those systems, the path to be followed is: **Local Computer Policy > Administrative Templates > Windows Components > Microsoft Defender Antivirus**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -205,22 +201,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorous-hits-lifetime-access-to-memes/"><u>[New] Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amuse-others-via-adobe-meme-making/"><u>[Updated] Amuse Others via Adobe Meme-Making</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-hitpaw-screen-recorder-review-and-alternative-for-2024/"><u>[Updated] HitPaw Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-cost-free-multi-os-video-player-releases/"><u>10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/create-a-zip-file-easily-for-windows-7-and-windows-10/"><u>Create a ZIP File Easily for Windows 7 & Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722857320118-critical-points-you-need-to-assess-for-a-smart-dash-cam-buy/"><u>Critical Points You Need to Assess for a Smart Dash Cam Buy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/easy-methods-for-downloading-and-transforming-yoga-journal-footage-to-various-video-codecs-such-as-mp4-avi-mov-etc/"><u>Easy Methods for Downloading & Transforming Yoga Journal Footage to Various Video Codecs Such as MP4, AVI, MOV Etc.</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-audio-file-conversion-transform-caf-to-wav-mp3-m4a-aiff-aac-with-the-universal-audio-format-converter/"><u>Effortless Audio File Conversion: Transform CAF to WAV, MP3, M4A, AIFF, AAC with the Universal Audio Format Converter</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-converter-tool-transform-youtube-videos-into-swf-format-seamlessly/"><u>Free Converter Tool: Transform YouTube Videos Into SWF Format Seamlessly</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-tunein-music-converter-save-your-favorite-songs-as-mp3wav-files/"><u>Free TuneIn Music Converter: Save Your Favorite Songs as MP3/WAV Files</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-converting-and-saving-mark-mansons-speaker-series-in-multiple-formats-mp4-mp3-avi/"><u>Guide: Converting and Saving Mark Manson's Speaker Series in Multiple Formats (MP4, MP3, AVI)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-how-can-i-save-datacamp-tutorial-videos-for-offline-learning/"><u>Guide: How Can I Save DataCamp Tutorial Videos for Offline Learning?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-convert-videos-from-chomikuj-to-common-formats-like-mp4-mov-and-avi-with-ease/"><u>How to Convert Videos From Chomikuj to Common Formats Like MP4, MOV & AVI with Ease</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-save-your-favorite-films-as-mp4-mov-or-avi-files-directly-from-movie-box-the-ultimate-downloading-tutorial/"><u>How To Save Your Favorite Films As MP4, MOV or AVI Files Directly From Movie Box: The Ultimate Downloading Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-insiders-guide-to-youtube-money-minimum-video-views-needed/"><u>[New] 2024 Approved The Insider's Guide to YouTube Money Minimum Video Views Needed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-flippant-entry-and-exit-tips/"><u>[Updated] In 2024, Flippant Entry & Exit Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[Updated] In 2024, Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/710-i5-12450h-desktop-replacement-on-aliexpress-dual-display-wonders-over-physical-keyboard/"><u>$710 I5-12450H Desktop Replacement on AliExpress - Dual Display Wonders Over Physical Keyboard</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/best-5-image-editing-apps-with-stunning-backdrops-top-picks-for-android-and-iphone-users/"><u>Best 5 Image Editing Apps with Stunning Backdrops: Top Picks for Android and iPhone Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/download-your-favorite-songs-from-soundcloud-on-a-mac-top-tools-reviewed/"><u>Download Your Favorite Songs From SoundCloud on a Mac: Top Tools Reviewed</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-tutorial-on-how-to-stream-and-control-your-android-from-a-samsung-television/"><u>Easy Tutorial on How to Stream and Control Your Android From a Samsung Television</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-latest-leap-panther-lake-and-clearwater-forest-cpus-preparing-for-cutting-edge-lithographic-node-upgrades/"><u>Intel's Latest Leap: Panther Lake & Clearwater Forest CPUs Preparing for Cutting-Edge Lithographic Node Upgrades</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-hd-youtube-video-production-incornporate-images-and-sound-tracks-efficiently-on-windows-and-macos-systems/"><u>Mastering HD YouTube Video Production: Incornporate Images & Sound Tracks Efficiently on Windows and macOS Systems</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-tips-for-embedding-captions-in-matroska-video-format/"><u>Quick Tips for Embedding Captions in Matroska Video Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208943320-streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-c33-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme C33 2023 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-how-to-remove-apps-from-your-iphone-seamlessly/"><u>Ultimate Guide: How to Remove Apps From Your iPhone Seamlessly</u></a></li>
 </ul></div>
 

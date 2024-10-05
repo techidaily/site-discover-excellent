@@ -1,7 +1,7 @@
 ---
 title: "Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding"
-date: 2024-09-28T05:41:55.026Z
-updated: 2024-09-30T09:21:29.385Z
+date: 2024-09-29T18:42:45.972Z
+updated: 2024-10-05T19:43:09.647Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  NVIDIA NVENC acceleration for H.265/HEVC gameplay recording 
@@ -58,13 +58,6 @@ Action Tutorials
 **H.265/HEVC** gameplay recording to MP4 format with NVIDIA NVENC acceleration is available starting from **Action! 1.31.0**. Using **H.265/HEVC** with NVIDIA NVENC acceleration allows to record high quality, low bitrate, smooth gameplays producing **smaller gameplay recording files** compared to H.264/AVC.
 
  Please check NVIDIA NVENC system requirements below to see if your PC is ready to use NVIDIA NVENC accelerated H.265/HEVC encoding.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  System Requirements for NVIDIA NVENC H.265/HEVC acceleration 
 
@@ -76,10 +69,10 @@ Action Tutorials
 * The latest Action! version
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting NVIDIA NVENC H.265/HEVC for gameplay recording
@@ -89,10 +82,17 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC gameplay recordings playback 
@@ -115,17 +115,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs/"><u>[New] Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sculpting-soundscapes-the-fading-trick/"><u>[New] Sculpting Soundscapes The Fading Trick</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-stardew-key-highlights-from-ginger-isle-for-2024/"><u>[Updated] Mastering Stardew Key Highlights From Ginger Isle for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-optimization-for-new-vloggers/"><u>[Updated] YouTube Optimization for New Vloggers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-magix-acid-pros-successors-in-vector-editing/"><u>In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-ebook-orientation-tips-and-tricks-using-flipbuilder-to-get-it-right-every-time/"><u>Mastering eBook Orientation: Tips and Tricks Using FlipBuilder to Get It Right Every Time</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-and-easy-free-pdf-to-docxpptxswfimage-converter-download-now/"><u>Quick & Easy Free PDF to DOCX/PPTX/SWF/Image Converter: Download Now!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-epub-creation-with-free-tool-convert-multiple-pdfs-at-once-on-flipbuilder/"><u>Quick ePub Creation with Free Tool: Convert Multiple PDFs at Once on FlipBuilder</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/revolutionize-your-reading-experience-with-easy-right-to-left-page-turning-in-pdfs-using-flipbuildercom/"><u>Revolutionize Your Reading Experience with Easy Right-to-Left Page Turning in PDFs Using FlipBuilder.com!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/seamless-bookmarking-in-flipbook-creation-without-the-save-button-learn-the-secret-techniques-at-flipbuilder/"><u>Seamless Bookmarking in FlipBook Creation Without the Save Button? Learn the Secret Techniques at FlipBuilder</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10s-razer-deathadder-drivers-the-latest-version-guide/"><u>Win10's Razer Deathadder Drivers: The Latest Version Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-formulating-a-thrilling-film-outtakes-package/"><u>[Updated] 2024 Approved Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-vsco-camera-app/"><u>[Updated] Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-intelligent-volume-modulation-strategies-for-2024/"><u>[Updated] Intelligent Volume Modulation Strategies for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-refresher-green-screen-film-tech-basics/"><u>[Updated] Quick Refresher Green Screen Film Tech Basics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-n3-flip-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find N3 Flip to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725285689843-dvd/"><u>一般的なDVD変換ソフトウェアのエラーを解消するコツ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aprende-el-oficio-con-winxvideo-ai-una-guia-completa-para-mejorar-grabar-editar-comprimir-y-convertir-videos-perfectamente/"><u>Aprende El Oficio Con Winxvideo AI: Una Guía Completa Para Mejorar, Grabar, Editar, Comprimir Y Convertir Vídeos Perfectamente</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-hd-transformation-upgrade-your-avi-files-to-high-quality-h264-format-with-our-expert-conversion-tool/"><u>Effortless HD Transformation: Upgrade Your AVI Files to High-Quality H.264 Format with Our Expert Conversion Tool</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-accessing-your-favorite-games-tunes-without-spending-a-penny/"><u>Guide: Accessing Your Favorite Games' Tunes Without Spending a Penny</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-bypass-windows-defender-restriction-from-group-policy-a-step-by-step-guide/"><u>How to Bypass Windows Defender Restriction From Group Policy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-get-back-deleted-phone-numbers-on-samsung-smartphones-fast/"><u>How to Get Back Deleted Phone Numbers on Samsung Smartphones Fast!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-googlefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your GoogleFRP Lock</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-visual-clarity-essential-tips-for-modifying-video-display-settings/"><u>Mastering Visual Clarity: Essential Tips for Modifying Video Display Settings</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-capturing-your-entire-microsoft-teams-conference-call/"><u>Step-by-Step Guide: Capturing Your Entire Microsoft Teams Conference Call</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-moving-data-from-your-iphone-to-a-samsung-galaxy-smartphone/"><u>Step-by-Step Guide: Moving Data From Your iPhone to a Samsung Galaxy Smartphone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-for-cleaning-your-pc-removing-unwanted-ads-and-adware-from-windows-10/"><u>Step-by-Step Tutorial for Cleaning Your PC: Removing Unwanted Ads and Adware From Windows 10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-rated-2x2-image-editing-software-advanced-cropping-and-customizable-background-colors/"><u>Top-Rated 2X2 Image Editing Software : Advanced Cropping & Customizable Background Colors</u></a></li>
 </ul></div>
 

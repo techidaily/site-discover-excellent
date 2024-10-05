@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screen Recording: Activating Dynamic Selection Tool & Step-by-Step Walkthrough"
-date: 2024-09-26T05:19:27.318Z
-updated: 2024-09-30T03:16:19.645Z
+date: 2024-10-01T17:26:26.506Z
+updated: 2024-10-05T20:23:53.570Z
 tags:
   - product
 categories:
@@ -46,6 +46,13 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
  Welcome to basic introduction to Mirillis Action! Active desktop region recording mode. Active desktop region recording mode is dedicated to capture only selected screen area of Windows Vista, Windows 7, Windows 8.1, Windows 10 and Windows 11 desktop. The ultimate Action! video recording performance makes it a perfect tool for recording videos, web videos, games and any other screen activity. 
@@ -62,25 +69,11 @@ Action Tutorials
 
  Follow this tutorial to learn basics about Windows desktop region recording.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Active desktop region recording mode
 
  Select **"Active desktop region/area"** recording mode.
 
 ![Mirillis Action! - active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_tutorial_active_desktop_region_recording_mode.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Main Action! application window will hide and Action! will switch to desktop region recording view. Use mouse to adjust your region size and position. You can precisely control region size and position with keyboard: use **arrows** to move region, use **SHIFT + arrows** to resize region.
 
@@ -92,6 +85,13 @@ Action Tutorials
 
 ![Mirillis Action! - HUD in active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Active desktop region recording
 
  Press **"Start/stop recording"** button or **F9** hotkey to start Windows desktop recording. 
@@ -101,6 +101,19 @@ Action Tutorials
  Selected region frame turns red showing that Windows desktop region recording is in progress.
 
 ![Mirillis Action! - red frame shows desktop region recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_tutorial_active_desktop_region_recording.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  HUD status also changes showing that Windows desktop region recording is in progress.
 
@@ -114,29 +127,28 @@ Action Tutorials
 
 ![Mirillis Action! - desktop region recording thumbnail](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_thumbnail.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Action! includes internal fast player dedicated for video recordings playback. Select your new desktop region recording and use mouse double click on a thumbnail to start video recording playback.
 
 ![Mirillis Action! - desktop region recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_playback.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Action! HUD on desktop region video recordings
@@ -160,17 +172,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-craft-your-best-youtubing-exit-tips-from-industry-leaders/"><u>[Updated] Craft Your Best YouTubing Exit - Tips From Industry Leaders</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/canvas-kids-discover-10-free-kid-friendly-art-makers-for-mac-for-2024/"><u>Canvas Kids Discover 10 Free, Kid-Friendly Art Makers for Mac for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-new-imac-a-visual-and-powerful-upgrade-with-the-m1-processor/"><u>Comprehensive Review of the New iMac: A Visual and Powerful Upgrade with the M1 Processor</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/easy-guide-adding-instructional-flash-tips-in-your-flipbook-ebook/"><u>Easy Guide: Adding Instructional Flash Tips in Your FlipBook eBook</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/enhancing-ebooks-by-embedding-youtube-content-using-flipbuilders-tools-and-techniques/"><u>Enhancing eBooks by Embedding YouTube Content Using FlipBuilder's Tools and Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-s18-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo S18</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/integrating-various-language-translations-into-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Integrating Various Language Translations Into Flipbooks with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/is-it-possible-to-optimally-present-a-flipbook-at-full-screen-size-on-flipbuildercom/"><u>Is It Possible to Optimally Present a FlipBook at Full Screen Size on FlipBuilder.com?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ranked-top-5-ps3-virtual-players-for-pc/"><u>Ranked Top 5 PS3 Virtual Players for PC</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/simple-method-setting-up-snapchat-for-mac-users/"><u>Simple Method Setting up Snapchat for Mac Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-the-absence-of-facebook-marketplace-on-your-account/"><u>Unraveling the Mystery: The Absence of Facebook Marketplace on Your Account</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>[New] 2024 Approved Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-newcomers-playbook-for-channel-creation-and-income-growth/"><u>[New] Newcomer’s Playbook for Channel Creation & Income Growth</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-creativity-a-guide-to-instagram-story-archiving-for-2024/"><u>[New] Unlocking Creativity A Guide to Instagram Story Archiving for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-huge-impact-youtube-titles-that-sell/"><u>[Updated] Crafting a Huge Impact YouTube Titles That Sell</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/a-step-by-step-guide-mastering-octi-gameplay-on-your-windows-computer/"><u>A Step-by-Step Guide: Mastering Octi Gameplay on Your Windows Computer</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/best-2022-christmas-photo-background-applications-top-5-picks/"><u>Best 2022 Christmas Photo Background Applications: Top 5 Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-missing-gpeditmsc-windows/"><u>Comprehensive Guide to Fixing Missing Gpedit.msc Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-fixing-fcpx-plugin-problems-in-minutes-for-2024/"><u>From Zero to Hero Fixing FCPX Plugin Problems in Minutes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014758504-front-speaker-connector-not-working-heres-how-you-can-fix-it-at-home/"><u>Front Speaker Connector Not Working? Here's How You Can Fix It at Home</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-successfully-integrate-music-on-a-kindle-fire-a-comparative-guide-of-two-strategies/"><u>How To Successfully Integrate Music on a Kindle Fire - A Comparative Guide of Two Strategies</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-remote-control-with-apowermirror-desktop-app/"><u>Mastering the Art of Remote Control with ApowerMirror Desktop App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-wonders-of-windows-11/"><u>New Wonders of Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/restore-your-security-successfully-resolving-email-hacks-in-3-simple-steps/"><u>Restore Your Security: Successfully Resolving Email Hacks in 3 Simple Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
 </ul></div>
 

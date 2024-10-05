@@ -1,7 +1,7 @@
 ---
 title: How to Customize Button Icons & Colors in FlipBook Using FlipBuilder
-date: 2024-09-25T20:13:10.858Z
-updated: 2024-09-29T19:07:26.998Z
+date: 2024-09-29T17:52:50.698Z
+updated: 2024-10-05T20:48:33.278Z
 tags:
   - product
 categories:
@@ -91,6 +91,13 @@ Video Tutorial of Creating Page Flip eBook
 14. 13.Export and save settings for future uses.
 15. 14.Save and Load your project.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Page-flipping multiple PDF eBook features
 
 With the page-flipping ebook you have created, your book readers will be able to:
@@ -119,52 +126,39 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![easy steps of convert pdf to ebook](https://www.flipbuilder.com/page-flip-ebook/images/steps_for_convert_pdf_to_digital_magazine.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discount information
 
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Flash Player Required
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,20 +175,16 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-excellent.techidaily.com/1-ultimate-bootstrap-4-user-interface-kit-by-creative-tim-free-download/"><u>1. Ultimate Bootstrap 4 User Interface Kit by Creative Tim - Free Download</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-social-video-periscopes-counterparts/"><u>2024 Approved The Next Generation of Social Video Periscope's Counterparts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-the-ring-doorbell-plus-security-system/"><u>Comprehensive Analysis: The Ultimate Guide to the Ring Doorbell Plus Security System</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comprehensive-resource-guide-ui-design-tools-tips-and-templates-by-creative-tim/"><u>Comprehensive Resource Guide: UI Design Tools, Tips, and Templates by Creative Tim</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/exclusive-access-master-modern-web-with-the-now-ui-pro-react-native-framework-from-creative-tim/"><u>Exclusive Access: Master Modern Web with the Now UI Pro React Native Framework From Creative Tim</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/expand-your-web-projects-with-premium-3plus-flask-admin-and-dashboard-templates-from-creative-tim/"><u>Expand Your Web Projects with Premium 3+ Flask Admin & Dashboard Templates From Creative Tim</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-pre-designed-material-theme-for-laravel-admin-panel-a-quick-start-with-the-creativetim-templates/"><u>Free Pre-Designed Material Theme for Laravel Admin Panel - A Quick Start with the @CreativeTim Templates</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y200e-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y200e 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-securely-withdraw-from-chatgpt-for-enhanced-personal-privacy/"><u>How to Securely Withdraw From ChatGPT for Enhanced Personal Privacy</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-a-broken-start-menu-on-windows-11-a-step-by-step-guide/"><u>Repairing a Broken Start Menu on Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-v30t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme V30T</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-space-with-excellence-why-the-sale-on-arlo-pro-5s-makes-it-a-must-have-according-to-zdnet-only-180/"><u>Secure Your Space with Excellence: Why the Sale on Arlo Pro 5S Makes It a Must-Have, According to ZDNET | Only $180!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlock-superior-gaming-footage-explore-the-power-of-nvidia-nvenc-with-h265-encoding/"><u>Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vanguard-wearables-for-sporting-captures/"><u>Vanguard Wearables for Sporting Captures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-launching-laughter-hilarious-initiation-hints/"><u>[New] 2024 Approved Launching Laughter Hilarious Initiation Hints</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>[New] From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-building-brands-on-the-buzzing-platform-of-instagram-marketing/"><u>2024 Approved Building Brands on the Buzzing Platform of Instagram Marketing</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-resolving-directdraw-errors-on-win1011/"><u>Decoding and Resolving DirectDraw Errors on WIN10/11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-hd-transformation-upgrade-your-avi-files-to-high-quality-h264-format-with-our-expert-conversion-tool/"><u>Effortless HD Transformation: Upgrade Your AVI Files to High-Quality H.264 Format with Our Expert Conversion Tool</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-bypass-windows-defender-restriction-from-group-policy-a-step-by-step-guide/"><u>How to Bypass Windows Defender Restriction From Group Policy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-capturing-your-entire-microsoft-teams-conference-call/"><u>Step-by-Step Guide: Capturing Your Entire Microsoft Teams Conference Call</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-for-cleaning-your-pc-removing-unwanted-ads-and-adware-from-windows-10/"><u>Step-by-Step Tutorial for Cleaning Your PC: Removing Unwanted Ads and Adware From Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success/"><u>The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-your-photographic-vision-with-iphone-burst-shooting/"><u>Transform Your Photographic Vision with iPhone Burst Shooting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-voice-memo-creation-on-ios-devices-for-2024/"><u>Unveiling Voice Memo Creation on iOS Devices for 2024</u></a></li>
 </ul></div>
 

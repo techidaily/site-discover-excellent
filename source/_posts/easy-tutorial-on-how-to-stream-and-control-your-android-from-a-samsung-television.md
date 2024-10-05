@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial on How to Stream and Control Your Android From a Samsung Television
-date: 2024-09-27T07:30:58.248Z
-updated: 2024-09-30T06:48:23.912Z
+date: 2024-09-29T17:30:01.753Z
+updated: 2024-10-05T20:38:21.943Z
 tags:
   - product
 categories:
@@ -25,19 +25,6 @@ If you are a web writer or a developer, you know for sure about Markdowns, right
 * [Introduction of Markdown File](https://tools.techidaily.com/apowersoft/products/)
 * [Solutions](https://tools.techidaily.com/apowersoft/products/)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is Markdown file?
 
 Basically, this method is used to easily read and write plain text and at the same time, it is a conversion tool. Markdown has two things, a plain text formatting syntax and a software tool that allows you to convert your plain text into XHTML or HTML. It is also the unofficial standard on some popular coding sites and other software development platforms. It is one of the essential parts that programmers, web writers, and developers should know and must learn.
@@ -56,69 +43,83 @@ Converting Markdown to PDF files is a great way to bring your Markdown files lik
 
 ![Typora Edit Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/typora-tool-interface.png.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As one of the most reliable and versatile Markdown editors ever created, [Typora](https://tools.techidaily.com/typora/products/) is great for writing web content, but it doesn’t end there. If you also need an easy way to write some research work, it also supports you in making graphs, tables, and mathematical formats. In addition to that, you can also convert Markdown to PDF by exporting your Markdown file into PDF. In this case, you can continue reading below to learn the steps on how to do it.
 
 * Download and install the app, then open it.
 * Click the “Open” button under the “file” tab to import your Markdown file.  
 ![Importing Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/open-button-1.jpg.webp)
 * Then click the “Export” button and choose “PDF”. Once done, your file will be automatically be saved on your PC.  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Convert to PDF Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/export-button.jpg.webp)
 
 **System supported:** Windows and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Anyconv
 
 ![AnyCorv Main Webpage](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/anycorv-tool-interface.jpg.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Another solution that you can use in converting files is [Anyconv](https://anyconv.com/). It comes with a lot of different file conversion tools including MD to PDF. Using this tool, you can convert online free of charge. It is much easier and faster to convert files to a format on your computer. The best thing with this software is it allows you to use its 300+ combination of output formats without singing up for anything. However, you can only convert files one at a time. Having said that, listed below are the steps on how to convert your Md into PDF format.
 
 * Go to its official website. Choose the “HTML converter” button under the “Convert” tab.  
 ![Output Option](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/html-button.jpg.webp)
 * Click the “Choose file” button to import your file and choose “PDF”.  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Import Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/choose-file-button-1.jpg.webp)
 * Hit the “Convert” button to start to convert markdown to PDF.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Start Conversion Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/convert-button.jpg.webp)
 * Download your file by simply clicking the “Download” button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Saving Converted File](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/download-button-2.jpg.webp)
 
 **System supported:** Windows, Mac, Android, iOS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### MARKDOWNTOPDF
 
@@ -147,31 +148,39 @@ Lightweight and accessible tool designed to help you edit your Markdown files. [
 **System supported:** Windows
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dillinger
 
 ![Dillinger WebPage](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/dillinger-tool-interface.jpg.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Dillinger](https://dillinger.io/) is an online software that provides all the essential needs to create a Markdown file. It has a feature that allows you to preview the input and output documents side by side. You can also enable the auto save feature and check the word count. Moreover, the great thing with this tool is you can import Markdown file from PC, Google Drive, GitHub, Dropbox, and many more. No doubt on this tool, this is one of the great options to edit, create, as well as converting MD to PDF. Here are the detailed steps on how to convert your Markdown documents into PDF files.
 
 * Go to its official site and choose the “Markdown File” under the “IMPORT FROM” tab to upload your file.  
 ![Upload Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/markdown-file-button-1.jpg.webp)
 * Click the “EXPORT AS” tab and choose “PDF”.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Convert To PDF Button](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/export-as-button.jpg.webp)
 * Once done, it will automatically be saved in your computer.  
 ![Converted File Output](https://www.apowersoft.com//webusupload.aoscdn.com/apowercom/wp-content/uploads/2020/04/downloaded-file-1.jpg.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **System supported:** Windows, Mac, Android, iOS.
 
@@ -203,24 +212,24 @@ Rating:4.3 /5(based on 22 ratings)Thanks for your rating!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>[New] Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-10-top-value-hd-cameras-for-extreme-sports-for-2024/"><u>[Updated] 10 Top Value HD Cameras for Extreme Sports for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>[Updated] Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/adjusting-your-image-previews-changing-thumbnail-hues-on-flipbuilder/"><u>Adjusting Your Image Previews: Changing Thumbnail Hues on FlipBuilder</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ake-videovervolumen-din-de-5-beste-teknikker-i-spiret-online-og-offline/"><u>Åke Videovervolumen Din: De 5 Beste Teknikker I Spiret Online Og Offline</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/avoid-common-mistakes-learn-how-to-orient-your-flip-book-ideally-insights-from-flipbuildercom-experts/"><u>Avoid Common Mistakes - Learn How to Orient Your Flip Book Ideally, Insights From FlipBuilder.com Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/boosting-readership-through-shares-seamlessly-promote-your-page-flipping-ebooks-on-facebook-twitter-and-linkedin-with-flipbuilder/"><u>Boosting Readership Through Shares: Seamlessly Promote Your Page-Flipping eBooks on Facebook, Twitter, and LinkedIn with FlipBuilder</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-your-images-into-a-stunning-mac-photo-album-with-flipbuilder-effortless-image-mac-conversion/"><u>Convert Your Images Into a Stunning Mac Photo Album with FlipBuilder - Effortless Image Mac Conversion!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/could-buying-certain-products-lead-to-loss-of-trademark-rights-discover-insights-on-flipbuildercom/"><u>Could Buying Certain Products Lead to Loss of Trademark Rights? Discover Insights on FlipBuilder.com</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/create-custom-auto-loading-sites-on-startup-using-flipbuilder-technology/"><u>Create Custom Auto-Loading Sites on Startup Using FlipBuilder Technology</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/creating-an-effective-name-for-your-flipbook-program-generator-tips-and-tricks/"><u>Creating an Effective Name for Your Flipbook Program Generator - Tips & Tricks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-all-the-different-file-formats-offered-by-writers-on-flipbuildercom/"><u>Discover All the Different File Formats Offered by Writers on FlipBuilder.com</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/do-downloaded-ebooks-from-whether-output-reflect-flip-builders-version-mark-insights-for-readers/"><u>Do Downloaded eBooks From Whether Output Reflect Flip Builder's Version Mark? - Insights for Readers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effectively-acquire-and-integrate-auto-cutting-edge-gpt-into-your-system/"><u>How to Effectively Acquire and Integrate Auto-Cutting-Edge GPT Into Your System.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-streaming-woes-permanent-fix-for-kodi-stutter-and-buffering/"><u>Solve Your Streaming Woes: Permanent Fix for Kodi Stutter & Buffering</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ruth-behind-asmr-video-enthusiasm-for-2024/"><u>The Truth Behind ASMR Video Enthusiasm for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-timeless-classics-in-stop-motion-cinema-history/"><u>Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-in-depth-look-at-the-google-pixel-5-flagship-experience/"><u>Unveiling the Pros and Cons: In-Depth Look at the Google Pixel 5 Flagship Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-gameplay-transformations-roguelikes-vs-roguiles/"><u>[Updated] Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-path-to-digital-fame-on-youtube-begins-here/"><u>[Updated] The Path to Digital Fame on YouTube Begins Here</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-hd-transformation-upgrade-your-avi-files-to-high-quality-h264-format-with-our-expert-conversion-tool/"><u>Effortless HD Transformation: Upgrade Your AVI Files to High-Quality H.264 Format with Our Expert Conversion Tool</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-bypass-windows-defender-restriction-from-group-policy-a-step-by-step-guide/"><u>How to Bypass Windows Defender Restriction From Group Policy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-get-back-deleted-phone-numbers-on-samsung-smartphones-fast/"><u>How to Get Back Deleted Phone Numbers on Samsung Smartphones Fast!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles/"><u>In 2024, Vlogging Hurdles How to Triumph Over Ten Common Obstacles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964479036-lian-li-lancool-iii-computer-chassis-now-at-an-unbeatable-price-just-119/"><u>Lian Li Lancool III Computer Chassis Now at an Unbeatable Price: Just $119!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-visual-clarity-essential-tips-for-modifying-video-display-settings/"><u>Mastering Visual Clarity: Essential Tips for Modifying Video Display Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pixel-vs-apple-the-ultimate-showdown-between-the-google-pixel-watch-and-apple-watch-series-9-determining-the-best-investment-for-tech-enthusiasts/"><u>Pixel Vs. Apple: The Ultimate Showdown Between the Google Pixel Watch and Apple Watch Series 9 - Determining the Best Investment for Tech Enthusiasts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-capturing-your-entire-microsoft-teams-conference-call/"><u>Step-by-Step Guide: Capturing Your Entire Microsoft Teams Conference Call</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-moving-data-from-your-iphone-to-a-samsung-galaxy-smartphone/"><u>Step-by-Step Guide: Moving Data From Your iPhone to a Samsung Galaxy Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-obtaining-access-from-trustedinstaller-on-windows-10/"><u>Step-by-Step Guide: Obtaining Access From TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-for-cleaning-your-pc-removing-unwanted-ads-and-adware-from-windows-10/"><u>Step-by-Step Tutorial for Cleaning Your PC: Removing Unwanted Ads and Adware From Windows 10</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-rated-2x2-image-editing-software-advanced-cropping-and-customizable-background-colors/"><u>Top-Rated 2X2 Image Editing Software : Advanced Cropping & Customizable Background Colors</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlock-audio-tracks-in-movies-with-these-three-simple-techniques/"><u>Unlock Audio Tracks in Movies with These Three Simple Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-8-video-editing-made-easy-with-movie-maker-tips-and-tricks/"><u>Windows 8 Video Editing Made Easy with Movie Maker Tips & Tricks</u></a></li>
 </ul></div>
 
