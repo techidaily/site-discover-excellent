@@ -1,7 +1,7 @@
 ---
 title: How to Customize Button Icons & Colors in FlipBook Using FlipBuilder
-date: 2024-09-29T17:52:50.698Z
-updated: 2024-10-05T20:48:33.278Z
+date: 2024-10-09T03:17:52.527Z
+updated: 2024-10-11T01:00:26.313Z
 tags:
   - product
 categories:
@@ -91,13 +91,6 @@ Video Tutorial of Creating Page Flip eBook
 14. 13.Export and save settings for future uses.
 15. 14.Save and Load your project.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## II. Page-flipping multiple PDF eBook features
 
 With the page-flipping ebook you have created, your book readers will be able to:
@@ -126,10 +119,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![easy steps of convert pdf to ebook](https://www.flipbuilder.com/page-flip-ebook/images/steps_for_convert_pdf_to_digital_magazine.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discount information
@@ -137,28 +130,41 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,16 +181,19 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-launching-laughter-hilarious-initiation-hints/"><u>[New] 2024 Approved Launching Laughter Hilarious Initiation Hints</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>[New] From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-building-brands-on-the-buzzing-platform-of-instagram-marketing/"><u>2024 Approved Building Brands on the Buzzing Platform of Instagram Marketing</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-resolving-directdraw-errors-on-win1011/"><u>Decoding and Resolving DirectDraw Errors on WIN10/11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-hd-transformation-upgrade-your-avi-files-to-high-quality-h264-format-with-our-expert-conversion-tool/"><u>Effortless HD Transformation: Upgrade Your AVI Files to High-Quality H.264 Format with Our Expert Conversion Tool</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-bypass-windows-defender-restriction-from-group-policy-a-step-by-step-guide/"><u>How to Bypass Windows Defender Restriction From Group Policy: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-capturing-your-entire-microsoft-teams-conference-call/"><u>Step-by-Step Guide: Capturing Your Entire Microsoft Teams Conference Call</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-for-cleaning-your-pc-removing-unwanted-ads-and-adware-from-windows-10/"><u>Step-by-Step Tutorial for Cleaning Your PC: Removing Unwanted Ads and Adware From Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success/"><u>The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transform-your-photographic-vision-with-iphone-burst-shooting/"><u>Transform Your Photographic Vision with iPhone Burst Shooting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-voice-memo-creation-on-ios-devices-for-2024/"><u>Unveiling Voice Memo Creation on iOS Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-sift-through-these-top-9-online-portals-of-intricate-3d-letterforms/"><u>[New] 2024 Approved Sift Through These Top 9 Online Portals of Intricate 3D Letterforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleashing-the-power-of-your-instagram-vids-appeal/"><u>[New] Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlimited-savvy-instagrams-infinite-save-tool/"><u>[Updated] In 2024, Unlimited Savvy Instagram's Infinite Save Tool</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-saving-your-social-moments-facebook-video-guide/"><u>[Updated] Saving Your Social Moments Facebook Video Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-step-by-step-tutorial-converting-video-object-vob-files-into-imovie-projects/"><u>1. Step-by-Step Tutorial: Converting Video Object (VOB) Files Into iMovie Projects</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/best-free-anime-streaming-websites-top-10-picks-for-non-stop-binge-watching-updated-list/"><u>Best Free Anime Streaming Websites: Top 10 Picks for Non-Stop Binge Watching - Updated List</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/demystifying-risky-software-easy-explanation-with-illustrative-charts/"><u>Demystifying Risky Software - Easy Explanation with Illustrative Charts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/discover-the-ultimate-audio-experience-top-mac-compatible-music-players-unveiled/"><u>Discover the Ultimate Audio Experience: Top Mac-Compatible Music Players Unveiled!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-effortlessly-connect-zoom-with-gmail-for-2024/"><u>How to Effortlessly Connect Zoom with Gmail for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c51-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C51 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-in-depth-guide-to-screen-capturing-in-online-meetings/"><u>In 2024, The In-Depth Guide to Screen Capturing in Online Meetings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-12-proplus-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme 12 Pro+ 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-video-face-replacement-with-two-innovative-strategies/"><u>Mastering Video Face Replacement with Two Innovative Strategies</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/stealth-tactics-can-viruses-evade-detection-by-windows-security-systems-like-defender/"><u>Stealth Tactics: Can Viruses Evade Detection by Windows Security Systems Like Defender?</u></a></li>
 </ul></div>
 
