@@ -1,7 +1,7 @@
 ---
 title: "Get Your New Mixing Gear: Update to Pro Cake's DEX 3 Version 3.11.0.1 for Free!"
-date: 2024-11-25T23:01:21.716Z
-updated: 2024-11-30T23:14:25.312Z
+date: 2024-12-05T02:31:53.693Z
+updated: 2024-12-09T00:02:21.125Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ _**Note:** A DEX 3 update that will include new features will be posted for down
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.2
@@ -56,7 +56,7 @@ _**DEX 3.11.0.2 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our the latest update to our DEX 3 **DJ Software**, or the included support for the **Pioneer DDJ-SX3 DJ Controller**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/dex31102-update.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>[Updated] 2024 Approved Simplifying Massive Media Swap IPhone-to-Mac File Relocation</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ai-windowsmac-os/"><u>AIオメイバックアッパー: Windows/Mac OS用優れたバックアップソリューション</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/cross-platform-image-recovery-tactics-employing-aomei-backupper-features/"><u>Cross-Platform Image Recovery Tactics Employing AOMEI Backupper Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-civi-3-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Civi 3 Device SIM</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/icloud-photo-deletion-guide-retain-local-copies-on-your-iphone/"><u>ICloud Photo Deletion Guide: Retain Local Copies on Your iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c110-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C110 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sonic-sequencing-for-improved-imovie-projects/"><u>In 2024, Sonic Sequencing for Improved iMovie Projects</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/komplett-fehlerfreies-systemubertragung-auf-neue-festplatte-ohne-neukonfiguration-schritt-fur-schritt-anleitung/"><u>Komplett Fehlerfreies Systemübertragung Auf Neue Festplatte Ohne Neukonfiguration: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prestigious-music-archives-for-vfx-artists/"><u>Prestigious Music Archives for VFX Artists</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swiftly-enhance-videos-on-android-devices-for-2024/"><u>Swiftly Enhance Videos on Android Devices for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-tier-business-data-safety-strategies-expert-tips-and-efficient-techniques/"><u>Top-Tier Business Data Safety Strategies: Expert Tips & Efficient Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-new-frontier-in-recording-captureking-review/"><u>[New] In 2024, The New Frontier in Recording 'CaptureKing' Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/content-creators-guide-to-thriving-in-a-digital-economy-on-vimeo/"><u>Content Creators' Guide to Thriving in a Digital Economy on Vimeo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-and-past-macos-versions-explained-your-ultimate-reference-guide/"><u>Current and Past macOS Versions Explained: Your Ultimate Reference Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/customizing-your-typing-experience-on-windows-a-comprehensive-tutorial-from-yl-softwares-perspective/"><u>Customizing Your Typing Experience on Windows: A Comprehensive Tutorial From YL Software's Perspective</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-of-siri-looks-brighter-as-apple-plans-major-upgrades-for-intelligence-exclusive/"><u>Future of Siri Looks Brighter as Apple Plans Major Upgrades for Intelligence | Exclusive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-enabling-wake-on-lan-functionality-on-windows-11-systems/"><u>Guide: Enabling Wake-on-LAN Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-resolution-lego-wallpaper-hd-backgrounds-and-images-download-gallery-by-yl-computing/"><u>High-Resolution Lego Wallpaper HD Backgrounds & Images - Download Gallery by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-f25-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo F25 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-guide-setting-up-hotkeys-for-instant-date-and-time-entry-across-all-programs-tips-by-yl-tech-experts/"><u>Quick Guide: Setting Up Hotkeys for Instant Date & Time Entry Across All Programs - Tips by YL Tech Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-sound-problems-in-windows-and-macos-understanding-why-your-sound-card-fails-to-function-expert-advice-from-yl-software/"><u>Solving Sound Problems in Windows & MacOS: Understanding Why Your Sound Card Fails to Function - Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
 </ul></div>
 

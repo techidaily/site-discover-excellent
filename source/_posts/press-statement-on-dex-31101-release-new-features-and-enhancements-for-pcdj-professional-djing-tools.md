@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2024-11-29T23:58:00.971Z
-updated: 2024-11-30T23:22:09.128Z
+date: 2024-12-02T06:21:34.544Z
+updated: 2024-12-08T21:39:21.102Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-elite-series-for-engaging-typographic-movement-for-2024/"><u>[Updated] Elite Series for Engaging Typographic Movement for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-beyond-expression-understanding-snapchat-emojis-deeply/"><u>2024 Approved Beyond Expression Understanding Snapchat Emojis Deeply</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-upgrading-to-windows/"><u>Can Upgrading to Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cle-de-serie-pour-winx-dvd-ripper-platine-version-gratuite-et-mise-a-jour-202/"><u>Clé De Série Pour WinX DVD Ripper Platine - Version Gratuite Et Mise À Jour 202</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-restaurer-avec-succes-les-versions-de-demonstration-de-windows-11serveur-a-partir-dune-image-iso-un-manuel-complet/"><u>Comment Restaurer Avec Succès Les Versions De Démonstration De Windows 11/Serveur À Partir D'une Image ISO : Un Manuel Complet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ver-the-ultimate-blend-of-mind-body-and-spirit-in-yoga/"><u>Discover the Ultimate Blend of Mind, Body, and Spirit in Yoga</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effiziente-methoden-zum-wiederherstellen-von-windowsold-professionelle-datenwiedergewinnung/"><u>Effiziente Methoden Zum Wiederherstellen Von 'Windows.old' - Professionelle Datenwiedergewinnung</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-disrupted-android-video-viewing/"><u>Fix Disrupted Android Video Viewing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-holdscreen-rapid-snapshot-manual/"><u>In 2024, HoldScreen Rapid Snapshot Manual</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782383-9781591437727-speaking-with-nature/"><u>Speaking with Nature | Free Book</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-techniques-for-ripping-burning-and-cloning-data-on-dvds-and-cds/"><u>Ultimate Techniques for Ripping, Burning & Cloning Data on DVDs and CDs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-tier-srt-transformations-for-mac-and-windows-pcs/"><u>[New] In 2024, Top-Tier SRT Transformations for Mac & Windows PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-discover-top-10-budget-friendly-high-quality-webcams/"><u>[Updated] In 2024, Discover Top 10 Budget-Friendly, High-Quality Webcams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leading-talents-premier-instragram-hlv-creators/"><u>[Updated] Leading Talents Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-priority-picks-high-rated-graphics-cards-for-seamless-playback-for-2024/"><u>[Updated] Priority Picks High-Rated Graphics Cards for Seamless Playback for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-experience-hassle-free-mixing-with-complimentary-dj-programs-and-techniques/"><u>1. Experience Hassle-Free Mixing with Complimentary DJ Programs and Techniques</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/bed-rest-or-reduced-activity-levels-in-some-cases-restricting-physical-activities-can-help-reduce-risks-associated-with-conditions-like-cervical-insufficien99/"><u>Bed Rest or Reduced Activity Levels: In some Cases, Restricting Physical Activities Can Help Reduce Risks Associated with Conditions Like Cervical Insufficiency or Early Labor Signs.</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/boost-your-gameplay-expert-tips-on-tweaking-gpu-settings-for-enhanced-graphics-and-speed-yl-computing/"><u>Boost Your Gameplay: Expert Tips on Tweaking GPU Settings for Enhanced Graphics and Speed - YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/boost-your-pcs-velocity-with-proven-strategies-by-yl-computing-and-yl-software-experts/"><u>Boost Your PC's Velocity with Proven Strategies by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/esr-debuts-advanced-qi2-magsafe-battery-booster-supercharge-your-iphone-16-efficiently-and-coolly-insights-from-zdnet/"><u>ESR Debuts Advanced Qi2 MagSafe Battery Booster: Supercharge Your iPhone 16 Efficiently and Coolly - Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/is-sole-dependence-on-windows-defender-sufficient-for-your-computers-security-needs-discover-what-yl-software-has-to-say/"><u>Is Sole Dependence on Windows Defender Sufficient for Your Computer's Security Needs? – Discover What YL Software Has to Say</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-kinemaster-for-mac-a-step-by-step-installation-guide/"><u>New In 2024, KineMaster for Mac A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-using-windows-tips-from-yl-software/"><u>Step-by-Step Guide: Locating Any File on Your PC Using Windows - Tips From YL Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-stabilization-tools-for-smooth-footage/"><u>Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-to-secure-your-data-the-best-methods-for-file-backups-according-to-yl-software/"><u>Ultimate Guide to Secure Your Data: The Best Methods for File Backups, According to YL Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlocking-ebooks-a-python-script-guide-to-removing-drm-from-epub-files/"><u>Unlocking eBooks: A Python Script Guide to Removing DRM From EPUB Files</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/vibrant-american-flag-background-imagery-and-graphics-1920x1/"><u>Vibrant American Flag Background Imagery & Graphics (1920X1</u></a></li>
 </ul></div>
 

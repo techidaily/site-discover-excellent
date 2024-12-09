@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2024-11-24T01:10:38.373Z
-updated: 2024-11-30T17:10:30.819Z
+date: 2024-12-07T01:38:40.410Z
+updated: 2024-12-09T02:40:29.402Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-high-speed-visual-snapshot-and-voice-commentary-feature/"><u>[New] High-Speed Visual Snapshot & Voice Commentary Feature</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>[Updated] In 2024, Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/acronis-true-image-remains-unmatched-in-cloning-features-opgelopen-review/"><u>Acronis True Image Remains Unmatched in Cloning Features - Opgelopen Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/bewaarde-daten-na-chkdsk-procedure-veiligheidstips-voor-herstel-vanaf-verwijderde-bestanden/"><u>Bewaarde Daten Na CHKDSK-Procedure: Veiligheidstips Voor Herstel Vanaf Verwijderde Bestanden</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-asus-rog-phone-7-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Asus ROG Phone 7 Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-ripristinare-i-dati-e-le-parti-corrosi-su-windows-11/"><u>Come Ripristinare I Dati E Le Parti Corrosi Su Windows 11</u></a></li>
-<li><a href="https://win-great.techidaily.com/deteccao-de-plagio/"><u>Detecção De Plágio</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27-4g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27 4G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monthly-income-on-youtubes-revenue-model/"><u>In 2024, Monthly Income on YouTube's Revenue Model?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-business-tech-enhance-workflows-using-windows-small-officehome-server-solutions/"><u>Mastering Business Tech: Enhance Workflows Using Windows Small Office/Home Server Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixel-power-play-best-speedy-game-applications/"><u>Pixel Power Play Best Speedy Game Applications</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-guide-extracting-information-from-a-black-screened-laptop-efficiently/"><u>Quick Guide: Extracting Information From a Black-Screened Laptop Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-ultimate-websites-for-stunning-hdr-skies/"><u>[New] 10 Ultimate Websites for Stunning HDR Skies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-youtuber-enigma-decoded-exciting-questionnaires-leading-to-your-ideal-creator-profile/"><u>[New] The YouTuber Enigma Decoded Exciting Questionnaires Leading to Your Ideal Creator Profile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cease-playback-failures-fix-facebook-videos/"><u>[Updated] 2024 Approved Cease Playback Failures - Fix Facebook Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-correct-iosandroid-video-failures-on-fb-for-2024/"><u>[Updated] Correct iOS/Android Video Failures on FB for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[Updated] Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-features-vs-competitors/"><u>[Updated] Understanding SNS HDR Pro’s Features Vs. Competitors</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-protect-your-digital-wealth-expert-strategies-for-cryptocurrency-security-insights-from-yl-computing/"><u>1. Protect Your Digital Wealth: Expert Strategies for Cryptocurrency Security - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bezplatna-online-konverzia-mp4-do-wav-s-movavi-prevodnik-foteokonverzeru/"><u>Bezplatná Online Konverziá MP4 Do WAV S Movavi - Převodník Foteokonverzéru</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-xr-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone XR When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-slug-lines-a-step-by-step-approach/"><u>In 2024, Crafting Compelling Slug Lines A Step-by-Step Approach</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-windows-registry-recovery-tips-from-yl-software-experts/"><u>Mastering Windows Registry Recovery: Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mobile-apps-for-real-time-tracking-of-crypto-wallet-balances-features-and-reviews-developed-by-yl-computing/"><u>Mobile Apps for Real-Time Tracking of Crypto Wallet Balances: Features & Reviews - Developed by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/newly-launched-pcdj-dex-38-version-available-for-immediate-download-secure-it-here/"><u>Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/optimizing-power-consumption-expert-tips-from-yl-software-specialists/"><u>Optimizing Power Consumption: Expert Tips From YL Software Specialists</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-the-mystery-of-missing-sounds-on-windows-systems-with-expert-tips-from-yl-computing/"><u>Solving the Mystery of Missing Sounds on Windows Systems with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/the-influential-pioneer-sun-yat-sen-understanding-his-importance-through-yl-computings-insight/"><u>The Influential Pioneer, Sun Yat-Sen - Understanding His Importance Through YL Computing's Insight</u></a></li>
 </ul></div>
 

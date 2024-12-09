@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Karaoke Enhancements in PCDJ's DEX Version 3.10 and Beyond - A Comprehensive Video Guide
-date: 2024-11-27T16:59:54.696Z
-updated: 2024-11-30T16:53:42.137Z
+date: 2024-12-08T01:08:51.415Z
+updated: 2024-12-08T19:22:34.172Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In the video above we demonstrate the new karaoke singer rotation list, singer a
 _Have questions about DEX 3, the versatile **DJ mixing software** that allows you to mix all types of media? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/dex310kj-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima/"><u>[New] 2024 Approved Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-watermark-implementation-for-social-posts/"><u>[Updated] In 2024, Navigating Watermark Implementation for Social Posts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728470435892-windows-1011/"><u>直感的な設置手引き：Windows 10/11 - クラウド配信対物理インストール比較</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/chromebook-windows/"><u>Chromebook 対 Windows - それぞれの特長と最適な使用シナリオは何ですか?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complimentary-guide-retrieving-lost-information-on-a-deleted-external-hard-drive/"><u>Complimentary Guide: Retrieving Lost Information on a Deleted External Hard Drive</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/facile-et-rapide-recuperation-de-fichiers-sur-le-hdd-wd-methode-etape-par-etape/"><u>Facile Et Rapide : Récupération De Fichiers Sur Le HDD WD - Méthode Étape Par Étape</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guida-completa-per-il-ripristino-di-iphone-senza-perdita-dei-dati/"><u>Guida Completa per Il Ripristino Di iPhone Senza Perdita Dei Dati</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-digital-tools-for-photographic-based-media-conversion/"><u>Ideal Digital Tools for Photographic-Based Media Conversion</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-latest-bluetooth-drivers-from-microsoft-for-optimal-windows-performance/"><u>Install Latest Bluetooth Drivers From Microsoft for Optimal Windows Performance</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/oplossing-vinden-voor-verdwenen-fotos-op-je-camerase-sd-plaat/"><u>Oplossing Vinden Voor Verdwenen Fotos Op Je Camerase SD-Plaat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-solution-to-solve-your-mfc42dll-issue/"><u>The Complete Solution to Solve Your mfc42.dll Issue</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-video-editing-essentials-cutting-and-joining-tools-for-starters/"><u>Updated 2024 Approved Free Video Editing Essentials Cutting and Joining Tools for Starters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-srt-files-on-youtube-and-twitter/"><u>2024 Approved Navigating the World of SRT Files on YouTube and Twitter</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-sound-preferences-via-the-windows-control-panel-a-step-by-step-guide/"><u>Adjusting Your Sound Preferences via the Windows Control Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-speed-up-your-computers-boot-process-essential-tips-from-yl-software-experts/"><u>How to Speed Up Your Computer's Boot Process: Essential Tips From YL Software Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/iconic-discussions-in-history-top-10-on-reddit-for-2024/"><u>Iconic Discussions in History - Top 10 on Reddit for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-blueprint-mastering-telegram-web/"><u>In 2024, The Beginner's Blueprint Mastering Telegram Web</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-13-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/maximize-efficiency-on-your-pc-with-advanced-windows-11-optimization-techniques-for-dex-lyrx-and-pcdj-users/"><u>Maximize Efficiency on Your PC with Advanced Windows 11 Optimization Techniques for DEX, LYRX, and PCDJ Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/press-statement-on-dex-31101-release-new-features-and-enhancements-for-pcdj-professional-djing-tools/"><u>Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-fails-to-boot-yl-tech-solutions/"><u>Troubleshooting Steps: What to Do When Your PC Fails to Boot - YL Tech Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

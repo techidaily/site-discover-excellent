@@ -1,7 +1,7 @@
 ---
 title: Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.
-date: 2024-11-26T22:32:17.494Z
-updated: 2024-11-30T23:01:14.911Z
+date: 2024-12-03T18:33:25.667Z
+updated: 2024-12-09T02:41:34.683Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-learn-to-navigate-two-screens-a-comprehensible-guide-to-floating-window-on-netflix/"><u>[New] In 2024, Learn to Navigate Two Screens A Comprehensible Guide to Floating Window on Netflix</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/acer-notebook-windows-n-tune-up-os/"><u>Acer Notebook Windows N Tune-Up: OSインストール後のリカバリ方法</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-effacer-un-signet-de-bureau-windows-11/"><u>Comment Effacer Un Signet De Bureau Windows 11?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-ps5-slim-and-standard-ps5-key-differences-explored/"><u>Comparing PS5 Slim and Standard PS5: Key Differences Explored</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-pratique-comment-fermer-correctement-un-fichier-en-codevant-dun-logiciel/"><u>Guide Pratique : Comment Fermer Correctement Un Fichier En Codévant D'un Logiciel</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/herstellen-van-partities-in-windows-1011-oplossingen-voor-niet-toegezette-componenten/"><u>Herstellen Van Partities in Windows 10/11: Oplossingen Voor Niet-Toegezette Componenten</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-damaged-registry-settings-for-optimal-dvdcd-rom-functionality-in-windows-11-error-code-19/"><u>How to Repair Damaged Registry Settings for Optimal DVD/CD-ROM Functionality in Windows 11 [Error Code 19]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco Phone without Google Account?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-the-star-wars-battlefront-iis-persistent-black-screen-issue/"><u>Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-on-rebooting-a-lenovo-g50-computer-for-newbies/"><u>Step-by-Step Tutorial on Rebooting a Lenovo G50 Computer for Newbies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/upgrade-your-videos-with-no-cost-convert-mp2-audio-tracks-to-mp4-using-web-based-service/"><u>Upgrade Your Videos with No Cost - Convert MP2 Audio Tracks to MP4 Using Web-Based Service</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] In 2024, A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>[New] In 2024, Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-recorder-showdown-features-and-prices-compared-for-2024/"><u>[New] Screen Recorder Showdown Features and Prices Compared for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hats-youtube-creative-commons-and-how-to-use-it-to-make-video-for-2024/"><u>[New] What's YouTube Creative Commons and How to Use It to Make Video for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/accelerate-your-pc-top-strategies-from-yl-computings-expert-guide/"><u>Accelerate Your PC: Top Strategies From YL Computing’s Expert Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204948974-diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Huawei P60.</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-the-impact-of-the-grand-canal-on-tang-dynasty-prosperity-insights-from-yl-computing-and-yl-software/"><u>Exploring the Impact of the Grand Canal on Tang Dynasty Prosperity - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-various-energy-saving-modes-a-comprehensive-guide-to-windows-10-power-options-insights-by-yl-software/"><u>Exploring Various Energy Saving Modes: A Comprehensive Guide to Windows 10 Power Options - Insights by YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-organizational-skills-file-and-folder-rename-techniques-for-windows-users-expert-advice-by-yl-software/"><u>Mastering Organizational Skills: File & Folder Rename Techniques for Windows Users - Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-excel-file-distribution-in-windows-environments-by-yl-software-experts/"><u>Mastering the Art of Excel File Distribution in Windows Environments by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-display-malfunctions-could-it-be-your-gpu-driver-expert-advice-by-yl-software/"><u>Troubleshooting Display Malfunctions: Could It Be Your GPU Driver? Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-softwares-ultimate-strategy-for-discovering-credible-cryptocurrency-information-and-updates-online/"><u>YL Software's Ultimate Strategy for Discovering Credible Cryptocurrency Information and Updates Online</u></a></li>
 </ul></div>
 
