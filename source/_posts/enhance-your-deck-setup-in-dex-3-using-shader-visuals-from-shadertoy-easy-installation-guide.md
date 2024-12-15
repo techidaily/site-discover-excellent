@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide
-date: 2024-12-05T17:56:21.866Z
-updated: 2024-12-08T18:04:26.716Z
+date: 2024-12-13T21:28:42.438Z
+updated: 2024-12-14T17:27:30.302Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where do you get Shaders?
@@ -39,7 +39,7 @@ Shaders also vary greatly on how much resources they will use — from light to 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shaders
@@ -50,16 +50,12 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
@@ -71,7 +67,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
@@ -95,6 +91,10 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-08-01 11:43:222018-10-02 12:56:06DEX 3 DJ Software | How to Install ‘Shaders’ for On-Screen Visualizations from Shadertoy.com}
@@ -114,18 +114,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] 2024 Approved Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-obs-alternatives-and-enhancements-for-2024/"><u>[New] OBS Alternatives and Enhancements for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>[Updated] 2024 Approved Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-windows-enable-rolling-back-files-and-system-changes-to-a-previous-state-expert-tips-by-yl-computing/"><u>Can Windows Enable Rolling Back Files and System Changes to a Previous State? - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-methods-for-documenting-overwatch-games/"><u>Essential Methods for Documenting Overwatch Games</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-does-yl-software-shield-your-digital-assets-from-risks-in-the-cryptoverse/"><u>How Does YL Software Shield Your Digital Assets From Risks in the Cryptoverse?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-mend-a-broken-logitech-mouse-scroll-wheel/"><u>How To Correctly Address and Mend a Broken Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-oneplus-ace-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from OnePlus Ace 2?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/limited-offer-enhance-your-red-mobile-with-dex-3-for-only-129-available-until-aug-24-pcdj-experts/"><u>Limited Offer! Enhance Your RED Mobile with DEX 3 for Only $129 - Available Until Aug 24 | PCDJ Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/masterful-dj-performance-tutorial-streamline-your-setups-and-recordings-using-pcdj-dex-3-software/"><u>Masterful DJ Performance Tutorial: Streamline Your Setups & Recordings Using PCDJ DEX 3 Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-hardware-identifying-and-fixing-issues-effectively-techsolutions/"><u>Troubleshooting Your PC's Hardware: Identifying & Fixing Issues Effectively - TechSolutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-pdf-a-step-by-step-guide-to-removing-passwords/"><u>Unlocking Your PDF: A Step-by-Step Guide to Removing Passwords</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unmatched-action-footage-top-7-best-camcorders/"><u>[New] In 2024, Unmatched Action Footage Top 7 Best Camcorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-mobile-dev-editor-software-guide/"><u>[New] Premier Mobile Dev Editor Software Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-real-time-broadcast-periscope-essentials/"><u>2024 Approved Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210742726-9781667447667-apprenez-a-mediter/"><u>Apprenez à méditer | Free Book</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/efficiently-removing-software-expert-techniques-by-yl-software-solutions/"><u>Efficiently Removing Software: Expert Techniques by YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-mao-zedongs-influence-on-the-chinese-revolution-a-deep-dive-by-yl-computing/"><u>Exploring Mao Zedong's Influence on the Chinese Revolution: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/insights-into-the-opium-wars-a-deep-dive-content-by-yl-computing-and-yl-software/"><u>Insights Into the Opium Wars: A Deep Dive - Content by YL Computing & YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989111203-mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/reliability-of-digital-wallet-balance-inspection-utilities-in-the-crypto-space-expertise-from-yl-software-solutions/"><u>Reliability of Digital Wallet Balance Inspection Utilities in the Crypto Space – Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

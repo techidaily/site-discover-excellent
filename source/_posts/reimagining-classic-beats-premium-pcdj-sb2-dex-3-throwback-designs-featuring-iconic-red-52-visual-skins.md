@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Classic Beats: Premium PCDJ SB2 DEX 3 Throwback Designs Featuring Iconic Red 5.2 Visual Skins"
-date: 2024-12-08T01:39:16.701Z
-updated: 2024-12-09T06:09:47.782Z
+date: 2024-12-13T22:53:32.726Z
+updated: 2024-12-15T01:49:24.265Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,24 +75,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>2024 Approved The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-youtube-earnings-insight-2023-for-2024/"><u>Ajey's YouTube Earnings Insight - 2023 for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/biological-self-healing-uses-bacteria-within-microcapsules-that-produce-calcium-carbonate-to-seal-cracks-upon-exposure-to-water/"><u>Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/classification-of-fb-video-sizes/"><u>Classification of FB Video Sizes</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/customizing-your-typing-experience-on-windows-a-comprehensive-tutorial-from-yl-softwares-perspective/"><u>Customizing Your Typing Experience on Windows: A Comprehensive Tutorial From YL Software's Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-high-res-pixel-myths-in-consoles/"><u>Debunking High-Res Pixel Myths in Consoles</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-resolution-lego-wallpaper-hd-backgrounds-and-images-download-gallery-by-yl-computing/"><u>High-Resolution Lego Wallpaper HD Backgrounds & Images - Download Gallery by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/identifying-and-fixing-memory-issues-on-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Fixing Memory Issues on Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-essential-vr-game-development-tools-for-modern-creators/"><u>In 2024, Essential VR Game Development Tools for Modern Creators</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/personalizing-user-profiles-a-comprehensive-guide-with-yl-computing/"><u>Personalizing User Profiles: A Comprehensive Guide with YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/protect-your-system-does-windows-defender-thwart-ransomware-attempts-advice-by-yl-software-specialists/"><u>Protect Your System: Does Windows Defender Thwart Ransomware Attempts? – Advice by YL Software Specialists</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-guide-setting-up-hotkeys-for-instant-date-and-time-entry-across-all-programs-tips-by-yl-tech-experts/"><u>Quick Guide: Setting Up Hotkeys for Instant Date & Time Entry Across All Programs - Tips by YL Tech Experts</u></a></li>
-<li><a href="https://win-tips.techidaily.com/resolvez-le-probleme-de-non-affichage-des-fichiers-et-dossiers-caches-sous-windows-1011-avec-ces-astuces-rapides/"><u>Résolvez Le Problème De Non-Affichage Des Fichiers Et Dossiers Cachés Sous Windows 10/11 Avec Ces Astuces Rapides</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-sound-problems-in-windows-and-macos-understanding-why-your-sound-card-fails-to-function-expert-advice-from-yl-software/"><u>Solving Sound Problems in Windows & MacOS: Understanding Why Your Sound Card Fails to Function - Expert Advice From YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nokia-g22-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nokia G22</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unauthorized-advantages-of-ai-conversational-tools/"><u>Unauthorized Advantages of AI Conversational Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] In 2024, Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-6-must-try-instagram-reel-apps/"><u>[Updated] In 2024, Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-pinnacle-of-bike-gaming-adventures/"><u>[Updated] The Pinnacle of Bike Gaming Adventures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-compilation-of-2023-writers-on-youtube/"><u>[Updated] The Ultimate Compilation of 2023’ Writers on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/designing-eye-catching-instagram-post-previews-for-2024/"><u>Designing Eye-Catching Instagram Post Previews for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-coffee-themed-desktop-backgrounds-and-wallsavers-by-yl-computing-your-trusted-source-for-digital-art/"><u>High-Definition Coffee Themed Desktop Backgrounds & Wallsavers by YL Computing - Your Trusted Source for Digital Art</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-can-you-enhance-your-pcs-efficiency-and-speed-insights-by-yl-tech-solutions/"><u>How Can You Enhance Your PC's Efficiency and Speed? - Insights by YL Tech Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-your-gpu-not-recognized-in-windows-solutions-from-yl-computing/"><u>How to Fix Your GPU Not Recognized in Windows: Solutions From YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fix-no-video-on-sony-a6400-camera/"><u>In 2024, How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://win-top.techidaily.com/le-top-5-software-di-riproduzione-libera-per-windows-11-back-up-ottimali/"><u>Le Top 5 Software Di Riproduzione Libera per Windows 11: Back-Up Ottimali</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-cable-modem-options-discover-the-superior-choices/"><u>Navigating Cable Modem Options: Discover the Superior Choices</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/selecting-the-right-cryptocurrency-trading-platform-insights-from-yl-computing/"><u>Selecting the Right Cryptocurrency Trading Platform: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-creating-new-user-profiles-in-yl-computing-systems-tips-from-yl-software/"><u>Step-by-Step Guide: Creating New User Profiles in YL Computing Systems - Tips From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-hardware-on-toms-tech-hub/"><u>The Ultimate Guide to Hardware on Tom's Tech Hub</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-and-repairing-your-graphics-card-expert-tips-from-yl-computing/"><u>Troubleshooting and Repairing Your Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-scanners-low-quality-images-an-expert-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Low-Quality Images: An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-computings-latest-innovation-imdesktop-enhance-your-pc-with-dynamic-live-and-high-quality-video-wallpapers/"><u>YL Computing's Latest Innovation: ImDesktop - Enhance Your PC with Dynamic Live and High-Quality Video Wallpapers</u></a></li>
 </ul></div>
 

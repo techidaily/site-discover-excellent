@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2024-12-01T21:50:49.388Z
-updated: 2024-12-09T01:04:57.208Z
+date: 2024-12-13T23:39:58.563Z
+updated: 2024-12-14T20:09:43.274Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
@@ -75,12 +75,16 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -88,11 +92,7 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -116,21 +116,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-explore-the-best-10-tiktok-video-editing-apps-for-mac-users-free/"><u>[New] In 2024, Explore the Best 10 TikTok Video Editing Apps for Mac Users (FREE)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[New] In 2024, Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-selfies-on-snap-verifying-authenticity/"><u>[New] In 2024, Selfies on Snap Verifying Authenticity</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-five-hd-recording-cards-switch-edition/"><u>[New] Top Five HD Recording Cards, Switch Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-visuals-with-soundtracks-the-powerpresenters-way/"><u>[Updated] 2024 Approved Enhancing Visuals with Soundtracks The PowerPresenter's Way</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[Updated] Get Superior Visuals From YouTube - Downloading Thumbnails Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-easy-methods-for-archiving-digital-meeting-recordings/"><u>2024 Approved Easy Methods for Archiving Digital Meeting Recordings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-finding-and-upgrading-to-the-newest-epson-xp-440-driver-software/"><u>Easy Guide to Finding & Upgrading to the Newest Epson XP-440 Driver Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-software-fixes-expert-tips-from-the-team-at-yl-computing/"><u>Mastering Software Fixes: Expert Tips From the Team at YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016257248-pc-audio-troubles-fix-noise-issues-with-these-simple-steps/"><u>PC Audio Troubles? Fix Noise Issues with These Simple Steps!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/premium-infiniti-qx50-image-collection-for-screens-created-with-yl-software/"><u>Premium Infiniti QX50 Image Collection for Screens - Created with YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solve-unresponsive-printer-issues-with-ease-comprehensive-guide-by-yl-software-professionals/"><u>Solve Unresponsive Printer Issues with Ease: Comprehensive Guide by YL Software Professionals</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-setting-uptaking-down-printers-on-windows-pcs-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up/Taking Down Printers on Windows PCs - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-computers-declining-performance-expert-insights-from-yl-computing/"><u>Uncover the Reasons Behind Your Computer's Declining Performance: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-delayed-image-rendering-in-pc-gaming-insights-from-yl-computings-expert-analysis/"><u>Understanding Delayed Image Rendering in PC Gaming: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-computing-jamie-millers-stunning-backgrounds-and-digital-wallpaper-collection-by-yl-software/"><u>YL Computing: Jamie Miller's Stunning Backgrounds & Digital Wallpaper Collection by YL Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-clownfish-tones-a-straightforward-windows-method-for-2024/"><u>[New] Mastering Clownfish Tones A Straightforward Windows Method for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs-for-2024/"><u>[Updated] Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/big-names-reinstated-on-platforms-after-warnerchappell-amends-karaoke-exclusions-list/"><u>Big Names Reinstated on Platforms After Warner/Chappell Amends Karaoke Exclusions List</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/get-your-new-mixing-gear-update-to-pro-cakes-dex-3-version-31101-for-free/"><u>Get Your New Mixing Gear: Update to Pro Cake's DEX 3 Version 3.11.0.1 for Free!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-flip-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Flip to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-steps-for-documenting-online-meetings/"><u>In 2024, Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>In 2024, Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>In 2024, Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/master-your-devices-volume-control-a-comprehensive-tutorial-by-yl-computing-on-sound-settings-in-the-control-panel/"><u>Master Your Device's Volume Control: A Comprehensive Tutorial by YL Computing on Sound Settings in the Control Panel</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-pc-personalization-the-fast-track-to-configuring-windows-for-easy-use-innovative-insights-by-yl-computing/"><u>Mastering PC Personalization: The Fast Track To Configuring Windows For Easy Use - Innovative Insights By YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reclaiming-unlisted-display-options-in-nvidia-controls/"><u>Reclaiming Unlisted Display Options in Nvidia Controls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revamping-the-dell-bios-enhancements-in-smbus-controller-software-update/"><u>Revamping the Dell BIOS: Enhancements in SMBus Controller Software Update</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/windows-users-ultimate-solution-for-opening-rar-archives-by-yl-software-experts/"><u>Windows Users' Ultimate Solution for Opening RAR Archives by YL Software Experts</u></a></li>
 </ul></div>
 

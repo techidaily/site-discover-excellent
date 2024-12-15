@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2024-12-07T01:38:40.410Z
-updated: 2024-12-09T02:40:29.402Z
+date: 2024-12-13T02:12:06.341Z
+updated: 2024-12-15T07:17:19.276Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-ultimate-websites-for-stunning-hdr-skies/"><u>[New] 10 Ultimate Websites for Stunning HDR Skies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-youtuber-enigma-decoded-exciting-questionnaires-leading-to-your-ideal-creator-profile/"><u>[New] The YouTuber Enigma Decoded Exciting Questionnaires Leading to Your Ideal Creator Profile</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cease-playback-failures-fix-facebook-videos/"><u>[Updated] 2024 Approved Cease Playback Failures - Fix Facebook Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-correct-iosandroid-video-failures-on-fb-for-2024/"><u>[Updated] Correct iOS/Android Video Failures on FB for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[Updated] Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-features-vs-competitors/"><u>[Updated] Understanding SNS HDR Pro’s Features Vs. Competitors</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-protect-your-digital-wealth-expert-strategies-for-cryptocurrency-security-insights-from-yl-computing/"><u>1. Protect Your Digital Wealth: Expert Strategies for Cryptocurrency Security - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bezplatna-online-konverzia-mp4-do-wav-s-movavi-prevodnik-foteokonverzeru/"><u>Bezplatná Online Konverziá MP4 Do WAV S Movavi - Převodník Foteokonverzéru</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-xr-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone XR When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-slug-lines-a-step-by-step-approach/"><u>In 2024, Crafting Compelling Slug Lines A Step-by-Step Approach</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-windows-registry-recovery-tips-from-yl-software-experts/"><u>Mastering Windows Registry Recovery: Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mobile-apps-for-real-time-tracking-of-crypto-wallet-balances-features-and-reviews-developed-by-yl-computing/"><u>Mobile Apps for Real-Time Tracking of Crypto Wallet Balances: Features & Reviews - Developed by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/newly-launched-pcdj-dex-38-version-available-for-immediate-download-secure-it-here/"><u>Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/optimizing-power-consumption-expert-tips-from-yl-software-specialists/"><u>Optimizing Power Consumption: Expert Tips From YL Software Specialists</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-the-mystery-of-missing-sounds-on-windows-systems-with-expert-tips-from-yl-computing/"><u>Solving the Mystery of Missing Sounds on Windows Systems with Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-influential-pioneer-sun-yat-sen-understanding-his-importance-through-yl-computings-insight/"><u>The Influential Pioneer, Sun Yat-Sen - Understanding His Importance Through YL Computing's Insight</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-monetization-mastery-elevating-your-youtube-earning-strategy/"><u>[New] 2024 Approved Monetization Mastery Elevating Your YouTube Earning Strategy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/utting-edge-screen-time-youtubes-top-movies-list-for-2024/"><u>[New] Cutting Edge Screen Time YouTube's Top Movies List for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-enhancing-visual-fidelity-in-ar-utilizing-custom-luts/"><u>[New] In 2024, Enhancing Visual Fidelity in AR Utilizing Custom LUTs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-tale-of-two-platforms-youtube-and-dailymention/"><u>[Updated] 2024 Approved The Tale of Two Platforms YouTube and DailyMention</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-search-features-in-microsofts-control-panel-by-yl-software/"><u>Exploring Search Features in Microsoft's Control Panel by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-erase-a-windows-registry-key-expert-tips-from-yl-software/"><u>How To Erase a Windows Registry Key: Expert Tips From YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-curve-editing-manual-for-photoshop/"><u>In 2024, The Complete Curve Editing Manual for Photoshop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-8-android-visionaries-for-speedy-videos/"><u>In 2024, Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-x7b-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor X7b Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/master-your-pc-settings-comprehensive-tutorial-on-managing-user-accounts-via-windows-control-panel-by-yl-software-experts/"><u>Master Your PC Settings: Comprehensive Tutorial on Managing User Accounts via Windows Control Panel by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/maximize-your-computers-capacity-smart-techniques-to-increase-ram-and-clear-space-advice-from-yl-software-gurus/"><u>Maximize Your Computer's Capacity: Smart Techniques to Increase RAM and Clear Space – Advice From YL Software Gurus</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/preventative-measures-to-avoid-cpu-temperature-surges-expert-advice-by-yl-computing-and-yl-software/"><u>Preventative Measures to Avoid CPU Temperature Surges: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/spectral-4k-resolution-graphics-eerie-wallpapers-and-backdrops-by-yl-computing-yl-software/"><u>Spectral 4K Resolution Graphics: Eerie Wallpapers & Backdrops by YL Computing - YL Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-techniques-for-silent-film-capturing/"><u>Top Techniques for Silent Film Capturing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/understanding-the-reason-behind-elevated-bitcoin-transfer-costs-a-comprehensive-guide-by-yl-computing/"><u>Understanding the Reason Behind Elevated Bitcoin Transfer Costs: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-computing-guide-managing-your-print-devices-with-windows-pcs-control-panel/"><u>YL Computing Guide: Managing Your Print Devices with Windows PC's Control Panel</u></a></li>
 </ul></div>
 

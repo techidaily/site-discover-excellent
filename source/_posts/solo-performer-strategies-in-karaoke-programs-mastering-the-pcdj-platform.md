@@ -1,7 +1,7 @@
 ---
 title: "Solo Performer Strategies in Karaoke Programs: Mastering the PCDJ Platform"
-date: 2024-12-03T00:19:40.557Z
-updated: 2024-12-08T18:26:08.174Z
+date: 2024-12-07T22:21:51.200Z
+updated: 2024-12-14T23:09:47.869Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Over the years we’ve found a contingent of Solo Artists — _musicians that pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enter “_Solo Artist Mode_“.
@@ -33,19 +33,19 @@ We do our best to cater to our customers essential needs to perform, so it was a
 A solo artist can build their song list the night before or otherwise pre-gig, so the only manual interaction with PCDJ Karaoki is clicking the “_Load Next Singer_” button to load the top track from the rotation list (_which will delete from the list after 20 seconds, moving the next song in the list to the top, and so on_). What’s really cool is you can also use a [USB foot switch pedal](http://www.amazon.com/s/ref=nb%5Fsb%5Fnoss/180-9338171-0208925?url=search-alias%3Delectronics&field-keywords=PC%20USB%20Foot%20switch%20pedal) to map to the “_Load Next Singer_” button, so if the artist has their hands tied up with a guitar or keyboard it’s just a matter of tapping their foot when their ready for their next tune.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here’s a video demonstration of the “Solo Artist Rotation Mode”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For a free 14 Day demo of our PCDJ Karaoki software please click [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/soloartistcoverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-visibility-comprehensive-guide-to-video-marketing-titles-for-2024/"><u>[New] Elevate Visibility Comprehensive Guide to Video Marketing Titles for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/haring-lifes-moments-with-your-online-audience-for-2024/"><u>[New] Sharing Life's Moments with Your Online Audience for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-effective-techniques-for-streamlining-your-pc-by-eliminating-redundant-applications-insights-from-yl-computings-expertise/"><u>1. Effective Techniques for Streamlining Your PC by Eliminating Redundant Applications - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>2024 Approved How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-types-and-methods-for-hand-detection-systems/"><u>2024 Approved Unveiling Types and Methods for Hand Detection Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-in-class-ai-creative-workshops/"><u>Best-in-Class AI Creative Workshops</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-windows-blue-screen-of-death-due-to-memory-issues-expert-advice-from-yl-computing/"><u>How to Fix Windows Blue Screen of Death Due to Memory Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-persistent-0x8024200d-update-problem-in-windows-and-get-your-system-updated/"><u>How to Overcome the Persistent 0X8024200D Update Problem in Windows and Get Your System Updated</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a14-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A14 4G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-multimedia-magic-crafting-eye-catching-text-and-visuals-in-pcdjs-deckadance-v37-tutorial/"><u>Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/speed-up-your-pc-now-expert-registry-cleanup-strategies-from-yl-software-experts/"><u>Speed Up Your PC Now: Expert Registry Cleanup Strategies From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-updating-your-pcs-hardware-with-the-latest-device-drivers-tips-from-yl-tech/"><u>Step-by-Step Guide: Updating Your PC's Hardware with the Latest Device Drivers - Tips From YL Tech</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/taiwans-commitment-ensuring-citizen-health-amidst-japans-fukushima-water-discharge-with-rigorous-seafood-safety-measures-yl-computing-and-software/"><u>Taiwan's Commitment: Ensuring Citizen Health Amidst Japan’s Fukushima Water Discharge with Rigorous Seafood Safety Measures - YL Computing & Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-lasting-effects-of-the-chinese-civil-war-on-todays-china-an-analysis-by-yl-software-solutions/"><u>The Lasting Effects of the Chinese Civil War on Today's China: An Analysis by YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/turn-off-notification-alerts-on-windows-11-step-by-step-guide/"><u>Turn Off Notification Alerts on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Updated Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/virtual-pets-at-play-petcubes-latest-feature/"><u>Virtual Pets at Play: Petcube’s Latest Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-a-pro-sports-youtube-feed-on-macos/"><u>[New] Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-efficient-avi-to-gif-conversion-made-simple-windowsmac-edition-with-filmora/"><u>[New] In 2024, Efficient AVI-to-GIF Conversion Made Simple Windows/Mac Edition with Filmora</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[New] In 2024, Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleashing-viral-potential-on-igtv-with-strategic-hash-tagging/"><u>[New] In 2024, Unleashing Viral Potential on IGTV with Strategic Hash Tagging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mp4mpl2s-creation-from-twitter-videos-for-2024/"><u>[Updated] MP4/MPL2S Creation From Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-number-modification-easy-to-follow-steps/"><u>2024 Approved TikTok Number Modification Easy to Follow Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-13t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi 13T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/biological-self-healing-uses-bacteria-within-microcapsules-that-produce-calcium-carbonate-to-seal-cracks-upon-exposure-to-water/"><u>Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/elevate-your-devices-aesthetics-with-the-ultimate-bentley-bentayga-speed-edition-backgrounds-and-images-by-yl-software/"><u>Elevate Your Device's Aesthetics with the Ultimate Bentley Bentayga Speed Edition Backgrounds and Images by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-quality-romance-hd-wallpaper-collection-stunning-banners-and-pics-by-yl-computing/"><u>High-Quality Romance HD Wallpaper Collection - Stunning Banners & Pics by YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>In 2024, Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-intel-iris-xe-graphics-driver-updated-version-for-windows-users/"><u>Install Intel Iris Xe Graphics Driver - Updated Version for Windows Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-protection-configuring-yl-computing-firewalls-for-optimal-safety/"><u>Mastering Protection: Configuring YL Computing Firewalls for Optimal Safety</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-sound-card-driver-issues-a-step-by-step-guide-by-yl-computing/"><u>Solving Sound Card Driver Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-finding-and-using-the-network-and-sharing-center-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Finding & Using the Network & Sharing Center via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-navigating-to-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to the Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/trouble-free-solutions-for-faulty-hard-drives-learn-the-steps-to-repair-by-guided-instructions-from-yl-software-professionals/"><u>Trouble-Free Solutions for Faulty Hard Drives - Learn the Steps to Repair by Guided Instructions From YL Software Professionals</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-unresponsive-gpus-a-guide-yl-computing-explains/"><u>Troubleshooting Unresponsive GPUs: A Guide - YL Computing Explains</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-xs-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone XS Without iTunes in 5 Ways | Dr.fone</u></a></li>
 </ul></div>
 

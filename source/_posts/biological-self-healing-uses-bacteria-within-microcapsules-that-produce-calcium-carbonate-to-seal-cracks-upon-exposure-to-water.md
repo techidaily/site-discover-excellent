@@ -1,7 +1,7 @@
 ---
 title: Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.
-date: 2024-12-03T18:33:25.667Z
-updated: 2024-12-09T02:41:34.683Z
+date: 2024-12-13T08:06:37.325Z
+updated: 2024-12-15T00:21:06.860Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] In 2024, A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>[New] In 2024, Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-screen-recorder-showdown-features-and-prices-compared-for-2024/"><u>[New] Screen Recorder Showdown Features and Prices Compared for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/hats-youtube-creative-commons-and-how-to-use-it-to-make-video-for-2024/"><u>[New] What's YouTube Creative Commons and How to Use It to Make Video for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/accelerate-your-pc-top-strategies-from-yl-computings-expert-guide/"><u>Accelerate Your PC: Top Strategies From YL Computing’s Expert Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204948974-diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Huawei P60.</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/exploring-the-impact-of-the-grand-canal-on-tang-dynasty-prosperity-insights-from-yl-computing-and-yl-software/"><u>Exploring the Impact of the Grand Canal on Tang Dynasty Prosperity - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/exploring-various-energy-saving-modes-a-comprehensive-guide-to-windows-10-power-options-insights-by-yl-software/"><u>Exploring Various Energy Saving Modes: A Comprehensive Guide to Windows 10 Power Options - Insights by YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-organizational-skills-file-and-folder-rename-techniques-for-windows-users-expert-advice-by-yl-software/"><u>Mastering Organizational Skills: File & Folder Rename Techniques for Windows Users - Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-excel-file-distribution-in-windows-environments-by-yl-software-experts/"><u>Mastering the Art of Excel File Distribution in Windows Environments by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-display-malfunctions-could-it-be-your-gpu-driver-expert-advice-by-yl-software/"><u>Troubleshooting Display Malfunctions: Could It Be Your GPU Driver? Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-softwares-ultimate-strategy-for-discovering-credible-cryptocurrency-information-and-updates-online/"><u>YL Software's Ultimate Strategy for Discovering Credible Cryptocurrency Information and Updates Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-critical-strategies-for-dynamic-cover-designs-for-2024/"><u>10 Critical Strategies for Dynamic Cover Designs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-gopro-video-processing-apps/"><u>2024 Approved Best GoPro Video Processing Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726219126521-movavi/"><u>易用技巧：以最快速度進行影片逆向和正常切換教程 - Movavi</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-a-scanner-connection-issue-with-your-pc-expert-advice-from-yl-computing/"><u>How to Fix a Scanner Connection Issue with Your PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12-pro-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12 Pro 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-soft-decline-in-logic-pro-audio/"><u>In 2024, Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plagiarism-concerns-an-examination-of-gpt-data-sources/"><u>Plagiarism Concerns: An Examination of GPT Data Sources</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-powered-by-yl-software-solutions/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/snapshot-survival-guide-top-recorders-evaluated-for-2024/"><u>SnapShot Survival Guide Top Recorders Evaluated for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-converting-rooster-teeth-shows-into-mp4-and-avi-formats/"><u>Step-by-Step Guide: Converting Rooster Teeth Shows Into MP4 & AVI Formats</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-removing-apps-efficiently-tips-from-yl-computing-and-yl-software/"><u>Step-by-Step Guide: Removing Apps Efficiently - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-running-windows-defender-scans-insights-from-yl-computings-expertise/"><u>Step-by-Step Guide: Running Windows Defender Scans - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138596744-9781475901702-the-secret-of-inner-presence/"><u>The Secret of Inner Presence | Free Book</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/vote-now-in-the-making-beats-count-challenge-choose-your-top-pick-for-best-music-video/"><u>Vote Now in the Making Beats Count Challenge! Choose Your Top Pick for Best Music Video</u></a></li>
 </ul></div>
 

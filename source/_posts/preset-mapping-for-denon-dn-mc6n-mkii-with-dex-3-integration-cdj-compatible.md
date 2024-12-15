@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2024-11-24T22:29:31.654Z
-updated: 2024-11-30T18:37:12.293Z
+date: 2024-12-13T02:34:27.320Z
+updated: 2024-12-14T18:12:25.424Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,22 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-formulating-fascinating-film-moments/"><u>[New] 2024 Approved Formulating Fascinating Film Moments</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevate-your-creations-the-7-most-innovative-nft-generators/"><u>[New] Elevate Your Creations - The 7 Most Innovative NFT Generators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-innovate-humorous-gifry-on-giphy-network/"><u>[New] Innovate Humorous Gifry on Giphy Network</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/avigating-youtubes-rules-the-safe-way/"><u>[New] Navigating YouTube's Rules The Safe Way</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/44cm44kp44gw44go44kj44gx44gp5l244gg44gu44gv6yg44gr44gf44ge77yb44oe44km44k544gm5q2i44gplus44gj44gm44gx44gplus44gg5pmc44gu5oml44gu44kn44gq5lplusu5q2j5pa55rov4214/"><u>「わざとらしく使うのは避けたい！マウスが止まってしまう時の手ごろな修正方法」</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-how-to-retrieve-deleted-files-on-windows-and-macos-a-comprehensive-guide/"><u>1. How To Retrieve Deleted Files on Windows & macOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728480772848-windows-11/"><u>确保在 Windows 11系统中安全地擦除或清理硬盘的步骤与技巧</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-modificare-la-posizione-della-partizione-di-ripristino-sul-nuovo-hard-disk-in-italiano/"><u>Come Modificare La Posizione Della Partizione Di Ripristino Sul Nuovo Hard Disk in Italiano</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-solutions-how-to-restore-lost-information-from-an-ssd-in-windows/"><u>Free Solutions: How To Restore Lost Information From an SSD in Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-x-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone X</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-best-mobile-recording-software-roundup/"><u>In 2024, The Best Mobile Recording Software Roundup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>In 2024, The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/problemes-de-recuperation-de-fichiers-perdus-avec-photorec-comment-les-resoudre/"><u>Problèmes De Récupération De Fichiers Perdus Avec PhotoRec - Comment Les Résoudre?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/resolved-error-code-0x807800c5-in-creating-backup-on-windows-11/"><u>Resolved: Error Code 0X807800c5 in Creating Backup on Windows 11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solucion-efectiva-para-la-dificultad-al-formular-conjunto-de-rescate-guia-detallada/"><u>Solución Efectiva Para La Dificultad Al Formular Conjunto De Rescate: Guía Detallada</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveiling-history-watching-older-facebook-content-on-your-device/"><u>Unveiling History Watching Older Facebook Content on Your Device</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/zen-without-copyrights-for-2024/"><u>Zen Without Copyrights for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-seo-masterclass-the-ultimate-toolkit-for-higher-traffic/"><u>[New] 2024 Approved YouTube SEO Masterclass The Ultimate Toolkit for Higher Traffic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-engagement-a-guide-to-more-youtube-shorts-success-for-2024/"><u>[New] Boosting Engagement A Guide to More YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-turn-backwards-youtube-content-inversion-tips-for-2024/"><u>[Updated] Turn Backwards YouTube Content Inversion Tips for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-full-examination-evaluating-the-gecata-analyzer/"><u>2024 Approved Full Examination Evaluating the Gecata Analyzer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/best-practices-for-snapchat-posts-the-essentials-list-for-2024/"><u>Best Practices for Snapchat Posts The Essentials List for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/dynamic-wallpaper-creation-by-yl-software-vibrant-blue-and-purple-gradient-background-featuring-white-abstract-patterns-in-hd-quality/"><u>Dynamic Wallpaper Creation by YL Software - Vibrant Blue and Purple Gradient Background Featuring White Abstract Patterns in HD Quality</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-guide-discover-your-graphics-cards-current-driver-version-tips-from-yl-computing/"><u>Easy Guide: Discover Your Graphics Card's Current Driver Version - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-holly-valance-desktop-scenes-and-visuals-by-yl-computings-digital-creations/"><u>High-Definition Holly Valance Desktop Scenes & Visuals by YL Computing's Digital Creations</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/identifying-scam-initial-coin-offerings-icos-insights-from-yl-computings-expertise/"><u>Identifying Scam Initial Coin Offerings (ICOs): Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-a1-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo A1 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Phone Now with These Tips</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-the-hazards-of-crypto-asset-allocation-with-expertise-from-yl-software/"><u>Navigating the Hazards of Crypto Asset Allocation with Expertise From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/prolong-windows-disk-life-no-data-wiped/"><u>Prolong Windows Disk Life, No Data Wiped</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/protect-your-personal-info-learn-how-to-password-lock-files-in-windows-using-yls-simple-method/"><u>Protect Your Personal Info: Learn How to Password-Lock Files in Windows Using YL's Simple Method</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-powered-by-yl-software-solutions/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snappy-driver-refreshes-for-logitech-earbuds/"><u>Snappy Driver Refreshes for Logitech Earbuds</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-processor-malfunctions-comprehensive-guide-by-yl-software-specialists/"><u>Solving Processor Malfunctions: Comprehensive Guide by YL Software Specialists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-your-editing-right-with-free-intros-for-2024/"><u>Start Your Editing Right With Free Intros for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-tips-how-to-fix-scanner-detection-issues-learn-from-experts-at-yl-computing/"><u>Troubleshooting Tips: How to Fix Scanner Detection Issues - Learn From Experts at YL Computing</u></a></li>
 </ul></div>
 

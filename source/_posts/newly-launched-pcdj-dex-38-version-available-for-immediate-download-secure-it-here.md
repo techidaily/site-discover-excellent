@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2024-12-03T04:16:13.090Z
-updated: 2024-12-09T01:12:03.110Z
+date: 2024-12-11T20:24:21.311Z
+updated: 2024-12-15T04:26:12.002Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,19 +106,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[New] 2024 Approved Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-phone-based-recordings-of-snapchats/"><u>[New] Navigating Phone-Based Recordings of Snapchats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>2024 Approved Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-xperia-10-v-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Xperia 10 V Phone When You Forget the Password</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-definition-coffee-themed-desktop-backgrounds-and-wallsavers-by-yl-computing-your-trusted-source-for-digital-art/"><u>High-Definition Coffee Themed Desktop Backgrounds & Wallsavers by YL Computing - Your Trusted Source for Digital Art</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-eliminate-yellow-screen-issues-in-iphones-with-these-9-tips/"><u>How to Eliminate Yellow Screen Issues in iPhones with These 9 Tips</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-your-gpu-not-recognized-in-windows-solutions-from-yl-computing/"><u>How to Fix Your GPU Not Recognized in Windows: Solutions From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-12-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi 12 5G Device</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-creating-new-user-profiles-in-yl-computing-systems-tips-from-yl-software/"><u>Step-by-Step Guide: Creating New User Profiles in YL Computing Systems - Tips From YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/the-ultimate-hack-recovering-eliminated-emails-from-your-gmail-account/"><u>The Ultimate Hack: Recovering Eliminated Emails From Your Gmail Account</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-and-repairing-your-graphics-card-expert-tips-from-yl-computing/"><u>Troubleshooting and Repairing Your Graphics Card: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-system-speed-top-12-free-disk-defragmenter-software-of-july-2024/"><u>Unlocking System Speed: Top 12 FREE Disk Defragmenter Software of July 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-uncovered-inside-details/"><u>Xbox Game Pass Uncovered: Inside Details</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-computings-latest-innovation-imdesktop-enhance-your-pc-with-dynamic-live-and-high-quality-video-wallpapers/"><u>YL Computing's Latest Innovation: ImDesktop - Enhance Your PC with Dynamic Live and High-Quality Video Wallpapers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] 2024 Approved Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rive-subscriptions-upward-through-effective-youtube-branding-for-2024/"><u>[New] Drive Subscriptions Upward Through Effective YouTube Branding for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[Updated] In 2024, From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/achieve-peak-operations-optimization-strategies-for-windows-11-users-by-yl-solutions/"><u>Achieve Peak Operations: Optimization Strategies for Windows 11 Users by YL Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-customize-the-file-format-for-your-address-balance-data-exports-with-yl-computings-solutions/"><u>How to Customize the File Format for Your Address Balance Data Exports with YL Computing's Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-htc-vive-headset-review/"><u>In 2024, HTC Vive Headset Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>In 2024, Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>In 2024, Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-locales-for-immersive-content/"><u>Leading Locales for Immersive Content</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/simplified-guide-how-to-quickly-tailor-your-windows-preferences-with-step-by-step-instructions/"><u>Simplified Guide: How To Quickly Tailor Your Windows Preferences With Step-By-Step Instructions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-snippets-showcase-twitters-trending-threads-for-2024/"><u>Social Snippets Showcase Twitter’s Trending Threads for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-audio-issues-solutions-from-yl-computings-expertise/"><u>Troubleshooting Audio Issues: Solutions From YL Computing's Expertise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unmatched-video-capturing-reviews-of-the-best-apps/"><u>Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
 </ul></div>
 
