@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2024-12-13T23:39:58.563Z
-updated: 2024-12-14T20:09:43.274Z
+date: 2024-12-16T17:57:07.239Z
+updated: 2024-12-24T05:51:34.911Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -76,7 +68,7 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
@@ -84,7 +76,7 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -92,10 +84,18 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -116,18 +116,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-mastering-clownfish-tones-a-straightforward-windows-method-for-2024/"><u>[New] Mastering Clownfish Tones A Straightforward Windows Method for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs-for-2024/"><u>[Updated] Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/big-names-reinstated-on-platforms-after-warnerchappell-amends-karaoke-exclusions-list/"><u>Big Names Reinstated on Platforms After Warner/Chappell Amends Karaoke Exclusions List</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/get-your-new-mixing-gear-update-to-pro-cakes-dex-3-version-31101-for-free/"><u>Get Your New Mixing Gear: Update to Pro Cake's DEX 3 Version 3.11.0.1 for Free!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-flip-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Flip to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-steps-for-documenting-online-meetings/"><u>In 2024, Advanced Steps for Documenting Online Meetings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>In 2024, Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>In 2024, Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/master-your-devices-volume-control-a-comprehensive-tutorial-by-yl-computing-on-sound-settings-in-the-control-panel/"><u>Master Your Device's Volume Control: A Comprehensive Tutorial by YL Computing on Sound Settings in the Control Panel</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-pc-personalization-the-fast-track-to-configuring-windows-for-easy-use-innovative-insights-by-yl-computing/"><u>Mastering PC Personalization: The Fast Track To Configuring Windows For Easy Use - Innovative Insights By YL Computing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reclaiming-unlisted-display-options-in-nvidia-controls/"><u>Reclaiming Unlisted Display Options in Nvidia Controls</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revamping-the-dell-bios-enhancements-in-smbus-controller-software-update/"><u>Revamping the Dell BIOS: Enhancements in SMBus Controller Software Update</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/windows-users-ultimate-solution-for-opening-rar-archives-by-yl-software-experts/"><u>Windows Users' Ultimate Solution for Opening RAR Archives by YL Software Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-premier-ios-games-fully-enjoyable-without-wireless-connection/"><u>[New] 2024 Approved 10 Premier iOS Games, Fully Enjoyable without Wireless Connection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[Updated] 2024 Approved Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-elite-games-obligated-to-feature-microtransactions/"><u>Are Elite Games Obligated to Feature Microtransactions?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-nokia-c300-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nokia C300</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/concealing-files-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Concealing Files on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/efficiently-removing-software-expert-techniques-by-yl-software-solutions/"><u>Efficiently Removing Software: Expert Techniques by YL Software Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/1716465323123-elevate-your-channels-templates-at-no-charge/"><u>Elevate Your Channels - Templates at No Charge!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-hdcp-mistakes-a-step-by-step-troubleshooting-manual/"><u>Mastering HDCP Mistakes: A Step-by-Step Troubleshooting Manual</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/noise-free-video-chats-with-skype-for-2024/"><u>Noise-Free Video Chats with Skype for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/reliability-of-digital-wallet-balance-inspection-utilities-in-the-crypto-space-expertise-from-yl-software-solutions/"><u>Reliability of Digital Wallet Balance Inspection Utilities in the Crypto Space – Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

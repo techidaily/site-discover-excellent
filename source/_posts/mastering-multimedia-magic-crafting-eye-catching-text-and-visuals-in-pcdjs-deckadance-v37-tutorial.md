@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial"
-date: 2024-12-09T23:45:43.977Z
-updated: 2024-12-15T03:14:58.728Z
+date: 2024-12-20T22:42:28.819Z
+updated: 2024-12-24T05:14:01.507Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-selection-top-ranked-free-ae-templates/"><u>[Updated] In 2024, Elite Selection Top-Ranked FREE AE Templates</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mobility-boosted-video-stability-device/"><u>[Updated] In 2024, Mobility Boosted Video Stability Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-methods-to-flip-video-content-in-android/"><u>2024 Approved Methods to Flip Video Content in Android</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-file-removal-techniques-for-windows-users-insights-by-yl-software-experts/"><u>Effortless File Removal Techniques for Windows Users - Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-does-windows-defender-provide-ongoue-system-protection-a-deep-dive-by-yl-software-experts/"><u>How Does Windows Defender Provide Ongo#ue System Protection? A Deep Dive by YL Software Experts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-8-key-money-making-moves-for-youtube-rookies/"><u>In 2024, 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-canvasknotter-your-ultimate-photo-blend-tool/"><u>In 2024, CanvasKnotter Your Ultimate Photo Blend Tool</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-maximize-views-with-these-14-premier-youtube-gaming-videos/"><u>In 2024, Maximize Views with These 14 Premier YouTube Gaming Videos</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-parental-control-management-a-guide-with-yl-software-solutions/"><u>Mastering Parental Control Management: A Guide with YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/pcdj-karaoke-unleashed-mastering-the-dancefloor-with-cloud-technology/"><u>PCDJ Karaoke Unleashed: Mastering the Dancefloor with Cloud Technology</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/preset-mapping-for-denon-dn-mc6n-mkii-with-dex-3-integration-cdj-compatible/"><u>Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/transferring-video-files-between-devices-using-windows-a-comprehensive-guide-yl-tech-solutions/"><u>Transferring Video Files Between Devices Using Windows: A Comprehensive Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-narzo-60-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme Narzo 60 5G PC | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-guide-enhancing-your-systems-health-through-yls-advanced-technical-support-services/"><u>Comprehensive Guide: Enhancing Your System's Health Through YL's Advanced Technical Support Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-steam-remote-play-running-smoothly-again-with-these-tips/"><u>Get Your Steam Remote Play Running Smoothly Again with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y27-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y27 5G without App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-xr-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/master-multitasking-with-dual-windows-a-step-by-step-guide-by-yl-software-experts/"><u>Master Multitasking with Dual Windows: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/new-update-3751-now-installed-on-dex-mk3-re-and-le-versions-of-professional-dj-program/"><u>New Update! 3.7.5.1 Now Installed on DEX-MK3 RE and LE Versions of Professional DJ Program</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/replacing-a-faulty-optical-drive-a-step-by-step-guide-tech-insights-with-yl/"><u>Replacing a Faulty Optical Drive: A Step-by-Step Guide - Tech Insights with YL</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210614415-9781648291173-restorative-rituals/"><u>Restorative Rituals | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
 </ul></div>
 

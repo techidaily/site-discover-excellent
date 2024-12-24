@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2024-12-11T20:24:21.311Z
-updated: 2024-12-15T04:26:12.002Z
+date: 2024-12-18T03:55:11.066Z
+updated: 2024-12-23T23:43:15.793Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,18 +106,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] 2024 Approved Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rive-subscriptions-upward-through-effective-youtube-branding-for-2024/"><u>[New] Drive Subscriptions Upward Through Effective YouTube Branding for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[Updated] In 2024, From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/achieve-peak-operations-optimization-strategies-for-windows-11-users-by-yl-solutions/"><u>Achieve Peak Operations: Optimization Strategies for Windows 11 Users by YL Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-customize-the-file-format-for-your-address-balance-data-exports-with-yl-computings-solutions/"><u>How to Customize the File Format for Your Address Balance Data Exports with YL Computing's Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-htc-vive-headset-review/"><u>In 2024, HTC Vive Headset Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>In 2024, Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>In 2024, Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/leading-locales-for-immersive-content/"><u>Leading Locales for Immersive Content</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/simplified-guide-how-to-quickly-tailor-your-windows-preferences-with-step-by-step-instructions/"><u>Simplified Guide: How To Quickly Tailor Your Windows Preferences With Step-By-Step Instructions</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-snippets-showcase-twitters-trending-threads-for-2024/"><u>Social Snippets Showcase Twitter’s Trending Threads for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-audio-issues-solutions-from-yl-computings-expertise/"><u>Troubleshooting Audio Issues: Solutions From YL Computing's Expertise</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unmatched-video-capturing-reviews-of-the-best-apps/"><u>Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-kid-approved-drones-for-beginning-pilots-for-2024/"><u>[New] Best Kid-Approved Drones for Beginning Pilots for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-strategies-for-webp-to-jpeg-conversion/"><u>[New] In 2024, Essential Strategies for WebP to JPEG Conversion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-optimal-display-technologies-srgb-over-rgb-for-2024/"><u>[New] Optimal Display Technologies Srgb over Rgb for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-diy-instagram-alert-tunes-a-step-by-step-guide/"><u>[Updated] 2024 Approved DIY Instagram Alert Tunes A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-lowdown-on-instagrams-video-time-frame/"><u>[Updated] 2024 Approved The Lowdown on Instagram's Video Time Frame</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/customizing-your-typing-experience-on-windows-a-comprehensive-tutorial-from-yl-softwares-perspective/"><u>Customizing Your Typing Experience on Windows: A Comprehensive Tutorial From YL Software's Perspective</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-resolution-lego-wallpaper-hd-backgrounds-and-images-download-gallery-by-yl-computing/"><u>High-Resolution Lego Wallpaper HD Backgrounds & Images - Download Gallery by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/identifying-and-fixing-memory-issues-on-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Fixing Memory Issues on Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-digital-devices-wisdom-from-toms-hardware-analysis/"><u>Mastering Digital Devices: Wisdom From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sion-and-proficiency-youtube-edits-in-adobe-premiere/"><u>Precision & Proficiency YouTube Edits in Adobe Premiere</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-guide-setting-up-hotkeys-for-instant-date-and-time-entry-across-all-programs-tips-by-yl-tech-experts/"><u>Quick Guide: Setting Up Hotkeys for Instant Date & Time Entry Across All Programs - Tips by YL Tech Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-integration-canon-pro-100-printer-software-installation-for-windows-users/"><u>Seamless Integration: Canon PRO 100 Printer Software Installation for Windows Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-sound-problems-in-windows-and-macos-understanding-why-your-sound-card-fails-to-function-expert-advice-from-yl-software/"><u>Solving Sound Problems in Windows & MacOS: Understanding Why Your Sound Card Fails to Function - Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
 </ul></div>
 
