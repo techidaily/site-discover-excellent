@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2024-12-17T07:48:48.983Z
-updated: 2024-12-23T16:49:07.597Z
+date: 2024-12-28T22:37:39.629Z
+updated: 2024-12-29T16:34:37.094Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,22 +110,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-camstudios-impact-on-video-capture-2023-edition/"><u>[New] Exploring CamStudio's Impact on Video Capture - 2023 Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-comedy-cache-twitters-best-jokes-for-2024/"><u>[New] The Comedy Cache Twitter’s Best Jokes for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[Updated] 2024 Approved Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-all-about-2023s-twitter-live-vids/"><u>[Updated] All About 2023'S Twitter Live Vids</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-launching-a-dominant-biz-channel-key-tips-and-hacks/"><u>[Updated] Launching a Dominant Biz Channel Key Tips & Hacks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-protect-your-digital-wealth-expert-strategies-for-cryptocurrency-security-insights-from-yl-computing/"><u>1. Protect Your Digital Wealth: Expert Strategies for Cryptocurrency Security - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/connect-laptop-seamlessly-to-public-wi-fi-a-step-by-step-guide-from-yl-computings-expertise/"><u>Connect Laptop Seamlessly to Public Wi-Fi: A Step-by-Step Guide From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/download-the-latest-pcdj-karaoke-software-karaokei-public-version-086238-is-now-ready/"><u>Download the Latest PCDJ Karaoke Software: Karaokei Public Version 0.8.6238 Is Now Ready</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-compatible-sound-card-drivers-instantly-for-your-windows-machine/"><u>Get Compatible Sound Card Drivers Instantly for Your Windows Machine</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-free-high-quality-youtube-banner-samples-inside/"><u>In 2024, Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-windows-registry-recovery-tips-from-yl-software-experts/"><u>Mastering Windows Registry Recovery: Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/newly-launched-pcdj-dex-38-version-available-for-immediate-download-secure-it-here/"><u>Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/passo-dopo-passo-per-aggiornare-lo-ssd-sul-tuo-microsoft-surface-laptop-studio/"><u>Passo Dopo Passo per Aggiornare Lo SSD Sul Tuo Microsoft Surface Laptop Studio</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-influential-pioneer-sun-yat-sen-understanding-his-importance-through-yl-computings-insight/"><u>The Influential Pioneer, Sun Yat-Sen - Understanding His Importance Through YL Computing's Insight</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-blurry-scans-how-to-achieve-sharp-images-with-your-scanner-tips-from-yl-software/"><u>Troubleshooting Blurry Scans: How to Achieve Sharp Images with Your Scanner - Tips From YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unleash-the-might-of-super-saiyan-god-vegeta-stunning-visuals-and-background-imery-for-mobile-pc-curated-by-yl-graphic-design-studio/"><u>Unleash the Might of Super Saiyan God Vegeta: Stunning Visuals and Background Imery for Mobile, PC – Curated by YL Graphic Design Studio</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[New] Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-beginners-blueprint-for-initiating-instagram-discussions/"><u>[Updated] In 2024, Beginner's Blueprint for Initiating Instagram Discussions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-steps-to-resolve-issues-with-scanner-drivers-learn-with-yl-software-solutions/"><u>Easy Steps to Resolve Issues with Scanner Drivers - Learn with YL Software Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722955459231-elevate-gaming-performance-update-geforce-rtx-2080-ti-drivers-now/"><u>Elevate Gaming Performance: Update GeForce RTX 2080 Ti Drivers Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-enhanced-potential-of-appleebs-ai-powered-innovations-inside-look-at-new-models-wired/"><u>Exploring the Enhanced Potential of Apple'ebs AI-Powered Innovations: Inside Look at New Models | Wired</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-f23-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo F23 5G</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-voice-customization-go-beyond-echoes/"><u>Leading Voice Customization Go Beyond Echoes</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/master-multitasking-with-dual-windows-a-step-by-step-guide-by-yl-software-experts/"><u>Master Multitasking with Dual Windows: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-driven-solutions-top-7-online-marketplaces-for-creative-prompts/"><u>Mastering AI-Driven Solutions: Top 7 Online Marketplaces for Creative Prompts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/new-update-3751-now-installed-on-dex-mk3-re-and-le-versions-of-professional-dj-program/"><u>New Update! 3.7.5.1 Now Installed on DEX-MK3 RE and LE Versions of Professional DJ Program</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/replacing-a-faulty-optical-drive-a-step-by-step-guide-tech-insights-with-yl/"><u>Replacing a Faulty Optical Drive: A Step-by-Step Guide - Tech Insights with YL</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-6s-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 6s</u></a></li>
 </ul></div>
 

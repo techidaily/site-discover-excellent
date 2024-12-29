@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2024-12-20T21:20:20.970Z
-updated: 2024-12-24T06:35:43.969Z
+date: 2024-12-23T16:24:36.118Z
+updated: 2024-12-29T17:31:13.970Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>[New] The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-clearer-picture-remove-borders-and-boost-recording-quality-for-2024/"><u>[Updated] The Clearer Picture Remove Borders and Boost Recording Quality for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[Updated] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-xs-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone XS and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/accelerate-system-speed-with-yl-software-techniques-expert-tips-for-faster-processing/"><u>Accelerate System Speed with YL Software Techniques - Expert Tips for Faster Processing!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-windows-defender-for-shielding-against-phishing-threats-discover-more-from-yl-computings-expertise/"><u>Can You Rely on Windows Defender for Shielding Against Phishing Threats? Discover More From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/cherry-blossoms-springtime-theme-high-resolution-wallpapers-and-backgrounds-yl-digital-creations/"><u>Cherry Blossoms Springtime Theme - High-Resolution Wallpapers & Backgrounds | YL Digital Creations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-edge-icons-and-logos-from-6-innovative-websites/"><u>Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-boost-your-pcs-speed-and-responsiveness-with-yl-software-strategies/"><u>How to Boost Your PC's Speed and Responsiveness with YL Software Strategies</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-set-up-network-adapters-using-the-control-panel-a-guide-by-yl-computing/"><u>How to Set Up Network Adapters Using the Control Panel - A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/identifying-and-dealing-with-dead-pixels-on-displays-a-guide-by-yl-computings-expertise/"><u>Identifying and Dealing with Dead Pixels on Displays: A Guide by YL Computing's Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/iphone-sharing-files-from-a-windows-pc/"><u>IPhone Sharing Files From a Windows PC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-cryptocurrency-chart-analysis-a-comprehensive-guide-by-yl-computing/"><u>Mastering Cryptocurrency Chart Analysis: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-capture-gear-for-visual-media-2024/"><u>Pinnacle Capture Gear for Visual Media, 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-smart-devices-in-2e-a-comprehensive-list/"><u>Top-Rated Smart Devices in 2E: A Comprehensive List</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers in Windows 10 & 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-direct-slideshow-content-into-video-realm/"><u>[New] 2024 Approved Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essential-vsco-editing-techniques-summary/"><u>[Updated] 2024 Approved Essential VSCO Editing Techniques Summary</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-post-a-picture-on-youtube/"><u>[Updated] 2024 Approved How to Post a Picture on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>[Updated] Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/decoding-the-new-era-of-video-editing-with-vivacut-for-2024/"><u>Decoding the New Era of Video Editing with VivaCut for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/discover-excellent-no-cost-file-recovery-tools-compatible-with-windows-a-comprehensive-guide/"><u>Discover Excellent No-Cost File Recovery Tools Compatible with Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effective-techniques-to-fix-driver-problems-guided-by-yl-computing-experts/"><u>Effective Techniques to Fix Driver Problems, Guided by YL Computing Experts</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/incredible-movement-detected-ftx-and-alameda-research-shift-a-staggering-131m-worth-of-digital-assets-to-exchange-platforms-overnight-insights-by-yl-computi44/"><u>Incredible Movement Detected: FTX & Alameda Research Shift a Staggering $13.1M Worth of Digital Assets to Exchange Platforms Overnight – Insights by YL Computing and Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/keep-your-graphics-card-cool-essential-tips-and-tricks-by-yl-computing-professionals/"><u>Keep Your Graphics Card Cool: Essential Tips and Tricks by YL Computing Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation-for-2024/"><u>Launch Your Filmmaking Dreams XP Edition Preparation for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g34-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-xpath-helper-a-comprehensive-guide-by-yl-computing-unlock-efficient-web-page-scraping/"><u>Mastering XPath Helper: A Comprehensive Guide by YL Computing - Unlock Efficient Web Page Scraping</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-crypto-assets-with-insights-from-yl-software-experts/"><u>Navigating Uncertainty: Exploring the Hazards of Crypto Assets with Insights From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/premium-ashley-greene-picture-gallery-for-pc-ultra-definition-hd-walls-and-images-by-yl-digital-artistry/"><u>Premium Ashley Greene Picture Gallery for PC: Ultra Definition HD Walls and Images by YL Digital Artistry</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-software-inspired-lovely-background-graphics-in-hd-photo-collections-wallpapers-and-more/"><u>YL Software Inspired Lovely Background Graphics in HD: Photo Collections, Wallpapers, and More!</u></a></li>
 </ul></div>
 

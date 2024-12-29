@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Classic Beats: Premium PCDJ SB2 DEX 3 Throwback Designs Featuring Iconic Red 5.2 Visual Skins"
-date: 2024-12-16T17:10:04.421Z
-updated: 2024-12-24T06:43:47.792Z
+date: 2024-12-24T23:02:23.348Z
+updated: 2024-12-29T21:47:58.587Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,21 +75,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-integrating-secure-recording-in-your-workflow/"><u>[New] 2024 Approved Integrating Secure Recording in Your Workflow</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-silence-social-advertisements-for-a-smoother-stream/"><u>[Updated] 2024 Approved Silence Social Advertisements for a Smoother Stream</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-influencers-utopia-summit/"><u>[Updated] In 2024, Influencers' Utopia Summit</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution-for-2024/"><u>[Updated] Pushing Boundaries The Spectrum of Colors and 4K Resolution for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-30-quotes-on-metacosm-realities-for-2024/"><u>[Updated] The Ultimate 30 Quotes on Metacosm Realities for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-navigating-tax-consequences-a-comprehensive-guide-to-crypto-investment-and-its-fiscal-effects-insights-by-yl-computing/"><u>1. Navigating Tax Consequences: A Comprehensive Guide to Crypto Investment and Its Fiscal Effects - Insights by YL Computing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-real-time-engagement-strategies-for-online-streamers/"><u>2024 Approved Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/choosing-the-perfect-laptop-expert-analysis-from-yl-computing-and-yl-software-unveiled/"><u>Choosing the Perfect Laptop: Expert Analysis From YL Computing & YL Software Unveiled</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-how-windows-11-revolutionizes-user-experience-with-its-new-interface-features-analyzed-by-yl-software/"><u>Discover How Windows 11 Revolutionizes User Experience with Its New Interface Features – Analyzed by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/hd-summer-wallpaper-collection-high-resolution-seasonal-backgrounds-by-yl-software/"><u>HD Summer Wallpaper Collection - High-Resolution Seasonal Backgrounds by YL Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-farewell-your-instagram-presence-permanently/"><u>How to Farewell Your Instagram Presence Permanently</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-play-40c-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor Play 40C</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-troubleshoot-a-malfunctioning-gpu-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning GPU: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/taiwans-commitment-ensuring-citizen-health-amidst-japans-fukushima-water-discharge-with-rigorous-seafood-safety-measures-yl-computing-and-software/"><u>Taiwan's Commitment: Ensuring Citizen Health Amidst Japan’s Fukushima Water Discharge with Rigorous Seafood Safety Measures - YL Computing & Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-role-of-blockchain-in-backing-cryptocurrencies-a-deep-dive-by-yl-software-experts/"><u>The Role of Blockchain in Backing Cryptocurrencies: A Deep Dive by YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-free-gaming-resolving-continuous-crashes-in-darkest-dungeon-2-for-pc-players/"><u>Trouble-Free Gaming: Resolving Continuous Crashes in Darkest Dungeon 2 for PC Players</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-comprehensive-insight-into-benqs-bl2711u-pioneering-the-4k-standard-for-2024/"><u>[New] A Comprehensive Insight Into BenQ’s BL2711U - Pioneering the 4K Standard for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-steam-pro-controllers-on-switch/"><u>[New] In 2024, The Ultimate Guide to Steam Pro Controllers on Switch</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-echo-generator-blueprint-for-2024/"><u>[Updated] Echo Generator Blueprint for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-financial-flourishing-in-youtube-content-markets/"><u>[Updated] Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-sound-preferences-via-the-windows-control-panel-a-step-by-step-guide/"><u>Adjusting Your Sound Preferences via the Windows Control Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/emeditor-text-editor-update-enhance-your-workflow-with-the-latest-prompt-for-parameter-feature-in-external-tools/"><u>EmEditor Text Editor Update: Enhance Your Workflow with the Latest 'Prompt for Parameter' Feature in External Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exciting-family-adventure-with-holy-stone-remote-control-cartoon-racer-kit/"><u>Exciting Family Adventure with Holy Stone Remote Control Cartoon Racer Kit!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-speed-up-your-computers-boot-process-essential-tips-from-yl-software-experts/"><u>How to Speed Up Your Computer's Boot Process: Essential Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/maximize-efficiency-on-your-pc-with-advanced-windows-11-optimization-techniques-for-dex-lyrx-and-pcdj-users/"><u>Maximize Efficiency on Your PC with Advanced Windows 11 Optimization Techniques for DEX, LYRX, and PCDJ Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/press-statement-on-dex-31101-release-new-features-and-enhancements-for-pcdj-professional-djing-tools/"><u>Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-process-for-acquiring-moviemaker-6-on-pcs-for-2024/"><u>Step-by-Step Process for Acquiring Moviemaker 6 on PCs for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-future-of-gaming-unleashed-integration-of-mobile-device-ar-headset-and-cloud-services-into-a-revolutionary-hybrid-system/"><u>The Future of Gaming Unleashed: Integration of Mobile Device, AR Headset and Cloud Services Into a Revolutionary Hybrid System</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshoot-your-windows-updates-like-a-pro-insider-fixes-by-the-experts-at-yl-software/"><u>Troubleshoot Your Windows Updates Like a Pro: Insider Fixes by the Experts at YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-fails-to-boot-yl-tech-solutions/"><u>Troubleshooting Steps: What to Do When Your PC Fails to Boot - YL Tech Solutions</u></a></li>
 </ul></div>
 

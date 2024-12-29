@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide
-date: 2024-12-22T18:44:10.204Z
-updated: 2024-12-23T23:54:39.288Z
+date: 2024-12-23T21:00:56.001Z
+updated: 2024-12-29T20:43:32.068Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where do you get Shaders?
 
 [Shadertoy.com](http://www.shadertoy.com) is a website platform that allows users to build and share Shaders with the world. Lucky for us, there are hundreds if not thousands of **free** Shaders to select from. Shaders come in a wide variety but they all display motion and are almost always beat-aware, with a few exceptions.
@@ -39,40 +35,40 @@ Shaders also vary greatly on how much resources they will use — from light to 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shaders
 
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Here’s a step-by-step demonstration of how it’s done:**
 
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
 
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
 
@@ -95,6 +91,10 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-08-01 11:43:222018-10-02 12:56:06DEX 3 DJ Software | How to Install ‘Shaders’ for On-Screen Visualizations from Shadertoy.com}
@@ -114,16 +114,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[Updated] 2024 Approved Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-why-the-future-of-videography-is-in-hdrs-arms/"><u>[Updated] 2024 Approved Why the Future of Videography Is in HDR's Arms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-journey-to-excellent-ps2-gaming-via-these-5-android-apps/"><u>[Updated] Journey to Excellent PS2 Gaming via These 5 Android Apps</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-excellent-no-cost-file-recovery-tools-compatible-with-windows-a-comprehensive-guide/"><u>Discover Excellent No-Cost File Recovery Tools Compatible with Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effective-strategies-by-yl-software-to-identify-hardware-failures-a-comprehensive-guide/"><u>Effective Strategies by YL Software to Identify Hardware Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/installer-des-logiciels-sur-plusieurs-machines-en-une-seule-action-guide-facile-a-suivre/"><u>Installer Des Logiciels Sur Plusieurs Machines en Une Seule Action : Guide Facile À Suivre</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-crypto-assets-with-insights-from-yl-software-experts/"><u>Navigating Uncertainty: Exploring the Hazards of Crypto Assets with Insights From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/personalizing-your-windows-10-taskbar-a-step-by-step-guide-insights-from-yl-computing/"><u>Personalizing Your Windows 10 Taskbar: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-connect-and-configure-racing-steering-wheels-with-pc-games/"><u>Step-by-Step Instructions to Connect and Configure Racing Steering Wheels with PC Games</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-software-inspired-lovely-background-graphics-in-hd-photo-collections-wallpapers-and-more/"><u>YL Software Inspired Lovely Background Graphics in HD: Photo Collections, Wallpapers, and More!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-gain-graph-finns-financial-flux/"><u>[New] Gaming Gain Graph Finn's Financial Flux</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-6-tools-for-saving-linkedin-videos-effortlessly/"><u>[New] In 2024, Top 6 Tools for Saving LinkedIn Videos Effortlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelpilot-studio-plus-advanced-os-recorder/"><u>[New] PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-slowly-suppressing-audio-loudness/"><u>[New] Slowly Suppressing Audio Loudness</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-gateway-to-success-with-a-bundle-of-50-free-adornments-in-2024/"><u>[New] Your Gateway to Success with a Bundle of 50 FREE Adornments, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-correcting-excessive-encoding-in-obs/"><u>[Updated] Correcting Excessive Encoding in OBS</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/dynamic-wallpaper-creation-by-yl-software-vibrant-blue-and-purple-gradient-background-featuring-white-abstract-patterns-in-hd-quality/"><u>Dynamic Wallpaper Creation by YL Software - Vibrant Blue and Purple Gradient Background Featuring White Abstract Patterns in HD Quality</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-guide-discover-your-graphics-cards-current-driver-version-tips-from-yl-computing/"><u>Easy Guide: Discover Your Graphics Card's Current Driver Version - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-holly-valance-desktop-scenes-and-visuals-by-yl-computings-digital-creations/"><u>High-Definition Holly Valance Desktop Scenes & Visuals by YL Computing's Digital Creations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-poco-f5-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Poco F5 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gaming-rigs-with-the-durable-high-capacity-cooler-master-ncore-100-max-standalone-chassis/"><u>Mastering Gaming Rigs with the Durable, High-Capacity Cooler Master NCore 100 Max Standalone Chassis</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-the-hazards-of-crypto-asset-allocation-with-expertise-from-yl-software/"><u>Navigating the Hazards of Crypto Asset Allocation with Expertise From YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/protect-your-personal-info-learn-how-to-password-lock-files-in-windows-using-yls-simple-method/"><u>Protect Your Personal Info: Learn How to Password-Lock Files in Windows Using YL's Simple Method</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-powered-by-yl-software-solutions/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-processor-malfunctions-comprehensive-guide-by-yl-software-specialists/"><u>Solving Processor Malfunctions: Comprehensive Guide by YL Software Specialists</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-tips-how-to-fix-scanner-detection-issues-learn-from-experts-at-yl-computing/"><u>Troubleshooting Tips: How to Fix Scanner Detection Issues - Learn From Experts at YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-mov-recording-potential-win-11s-top-six-methods/"><u>Unlocking .MOV Recording Potential Win 11'S Top Six Methods</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/vote-now-in-the-making-beats-count-challenge-choose-your-top-pick-for-best-music-video/"><u>Vote Now in the Making Beats Count Challenge! Choose Your Top Pick for Best Music Video</u></a></li>
 </ul></div>
 

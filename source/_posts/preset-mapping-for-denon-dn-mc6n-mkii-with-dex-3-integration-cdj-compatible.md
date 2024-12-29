@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2024-12-21T01:45:38.884Z
-updated: 2024-12-24T07:59:02.332Z
+date: 2024-12-26T22:52:41.111Z
+updated: 2024-12-29T18:45:38.102Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,20 +56,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-through-the-clutter-youtubes-copyright-evolution/"><u>[New] In 2024, Cutting Through the Clutter YouTube's Copyright Evolution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-your-thriving-youtube-space-for-gamers/"><u>[Updated] 2024 Approved Building Your Thriving YouTube Space for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-choosing-your-best-vr-camera-insights/"><u>[Updated] Choosing Your Best VR Camera Insights</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/biological-self-healing-uses-bacteria-within-microcapsules-that-produce-calcium-carbonate-to-seal-cracks-upon-exposure-to-water/"><u>Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.</u></a></li>
-<li><a href="https://win-online.techidaily.com/concepteur-video-facile-a-utiliser-et-intuitif-movavi-editeur-de-videos/"><u>Concepteur Vidéo Facile À Utiliser Et Intuitif - Movavi Éditeur De Vidéos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cost-effective-shielding-for-your-macbook-pro-13-a-review-of-the-no-nonsense-procase-sleeve/"><u>Cost-Effective Shielding for Your MacBook Pro 13: A Review of the No-Nonsense ProCase Sleeve</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-safe-email-platforms-the-ultimate-guide/"><u>Discover the Leading Safe Email Platforms: The Ultimate Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-screen-behavior-in-your-windows-11-machine/"><u>How to Stop Erratic Screen Behavior in Your Windows 11 Machine</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/identifying-and-fixing-memory-issues-on-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Fixing Memory Issues on Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/personalizing-user-profiles-a-comprehensive-guide-with-yl-computing/"><u>Personalizing User Profiles: A Comprehensive Guide with YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-sound-problems-in-windows-and-macos-understanding-why-your-sound-card-fails-to-function-expert-advice-from-yl-software/"><u>Solving Sound Problems in Windows & MacOS: Understanding Why Your Sound Card Fails to Function - Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-navigating-to-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-unresponsive-gpus-a-guide-yl-computing-explains/"><u>Troubleshooting Unresponsive GPUs: A Guide - YL Computing Explains</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-stream-without-interruptions-fix-mobile-video-problems/"><u>[New] 2024 Approved Stream Without Interruptions - Fix Mobile Video Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-role-playing-roblox-and-mac-techniques/"><u>[New] Capturing Role-Playing Roblox & Mac Techniques</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-laptop-wont-charge-despite-being-connected-to-power-with-windows-11/"><u>Diagnosing and Fixing 'Laptop Won't Charge Despite Being Connected to Power with Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ensuring-optimal-safety-for-your-windows-system-using-windows-defender-tips-and-strategies-by-yl-software-experts/"><u>Ensuring Optimal Safety for Your Windows System Using Windows Defender - Tips & Strategies by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-coffee-themed-desktop-backgrounds-and-wallsavers-by-yl-computing-your-trusted-source-for-digital-art/"><u>High-Definition Coffee Themed Desktop Backgrounds & Wallsavers by YL Computing - Your Trusted Source for Digital Art</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-your-gpu-not-recognized-in-windows-solutions-from-yl-computing/"><u>How to Fix Your GPU Not Recognized in Windows: Solutions From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-highlight-optimization-checklist-for-brands/"><u>In 2024, The Ultimate Highlight Optimization Checklist for Brands</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-edge-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Edge 40 Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-game-crashes-in-how-to-build-a-metropolis-cities-skylines-updated-tips/"><u>Master the Art of Troubleshooting Game Crashes in How to Build a Metropolis: Cities Skylines [Updated Tips]</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-track-blending-effortlessly-using-pcdj-dex-3s-cutting-edge-artificial-intelligence/"><u>Mastering Track Blending Effortlessly Using PCDJ DEX 3’S Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/solving-pooling-problems-a-comprehensive-guide-techniques-and-tips-by-yl-computing/"><u>Solving Pooling Problems: A Comprehensive Guide - Techniques and Tips by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-and-repairing-your-graphics-card-expert-tips-from-yl-computing/"><u>Troubleshooting and Repairing Your Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-scanners-low-quality-images-an-expert-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Low-Quality Images: An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-computings-latest-innovation-imdesktop-enhance-your-pc-with-dynamic-live-and-high-quality-video-wallpapers/"><u>YL Computing's Latest Innovation: ImDesktop - Enhance Your PC with Dynamic Live and High-Quality Video Wallpapers</u></a></li>
 </ul></div>
 

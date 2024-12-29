@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial"
-date: 2024-12-20T22:42:28.819Z
-updated: 2024-12-24T05:14:01.507Z
+date: 2024-12-24T20:21:10.976Z
+updated: 2024-12-29T22:02:25.590Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-narzo-60-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme Narzo 60 5G PC | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comprehensive-guide-enhancing-your-systems-health-through-yls-advanced-technical-support-services/"><u>Comprehensive Guide: Enhancing Your System's Health Through YL's Advanced Technical Support Services</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-steam-remote-play-running-smoothly-again-with-these-tips/"><u>Get Your Steam Remote Play Running Smoothly Again with These Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y27-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y27 5G without App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-xr-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/master-multitasking-with-dual-windows-a-step-by-step-guide-by-yl-software-experts/"><u>Master Multitasking with Dual Windows: A Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/new-update-3751-now-installed-on-dex-mk3-re-and-le-versions-of-professional-dj-program/"><u>New Update! 3.7.5.1 Now Installed on DEX-MK3 RE and LE Versions of Professional DJ Program</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/replacing-a-faulty-optical-drive-a-step-by-step-guide-tech-insights-with-yl/"><u>Replacing a Faulty Optical Drive: A Step-by-Step Guide - Tech Insights with YL</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210614415-9781648291173-restorative-rituals/"><u>Restorative Rituals | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>[New] In 2024, The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transforming-ordinary-moments-into-viral-instagram-reels/"><u>[New] In 2024, Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-crafting-masterpieces-top-meme-templates/"><u>[Updated] 2024 Approved Crafting Masterpieces Top Meme Templates</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-identifying-the-root-of-your-hardwares-slowdown-insights-by-yl-computing-and-software-solutions/"><u>1. Identifying the Root of Your Hardware's Slowdown: Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-understanding-whatsapps-telephony-services/"><u>2024 Approved Understanding WhatsApp’s Telephony Services</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/complete-guide-how-to-successfully-installuninstall-applications-using-the-windows-control-panel-tips-from-yl-computing/"><u>Complete Guide: How To Successfully Install/Uninstall Applications Using the Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easily-accessing-contents-of-zip-files-in-windows-expert-advice-from-yl-software-solutions/"><u>Easily Accessing Contents of .zip Files in Windows: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-tips-and-tricks-for-modifying-the-start-menu-on-pcs-by-yl-software-experts/"><u>Easy Tips & Tricks for Modifying the Start Menu on PCs by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-does-windows-defender-stack-up-against-leading-antivirus-solutions-unveiling-the-truth-with-yl-software-expertise/"><u>How Does Windows Defender Stack Up Against Leading Antivirus Solutions? Unveiling the Truth with YL Software Expertise</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-fastforge-slowscene-videograph/"><u>In 2024, FastForge SlowScene Videograph</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-hand-gesture-recognition/"><u>In 2024, Navigating the World of Hand Gesture Recognition</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/is-windows-defender-a-reliable-substitute-for-traditional-antivirus-software-insights-from-yl-computing/"><u>Is Windows Defender a Reliable Substitute for Traditional Antivirus Software? - Insights From YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-conversion-the-ultimate-guide-to-changing-mpg-into-mp4-on-your-macbook/"><u>Mastering the Conversion: The Ultimate Guide to Changing MPG Into MP4 on Your MacBook</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/maximizing-your-computers-potential-a-comprehensive-guide-by-yl-computing/"><u>Maximizing Your Computer's Potential: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-photoplusvideo-integration-with-iphone/"><u>Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-windows-file-types-a-comprehensive-guide-to-supported-extensions-from-yl-software-experts/"><u>Navigating Windows File Types: A Comprehensive Guide to Supported Extensions From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolving-command-issues-with-your-printer-a-step-by-step-guide-by-yl-software/"><u>Resolving Command Issues with Your Printer: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphones-fix-detection-issues-on-windows-11/"><u>Troubleshooting Missing Headphones: Fix Detection Issues on Windows 11</u></a></li>
 </ul></div>
 

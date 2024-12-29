@@ -1,7 +1,7 @@
 ---
 title: Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.
-date: 2024-12-17T03:35:05.870Z
-updated: 2024-12-23T22:34:33.652Z
+date: 2024-12-25T22:42:25.316Z
+updated: 2024-12-29T17:47:35.980Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>[New] 2024 Approved Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fostering-fun-with-metaverse-satirical-artifacts/"><u>[New] Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edges-in-mobile-photography-best-phones-for-clear-videos/"><u>2024 Approved Leading Edges in Mobile Photography Best Phones for Clear Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-leading-long-sleeve-mouse-mats-a-buyers-ranking/"><u>2024'S Leading Long-Sleeve Mouse Mats: A Buyer’s Ranking</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/distance-not-a-barrier-expert-podcast-recording-advice-for-2024/"><u>Distance Not a Barrier Expert Podcast Recording Advice for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ensuring-smooth-interoperability-of-devices-and-programs-tips-from-yl-software-experts/"><u>Ensuring Smooth Interoperability of Devices and Programs: Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-definition-sunset-scenes-stunning-wallpaper-visuals-by-yl-computings-expertly-crafted-imagery/"><u>High-Definition Sunset Scenes: Stunning Wallpaper Visuals by YL Computing's Expertly Crafted Imagery</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-quality-romance-hd-wallpaper-collection-stunning-banners-and-pics-by-yl-computing/"><u>High-Quality Romance HD Wallpaper Collection - Stunning Banners & Pics by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-increase-your-chances-of-finding-a-match-on-bumble-proven-strategies/"><u>How to Increase Your Chances of Finding a Match on Bumble: Proven Strategies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-t2-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo T2 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-protection-configuring-yl-computing-firewalls-for-optimal-safety/"><u>Mastering Protection: Configuring YL Computing Firewalls for Optimal Safety</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-restore-error-0x80042306-quickly/"><u>Overcoming Windows Restore Error 0X80042306 Quickly</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-scanner-issues-a-comprehensive-guide-tech-solutions-by-yl/"><u>Solving Scanner Issues: A Comprehensive Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-sound-card-driver-issues-a-step-by-step-guide-by-yl-computing/"><u>Solving Sound Card Driver Issues: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-finding-and-using-the-network-and-sharing-center-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Finding & Using the Network & Sharing Center via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/trouble-free-solutions-for-faulty-hard-drives-learn-the-steps-to-repair-by-guided-instructions-from-yl-software-professionals/"><u>Trouble-Free Solutions for Faulty Hard Drives - Learn the Steps to Repair by Guided Instructions From YL Software Professionals</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-unresponsive-gpus-a-guide-yl-computing-explains/"><u>Troubleshooting Unresponsive GPUs: A Guide - YL Computing Explains</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-f25-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo F25 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/video-editing-made-easy-how-to-proficiently-use-movie-maker-in-win11-for-2024/"><u>Video Editing Made Easy How to Proficiently Use Movie Maker in Win11 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-discovering-the-best-in-webcam-videography-tech/"><u>[New] 2024 Approved Discovering the Best in WebCam Videography Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-players-guide-to-unforgettable-virtual-realities-for-2024/"><u>[New] Players' Guide to Unforgettable Virtual Realities for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ensuring-optimal-safety-for-your-windows-system-using-windows-defender-tips-and-strategies-by-yl-software-experts/"><u>Ensuring Optimal Safety for Your Windows System Using Windows Defender - Tips & Strategies by YL Software Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-track-blending-effortlessly-using-pcdj-dex-3s-cutting-edge-artificial-intelligence/"><u>Mastering Track Blending Effortlessly Using PCDJ DEX 3’S Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/q500-typhoon-yuneecs-high-resolution-bliss/"><u>Q500 Typhoon - Yuneec's High-Resolution Bliss</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-xcover-7-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy XCover 7)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-list-of-premium-cable-modems-dominating-internet-speeds-this-year/"><u>The Definitive List of Premium Cable Modems Dominating Internet Speeds This Year</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-scanners-low-quality-images-an-expert-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Low-Quality Images: An Expert Guide by YL Computing</u></a></li>
 </ul></div>
 
