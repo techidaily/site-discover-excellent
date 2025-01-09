@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2024-12-23T16:24:36.118Z
-updated: 2024-12-29T17:31:13.970Z
+date: 2025-01-07T21:06:50.140Z
+updated: 2025-01-08T17:21:54.613Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-direct-slideshow-content-into-video-realm/"><u>[New] 2024 Approved Direct Slideshow Content Into Video Realm</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essential-vsco-editing-techniques-summary/"><u>[Updated] 2024 Approved Essential VSCO Editing Techniques Summary</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-post-a-picture-on-youtube/"><u>[Updated] 2024 Approved How to Post a Picture on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>[Updated] Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decoding-the-new-era-of-video-editing-with-vivacut-for-2024/"><u>Decoding the New Era of Video Editing with VivaCut for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-excellent-no-cost-file-recovery-tools-compatible-with-windows-a-comprehensive-guide/"><u>Discover Excellent No-Cost File Recovery Tools Compatible with Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effective-techniques-to-fix-driver-problems-guided-by-yl-computing-experts/"><u>Effective Techniques to Fix Driver Problems, Guided by YL Computing Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/incredible-movement-detected-ftx-and-alameda-research-shift-a-staggering-131m-worth-of-digital-assets-to-exchange-platforms-overnight-insights-by-yl-computi44/"><u>Incredible Movement Detected: FTX & Alameda Research Shift a Staggering $13.1M Worth of Digital Assets to Exchange Platforms Overnight – Insights by YL Computing and Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/keep-your-graphics-card-cool-essential-tips-and-tricks-by-yl-computing-professionals/"><u>Keep Your Graphics Card Cool: Essential Tips and Tricks by YL Computing Professionals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation-for-2024/"><u>Launch Your Filmmaking Dreams XP Edition Preparation for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g34-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G34 5G</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-xpath-helper-a-comprehensive-guide-by-yl-computing-unlock-efficient-web-page-scraping/"><u>Mastering XPath Helper: A Comprehensive Guide by YL Computing - Unlock Efficient Web Page Scraping</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-crypto-assets-with-insights-from-yl-software-experts/"><u>Navigating Uncertainty: Exploring the Hazards of Crypto Assets with Insights From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/premium-ashley-greene-picture-gallery-for-pc-ultra-definition-hd-walls-and-images-by-yl-digital-artistry/"><u>Premium Ashley Greene Picture Gallery for PC: Ultra Definition HD Walls and Images by YL Digital Artistry</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-software-inspired-lovely-background-graphics-in-hd-photo-collections-wallpapers-and-more/"><u>YL Software Inspired Lovely Background Graphics in HD: Photo Collections, Wallpapers, and More!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-overlay-solutions-for-your-videos-for-2024/"><u>[New] Best Overlay Solutions for Your Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[New] In 2024, The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-hashtags-for-youtube-audience-surge/"><u>[Updated] Proven #Hashtags for YouTube Audience Surge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elite-9-directors-cuts-downloader/"><u>2024 Approved Elite 9 Directors' Cuts Downloader</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/accelerate-online-browsing-enhancing-your-internet-connection-with-yl-software-solutions/"><u>Accelerate Online Browsing: Enhancing Your Internet Connection with YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-your-windows-pc-with-our-scanner-overcoming-compatibility-concerns-by-yl-computing/"><u>Can You Rely on Your Windows PC with Our Scanner - Overcoming Compatibility Concerns by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/enhance-your-deck-setup-in-dex-3-using-shader-visuals-from-shadertoy-easy-installation-guide/"><u>Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhancing-listening-pleasure-mastering-the-adaptive-audio-technology-in-apple-airpods-pro/"><u>Enhancing Listening Pleasure: Mastering the Adaptive Audio Technology in Apple AirPods Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-connection-to-ea-servers-on-your-pc/"><u>Fixing No Connection to EA Servers on Your PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>From Large Files to Tiny Previews Crafting Stunning Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-film-teasers-with-music-selections-for-2024/"><u>Harmonizing Film Teasers with Music Selections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/initially-yours-the-ultimate-gear-list-for-gopros-for-2024/"><u>Initially Yours The Ultimate Gear List for GoPros for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/transform-audio-creations-using-pcdj-deckards-newest-innovation-the-dex-iii-edition/"><u>Transform Audio Creations Using PCDJ Deckard's Newest Innovation - The DeX III Edition!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-a-complete-lack-of-display-at-startup-causes-and-fixes-by-yl-experts-in-computing-and-software-development/"><u>Troubleshooting a Complete Lack of Display at Startup: Causes & Fixes by YL Experts in Computing and Software Development</u></a></li>
 </ul></div>
 

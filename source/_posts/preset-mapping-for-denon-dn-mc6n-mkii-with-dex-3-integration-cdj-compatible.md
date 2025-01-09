@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2024-12-26T22:52:41.111Z
-updated: 2024-12-29T18:45:38.102Z
+date: 2025-01-05T18:38:42.768Z
+updated: 2025-01-09T01:57:50.352Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,22 +56,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-stream-without-interruptions-fix-mobile-video-problems/"><u>[New] 2024 Approved Stream Without Interruptions - Fix Mobile Video Problems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-role-playing-roblox-and-mac-techniques/"><u>[New] Capturing Role-Playing Roblox & Mac Techniques</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-laptop-wont-charge-despite-being-connected-to-power-with-windows-11/"><u>Diagnosing and Fixing 'Laptop Won't Charge Despite Being Connected to Power with Windows 11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ensuring-optimal-safety-for-your-windows-system-using-windows-defender-tips-and-strategies-by-yl-software-experts/"><u>Ensuring Optimal Safety for Your Windows System Using Windows Defender - Tips & Strategies by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-definition-coffee-themed-desktop-backgrounds-and-wallsavers-by-yl-computing-your-trusted-source-for-digital-art/"><u>High-Definition Coffee Themed Desktop Backgrounds & Wallsavers by YL Computing - Your Trusted Source for Digital Art</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-your-gpu-not-recognized-in-windows-solutions-from-yl-computing/"><u>How to Fix Your GPU Not Recognized in Windows: Solutions From YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-highlight-optimization-checklist-for-brands/"><u>In 2024, The Ultimate Highlight Optimization Checklist for Brands</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-edge-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Edge 40 Location | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-game-crashes-in-how-to-build-a-metropolis-cities-skylines-updated-tips/"><u>Master the Art of Troubleshooting Game Crashes in How to Build a Metropolis: Cities Skylines [Updated Tips]</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-track-blending-effortlessly-using-pcdj-dex-3s-cutting-edge-artificial-intelligence/"><u>Mastering Track Blending Effortlessly Using PCDJ DEX 3’S Cutting-Edge Artificial Intelligence</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/solving-pooling-problems-a-comprehensive-guide-techniques-and-tips-by-yl-computing/"><u>Solving Pooling Problems: A Comprehensive Guide - Techniques and Tips by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-and-repairing-your-graphics-card-expert-tips-from-yl-computing/"><u>Troubleshooting and Repairing Your Graphics Card: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-scanners-low-quality-images-an-expert-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Low-Quality Images: An Expert Guide by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-computings-latest-innovation-imdesktop-enhance-your-pc-with-dynamic-live-and-high-quality-video-wallpapers/"><u>YL Computing's Latest Innovation: ImDesktop - Enhance Your PC with Dynamic Live and High-Quality Video Wallpapers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>[Updated] Elevate Your Mind While You Multitask Top 15 Ideas for Podcast Lovers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/achieve-higher-scanning-fidelity-with-expert-calibration-strategies-from-yl-software-experts/"><u>Achieve Higher Scanning Fidelity with Expert Calibration Strategies From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/die-effektivste-und-einfachste-methode-fur-ein-system-backup-in-windows-die-top-freie-losung/"><u>Die Effektivste Und Einfachste Methode Für Ein System-Backup in Windows 지원 [Die Top-Freie Lösung]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-up-space-on-your-windows-11-computer-removing-full-backup-disks-efficiently/"><u>Free Up Space on Your Windows 11 Computer: Removing Full Backup Disks Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-4k-a-look-at-the-d500-model/"><u>In 2024, The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-virtual-vanguards-the-leading-ladies-of-gaming/"><u>In 2024, Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/passaggi-per-ripristinare-il-tuo-sistema-con-successo-tutorial-di-installazione-approfonditi/"><u>Passaggi per Ripristinare Il Tuo Sistema Con Successo: Tutorial Di Installazione Approfonditi</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/scopri-il-confronto-tra-i-diversi-releases-di-aomei-backupper-sul-web/"><u>Scopri Il Confronto Tra I Diversi Releases Di AOMEI Backupper Sul Web</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/sicura-conservazione-backup-di-outlook-assicurati-la-protezione-dei-tuoi-importanti-datini/"><u>Sicura Conservazione Backup Di Outlook: Assicurati La Protezione Dei Tuoi Importanti Datini</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/soluzione-rapida-scopri-perche-la-scheda-sd-della-tua-fotocamera-non-mostra-piu-le-foto/"><u>Soluzione Rapida: Scopri Perché La Scheda SD Della Tua Fotocamera Non Mostra Più Le Foto</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/titre-top-des-solutions-logicielles-pour-recuperer-vos-photos-a-laide-de-la-technologie-ghost/"><u>Titre : « Top Des Solutions Logicielles Pour Récupérer Vos Photos À L'aide De La Technologie GHOST »</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mobile-wi-fi-devices-ultimate-list/"><u>Top-Rated Mobile Wi-Fi Devices: Ultimate List</u></a></li>
+<li><a href="https://techidaily.com/toshiba-laptop-hard-reset-complete-guide-in-simple-steps/"><u>Toshiba Laptop Hard Reset: Complete Guide in Simple Steps</u></a></li>
 </ul></div>
 

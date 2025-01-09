@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2024-12-24T20:48:48.508Z
-updated: 2024-12-29T19:17:16.210Z
+date: 2025-01-07T19:14:43.060Z
+updated: 2025-01-09T02:27:34.389Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -75,12 +67,16 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -88,13 +84,17 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -116,22 +116,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-primes-trending-topics-highest-tweets-and-watch-count-achievements/"><u>[New] 2024 Approved Prime’s Trending Topics Highest Tweets & Watch Count Achievements</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>[New] In 2024, Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-packaging-a-marketing-approach/"><u>[New] Unraveling the Packaging A Marketing Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-dual-purpose-macbook-stand-and-charger-at-just-102-features-reviewed-by-zdnet/"><u>Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/elevate-your-devices-aesthetics-with-the-ultimate-bentley-bentayga-speed-edition-backgrounds-and-images-by-yl-software/"><u>Elevate Your Device's Aesthetics with the Ultimate Bentley Bentayga Speed Edition Backgrounds and Images by YL Software</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-quality-romance-hd-wallpaper-collection-stunning-banners-and-pics-by-yl-computing/"><u>High-Quality Romance HD Wallpaper Collection - Stunning Banners & Pics by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2010</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>In 2024, The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-protection-configuring-yl-computing-firewalls-for-optimal-safety/"><u>Mastering Protection: Configuring YL Computing Firewalls for Optimal Safety</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-sound-card-driver-issues-a-step-by-step-guide-by-yl-computing/"><u>Solving Sound Card Driver Issues: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-finding-and-using-the-network-and-sharing-center-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Finding & Using the Network & Sharing Center via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-navigating-to-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-correcting-failed-to-play-video-issue-error-224003/"><u>The Ultimate Guide to Correcting 'Failed to Play' Video Issue (Error 224003)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/trouble-free-solutions-for-faulty-hard-drives-learn-the-steps-to-repair-by-guided-instructions-from-yl-software-professionals/"><u>Trouble-Free Solutions for Faulty Hard Drives - Learn the Steps to Repair by Guided Instructions From YL Software Professionals</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-unresponsive-gpus-a-guide-yl-computing-explains/"><u>Troubleshooting Unresponsive GPUs: A Guide - YL Computing Explains</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-the-distinctions-between-xavc-s-and-avchd-plus-a-guide-on-transforming-xavc-s-into-mp4-format/"><u>Understanding the Distinctions Between XAVC S and AVCHD, Plus a Guide on Transforming XAVC S Into MP4 Format</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-experts-choice-extracting-youtube-video-intros-online-for-2024/"><u>[Updated] Expert's Choice Extracting Youtube Video Intros Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-with-your-macbooks-camera/"><u>[Updated] How to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1-convert-avi-videos-free-top-online-and-downloadable-swf-file-changers/"><u>1. Convert AVI Videos Free: Top Online & Downloadable Swf File Changers</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-tips-and-tricks-for-modifying-the-start-menu-on-pcs-by-yl-software-experts/"><u>Easy Tips & Tricks for Modifying the Start Menu on PCs by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/halloweens-hottest-tracks-20-must-play-dance-anthems-for-spooky-parties-pcdj/"><u>Halloween's Hottest Tracks: 20 Must-Play Dance Anthems for Spooky Parties | PCDJ</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-does-windows-defender-stack-up-against-leading-antivirus-solutions-unveiling-the-truth-with-yl-software-expertise/"><u>How Does Windows Defender Stack Up Against Leading Antivirus Solutions? Unveiling the Truth with YL Software Expertise</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-access-steps-to-remove-passcode-barrier-easily/"><u>IPad Access: Steps to Remove Passcode Barrier Easily</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-viewing-pdf-documents-on-windows-using-yl-software-solutions/"><u>Mastering the Art of Viewing PDF Documents on Windows Using YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-windows-file-types-a-comprehensive-guide-to-supported-extensions-from-yl-software-experts/"><u>Navigating Windows File Types: A Comprehensive Guide to Supported Extensions From YL Software Experts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
 </ul></div>
 
