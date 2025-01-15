@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial"
-date: 2025-01-01T16:28:07.869Z
-updated: 2025-01-08T22:23:24.723Z
+date: 2025-01-07T20:42:06.390Z
+updated: 2025-01-14T16:15:34.496Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-ultimate-guide-top-10-photography-frame-tools/"><u>[Updated] Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-how-can-you-ensure-peak-system-efficiency-with-yl-software-solutions/"><u>1. How Can You Ensure Peak System Efficiency with YL Software Solutions?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-the-potential-income-from-cryptocurrency-trades-with-yl-softwares-expert-guidance/"><u>Discover the Potential Income From Cryptocurrency Trades with YL Software's Expert Guidance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/employer-preferences-human-expertise-vs-artificial-intelligence-which-will-secure-your-future-in-the-job-market/"><u>Employer Preferences: Human Expertise Vs. Artificial Intelligence - Which Will Secure Your Future in the Job Market?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ensuring-precision-in-address-verification-a-look-inside-yl-computings-innovative-approach/"><u>Ensuring Precision in Address Verification: A Look Inside YL Computing's Innovative Approach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc-for-2024/"><u>Freeze Frame Perfection The Best 9 Apps to Record and Save Animation on PC for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-affordable-hardware-excellent-obs-setup/"><u>In 2024, Affordable Hardware Excellent OBS Setup</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone XS Max</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-tips-efficient-file-shifting-to-computer-for-2024/"><u>Quick Tips Efficient File Shifting to Computer for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-activating-and-deactivating-your-pcs-firewall-on-windows-10-tips-from-yl-software/"><u>Step-by-Step Guide: Activating and Deactivating Your PC's Firewall on Windows 10 - Tips From YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-in-class-android-storage-solutions-cloud-edition-2024/"><u>[New] Best-in-Class Android Storage Solutions (Cloud Edition, 2024)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>[Updated] Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/antibiotic-resistance-is-a-significant-challenge-leading-to-limited-treatment-options-for-pediatric-patients/"><u>Antibiotic Resistance Is a Significant Challenge, Leading to Limited Treatment Options for Pediatric Patients.</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-pratique-restaurer-un-disque-dur-wd-exterieur-raw-en-securite-sans-pertes-dinformations/"><u>Guide Pratique : Restaurer Un Disque Dur WD Extérieur RAW en Sécurité, Sans Pertes D'Informations</u></a></li>
+<li><a href="https://win-data.techidaily.com/identifying-the-reasons-behind-cpu-overheating-expert-insights-from-yl-computing/"><u>Identifying the Reasons Behind CPU Overheating - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-best-10-chinese-video-to-english-translators/"><u>In 2024, Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wealthiest-web-workshops-hosts/"><u>In 2024, Wealthiest Web Workshops Hosts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolved-issue-overcoming-elden-rings-persistent-start-up-delay-on-ps4-xbox-and-pc/"><u>Resolved Issue: Overcoming Elden Ring's Persistent Start-Up Delay on PS4, Xbox & PC</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/restoring-lost-data-two-effective-methods-for-retrieving-deleted-files-on-windows-server-2016/"><u>Restoring Lost Data: Two Effective Methods for Retrieving Deleted Files on Windows Server 2016</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/strategie-efficaci-per-la-generazione-delle-immagini-di-sistema-su-windows-server/"><u>Strategie Efficaci per La Generazione Delle Immagini Di Sistema Su Windows Server</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-thorough-iphone-data-wipe-complete-and-safe/"><u>Top 3 Techniques for Thorough iPhone Data Wipe: Complete & Safe</u></a></li>
 </ul></div>
 

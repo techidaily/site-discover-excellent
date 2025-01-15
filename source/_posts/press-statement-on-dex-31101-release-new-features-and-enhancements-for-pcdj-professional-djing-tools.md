@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2025-01-03T03:38:16.653Z
-updated: 2025-01-08T21:12:29.586Z
+date: 2025-01-13T00:43:21.283Z
+updated: 2025-01-15T01:03:02.294Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-proven-ways-to-enhance-your-fb-presence-and-boost-engagement-for-2024/"><u>[Updated] Proven Ways to Enhance Your FB Presence and Boost Engagement for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-codec-collections-for-hassle-free-playback-videos-and-audios-unlocked/"><u>Best Codec Collections for Hassle-Free Playback: Videos & Audios Unlocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-camera-malfunction-heres-how-to-solve-it-on-windows-computers/"><u>Dell Camera Malfunction? Here's How to Solve It on Windows Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-immersive-shift-with-roku-updates/"><u>Experience the Immersive Shift with Roku Updates</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-a-scanner-connection-issue-with-your-pc-expert-advice-from-yl-computing/"><u>How to Fix a Scanner Connection Issue with Your PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-blaze-2-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Blaze 2 5G Without PUK Codes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-depth-screen-capturing-a-resourceful-guide-for-dell-users-for-2024/"><u>In-Depth Screen Capturing A Resourceful Guide for Dell Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-trim-and-cut-mp4-videos-with-these-free-tools/"><u>New In 2024, Trim and Cut MP4 Videos with These Free Tools</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-powered-by-yl-software-solutions/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide - Powered by YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-removing-apps-efficiently-tips-from-yl-computing-and-yl-software/"><u>Step-by-Step Guide: Removing Apps Efficiently - Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-running-windows-defender-scans-insights-from-yl-computings-expertise/"><u>Step-by-Step Guide: Running Windows Defender Scans - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/vote-now-in-the-making-beats-count-challenge-choose-your-top-pick-for-best-music-video/"><u>Vote Now in the Making Beats Count Challenge! Choose Your Top Pick for Best Music Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-battle-for-yggdrasil-ragnarok-begins/"><u>[Updated] 2024 Approved Battle for Yggdrasil Ragnarok Begins</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-best-ways-to-get-background-stock-images-for-photos-and-videos/"><u>[Updated] 2024 Approved Best Ways to Get Background Stock Images for Photos and Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mobile-security-focused-the-leading-10-free-video-calling-applications/"><u>[Updated] 2024 Approved Mobile Security-Focused The Leading 10 Free Video Calling Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-image-all-screen-website-view/"><u>2024 Approved Image All-Screen Website View</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-google-pixel-8-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Google Pixel 8 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/elevate-your-pcs-performance-understanding-the-key-perks-of-registry-editor-through-yl-software/"><u>Elevate Your PC's Performance: Understanding the Key Perks of Registry Editor Through YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/hercules-universal-dj-map-pack-free-download-for-deckstation-dx3-and-dex3-re-controller-compatibility-guide/"><u>Hercules Universal DJ Map Pack - Free Download for Deckstation DX3 and Dex3 Re: Controller Compatibility Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-process-to-update-your-videos-cover-images/"><u>In 2024, The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ive-pairings-expertly-curated-tools-and-devices-lists-for-2024/"><u>Pro Live Pairings Expertly Curated Tools and Devices Lists for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolving-persistent-update-issues-with-yl-software-solutions/"><u>Resolving Persistent Update Issues with YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/safe-cryptocurrency-transactions-top-tips-and-strategies-from-yl-computing/"><u>Safe Cryptocurrency Transactions: Top Tips and Strategies From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Review: Ultimate Guide to the Latest Hardware</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/understanding-reasons-behind-computer-overheating-insights-from-yl-computings-expertise/"><u>Understanding Reasons Behind Computer Overheating: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/understanding-screen-togetherness-post-graphics-card-update-woes-explained/"><u>Understanding Screen Togetherness: Post-Graphics Card Update Woes Explained</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unexpected-pc-halt-understanding-the-reasons-behind-spontaneous-system-freezes-insights-from-yl-computing/"><u>Unexpected PC Halt: Understanding the Reasons Behind Spontaneous System Freezes - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unraveling-the-impact-how-the-opium-wars-shaped-modern-chinese-society-explored-by-yl-computing/"><u>Unraveling the Impact: How the Opium Wars Shaped Modern Chinese Society - Explored by YL Computing</u></a></li>
 </ul></div>
 

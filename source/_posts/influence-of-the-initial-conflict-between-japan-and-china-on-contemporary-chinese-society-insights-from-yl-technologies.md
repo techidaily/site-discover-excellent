@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2025-01-07T21:06:50.140Z
-updated: 2025-01-08T17:21:54.613Z
+date: 2025-01-08T17:20:19.976Z
+updated: 2025-01-14T19:45:16.590Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,16 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-overlay-solutions-for-your-videos-for-2024/"><u>[New] Best Overlay Solutions for Your Videos for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[New] In 2024, The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-hashtags-for-youtube-audience-surge/"><u>[Updated] Proven #Hashtags for YouTube Audience Surge</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-elite-9-directors-cuts-downloader/"><u>2024 Approved Elite 9 Directors' Cuts Downloader</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/accelerate-online-browsing-enhancing-your-internet-connection-with-yl-software-solutions/"><u>Accelerate Online Browsing: Enhancing Your Internet Connection with YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-your-windows-pc-with-our-scanner-overcoming-compatibility-concerns-by-yl-computing/"><u>Can You Rely on Your Windows PC with Our Scanner - Overcoming Compatibility Concerns by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/enhance-your-deck-setup-in-dex-3-using-shader-visuals-from-shadertoy-easy-installation-guide/"><u>Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhancing-listening-pleasure-mastering-the-adaptive-audio-technology-in-apple-airpods-pro/"><u>Enhancing Listening Pleasure: Mastering the Adaptive Audio Technology in Apple AirPods Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-no-connection-to-ea-servers-on-your-pc/"><u>Fixing No Connection to EA Servers on Your PC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>From Large Files to Tiny Previews Crafting Stunning Thumbnails</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonizing-film-teasers-with-music-selections-for-2024/"><u>Harmonizing Film Teasers with Music Selections for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/initially-yours-the-ultimate-gear-list-for-gopros-for-2024/"><u>Initially Yours The Ultimate Gear List for GoPros for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/transform-audio-creations-using-pcdj-deckards-newest-innovation-the-dex-iii-edition/"><u>Transform Audio Creations Using PCDJ Deckard's Newest Innovation - The DeX III Edition!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-a-complete-lack-of-display-at-startup-causes-and-fixes-by-yl-experts-in-computing-and-software-development/"><u>Troubleshooting a Complete Lack of Display at Startup: Causes & Fixes by YL Experts in Computing and Software Development</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-premier-video-breakdown-fifa-analysis-graphs/"><u>[New] Premier Video Breakdown FIFA Analysis Graphs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>[Updated] Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728504032100-windows/"><u>迷惘解開：瀏覽器無法發現下載的Windows電腦檔案失蹤原因</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/eliminacion-completa-de-restauraciones-del-sistema-para-windows-7-8-10-y-11-paso-a-paso/"><u>Eliminación Completa De Restauraciones Del Sistema Para Windows 7, 8, 10 Y 11 - Paso a Paso</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-the-core-structure-of-the-windows-registry-with-yl-computing-experts/"><u>Exploring the Core Structure of the Windows Registry with YL Computing Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/peak-psd-opacity-adjustments-for-2024/"><u>Peak PSD Opacity Adjustments for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swift-skills-sharpen-your-windows-images/"><u>Swift Skills Sharpen Your Windows Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unearthing-the-best-storytelling-channels-yearly-roundup/"><u>Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728469440709-windows-10/"><u>Windows 10 迅速重置指南 - 一步一步的導引</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728470744627-windows-7/"><u>Windows 7 起動用ディスクのバックアップ手順</u></a></li>
 </ul></div>
 

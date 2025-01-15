@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2025-01-07T19:14:43.060Z
-updated: 2025-01-09T02:27:34.389Z
+date: 2025-01-09T18:38:41.164Z
+updated: 2025-01-15T01:37:19.739Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -68,7 +72,7 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
@@ -76,7 +80,7 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -84,17 +88,13 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -116,16 +116,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-experts-choice-extracting-youtube-video-intros-online-for-2024/"><u>[Updated] Expert's Choice Extracting Youtube Video Intros Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-with-your-macbooks-camera/"><u>[Updated] How to Record with Your MacBook's Camera</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1-convert-avi-videos-free-top-online-and-downloadable-swf-file-changers/"><u>1. Convert AVI Videos Free: Top Online & Downloadable Swf File Changers</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/easy-tips-and-tricks-for-modifying-the-start-menu-on-pcs-by-yl-software-experts/"><u>Easy Tips & Tricks for Modifying the Start Menu on PCs by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/halloweens-hottest-tracks-20-must-play-dance-anthems-for-spooky-parties-pcdj/"><u>Halloween's Hottest Tracks: 20 Must-Play Dance Anthems for Spooky Parties | PCDJ</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-does-windows-defender-stack-up-against-leading-antivirus-solutions-unveiling-the-truth-with-yl-software-expertise/"><u>How Does Windows Defender Stack Up Against Leading Antivirus Solutions? Unveiling the Truth with YL Software Expertise</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-access-steps-to-remove-passcode-barrier-easily/"><u>IPad Access: Steps to Remove Passcode Barrier Easily</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-viewing-pdf-documents-on-windows-using-yl-software-solutions/"><u>Mastering the Art of Viewing PDF Documents on Windows Using YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/navigating-windows-file-types-a-comprehensive-guide-to-supported-extensions-from-yl-software-experts/"><u>Navigating Windows File Types: A Comprehensive Guide to Supported Extensions From YL Software Experts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-beginners-blueprint-zoom-clustered-conferencing/"><u>[New] In 2024, Beginner's Blueprint Zoom Clustered Conferencing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-3-techniques-for-exceptional-lol-gaming-broadcasts/"><u>[New] In 2024, Top 3 Techniques for Exceptional LOL Gaming Broadcasts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategize-your-content-approach-unveil-youtube-metrics-via-social-blade/"><u>[Updated] Strategize Your Content Approach - Unveil YouTube Metrics via Social Blade</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-an-overview-of-youtube-short-content-basics/"><u>2024 Approved An Overview of YouTube Short Content Basics</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/3windows-10windows-11/"><u>將檔案輕鬆轉移：3種不用頭疼的方式從Windows 10移動到Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/6yen54plusplus6yg65asx5ycl5lq65oiw5bel5l2c55u46zec5pah5lu277ya5lqu56iu6zu76iwm5pcc57si5oqa6kgt55qe5oyh5y2x/"><u>重現遺失個人或工作相關文件：五種電腦搜索技術的指南</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-revolutionary-shift-in-location-comprehensive-review-of-watch-dogs-legion-unveiled/"><u>A Revolutionary Shift in Location: Comprehensive Review of Watch Dogs: Legion Unveiled</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/die-besten-drei-mac-synkrosoftwares-analysiert-vorteile-und-nachteile-mit-tutorial-hilfe/"><u>Die Besten Drei Mäc-Synkrosoftwares Analysiert: Vorteile Und Nachteile Mit Tutorial-Hilfe</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-and-prevent-iphones-airdrop-error-due-to-low-memory-capacity-issues/"><u>How to Fix and Prevent iPhone's Airdrop Error Due to Low Memory Capacity Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>In 2024, Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-recommended-spots-for-procuring-snapchat-chime-for-2024/"><u>Premium Picks Recommended Spots for Procuring Snapchat Chime for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-to-setting-up-disk-mirroring-in-windows-server/"><u>Step-by-Step Guide to Setting Up Disk Mirroring in Windows Server</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uberspielen-von-windows-11-bilder-auf-einen-flash-speicher-zwei-methoden-erklart/"><u>Überspielen Von Windows 11 Bilder Auf Einen Flash-Speicher – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-instructions-for-performing-a-full-system-erase-and-reboot-on-an-hp-notebook-with-windows-10/"><u>Ultimate Instructions for Performing a Full System Erase and Reboot on an HP Notebook with Windows 10</u></a></li>
 </ul></div>
 

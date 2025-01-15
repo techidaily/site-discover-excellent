@@ -1,7 +1,7 @@
 ---
 title: Biological Self-Healing Uses Bacteria Within Microcapsules that Produce Calcium Carbonate to Seal Cracks upon Exposure to Water.
-date: 2025-01-04T23:47:38.978Z
-updated: 2025-01-08T19:45:28.002Z
+date: 2025-01-07T22:06:10.059Z
+updated: 2025-01-14T23:15:51.955Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[New] 2024 Approved Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-finest-5k-monitors-our-choice-8-edition/"><u>[New] The Finest 5K Monitors Our Choice, #8 Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>[Updated] Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/customizing-your-typing-experience-on-windows-a-comprehensive-tutorial-from-yl-softwares-perspective/"><u>Customizing Your Typing Experience on Windows: A Comprehensive Tutorial From YL Software's Perspective</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/elevate-your-mixes-with-pcdj-deckard-synth-x-ray-v3-unleash-the-potential-of-your-samples/"><u>Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-definition-space-explorer-themes-astronaut-wallpapers-and-desktop-icons-yl-computings-cosmic-collection/"><u>High-Definition Space Explorer Themes: Astronaut Wallpapers & Desktop Icons - YL Computing's Cosmic Collection</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy F04</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-software-fixes-expert-tips-from-the-team-at-yl-computing/"><u>Mastering Software Fixes: Expert Tips From the Team at YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-connection-effective-strategies-to-get-your-xbox-one-controller-working-seamlessly-again/"><u>Mastering the Connection: Effective Strategies to Get Your Xbox One Controller Working Seamlessly Again</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ct-lighting-setup-for-engaging-youtube-videos/"><u>Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/protect-your-system-does-windows-defender-thwart-ransomware-attempts-advice-by-yl-software-specialists/"><u>Protect Your System: Does Windows Defender Thwart Ransomware Attempts? – Advice by YL Software Specialists</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/reimagining-classic-beats-premium-pcdj-sb2-dex-3-throwback-designs-featuring-iconic-red-52-visual-skins/"><u>Reimagining Classic Beats: Premium PCDJ SB2 DEX 3 Throwback Designs Featuring Iconic Red 5.2 Visual Skins</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-modifying-system-power-settings-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Modifying System Power Settings - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-computers-declining-performance-expert-insights-from-yl-computing/"><u>Uncover the Reasons Behind Your Computer's Declining Performance: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-delayed-image-rendering-in-pc-gaming-insights-from-yl-computings-expert-analysis/"><u>Understanding Delayed Image Rendering in PC Gaming: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-money-fast-the-pathway-to-success-in-youtube-shorts/"><u>[New] Making Money Fast The Pathway to Success in YouTube Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-detailed-exploration-tips-for-roblox-enthusiasts/"><u>[Updated] In 2024, Detailed Exploration Tips for Roblox Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-selecting-the-best-ten-spotify-recording-software-for-2024/"><u>[Updated] Selecting the Best Ten Spotify Recording Software for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/6-techniques-efficaces-pour-resoudre-le-probleme-du-deuxieme-disque-dur-non-identifie-sous-windows-11/"><u>6 Techniques Efficaces Pour Résoudre Le Problème Du Deuxième Disque Dur Non Identifié Sous Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/windowscssd/"><u>透過Windows休息機能直接移存C盤上的內容至SSD</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/complete-tutorial-on-downloading-music-from-icloud-onto-your-iphone-models-151413/"><u>Complete Tutorial on Downloading Music From iCloud Onto Your iPhone - Models 15/14/13</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-and-easy-installation-of-asus-atk0110-chipset-and-acpi-drivers/"><u>Free and Easy Installation of ASUS ATK0110 Chipset & ACPI Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-game-continuity-between-ps3-and-ps4/"><u>Is There Game Continuity Between PS3 and PS4?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/wie-fuge-ich-videos-von-einem-computer-oder-iphone-per-wifi-zu-itunes-hinzu/"><u>Wie Füge Ich Videos Von Einem Computer Oder iPhone per WiFi Zu iTunes Hinzu?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2025-01-05T18:38:42.768Z
-updated: 2025-01-09T01:57:50.352Z
+date: 2025-01-12T23:46:55.021Z
+updated: 2025-01-14T21:03:26.383Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,20 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>[Updated] Elevate Your Mind While You Multitask Top 15 Ideas for Podcast Lovers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/achieve-higher-scanning-fidelity-with-expert-calibration-strategies-from-yl-software-experts/"><u>Achieve Higher Scanning Fidelity with Expert Calibration Strategies From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/die-effektivste-und-einfachste-methode-fur-ein-system-backup-in-windows-die-top-freie-losung/"><u>Die Effektivste Und Einfachste Methode Für Ein System-Backup in Windows 지원 [Die Top-Freie Lösung]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-up-space-on-your-windows-11-computer-removing-full-backup-disks-efficiently/"><u>Free Up Space on Your Windows 11 Computer: Removing Full Backup Disks Efficiently</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-4k-a-look-at-the-d500-model/"><u>In 2024, The Evolution of 4K A Look at the D500 Model</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-virtual-vanguards-the-leading-ladies-of-gaming/"><u>In 2024, Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/passaggi-per-ripristinare-il-tuo-sistema-con-successo-tutorial-di-installazione-approfonditi/"><u>Passaggi per Ripristinare Il Tuo Sistema Con Successo: Tutorial Di Installazione Approfonditi</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/scopri-il-confronto-tra-i-diversi-releases-di-aomei-backupper-sul-web/"><u>Scopri Il Confronto Tra I Diversi Releases Di AOMEI Backupper Sul Web</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/sicura-conservazione-backup-di-outlook-assicurati-la-protezione-dei-tuoi-importanti-datini/"><u>Sicura Conservazione Backup Di Outlook: Assicurati La Protezione Dei Tuoi Importanti Datini</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/soluzione-rapida-scopri-perche-la-scheda-sd-della-tua-fotocamera-non-mostra-piu-le-foto/"><u>Soluzione Rapida: Scopri Perché La Scheda SD Della Tua Fotocamera Non Mostra Più Le Foto</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/titre-top-des-solutions-logicielles-pour-recuperer-vos-photos-a-laide-de-la-technologie-ghost/"><u>Titre : « Top Des Solutions Logicielles Pour Récupérer Vos Photos À L'aide De La Technologie GHOST »</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mobile-wi-fi-devices-ultimate-list/"><u>Top-Rated Mobile Wi-Fi Devices: Ultimate List</u></a></li>
-<li><a href="https://techidaily.com/toshiba-laptop-hard-reset-complete-guide-in-simple-steps/"><u>Toshiba Laptop Hard Reset: Complete Guide in Simple Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-producers-path-to-procuring-cost-free-tunes-for-2024/"><u>[New] A Producer's Path to Procuring Cost-Free Tunes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-10-must-have-screen-capture-tools-for-online-instructors/"><u>[New] In 2024, 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-trois-methodes-comment-retrouver-les-drivers-supprimes-sur-un-systeme-dexploitation-windows-11/"><u>1. [Trois Méthodes] Comment Retrouver Les Drivers Supprimés Sur Un Système D'Exploitation Windows 11 ?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/4-effektive-methoden-zum-testen-und-beheben-von-windows-11-festplattenfehlern/"><u>4 Effektive Methoden Zum Testen Und Beheben Von Windows 11-Festplattenfehlern</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728468311327-windows-10/"><u>二種方法：如何在 Windows 10 上將硬碟更換前進行資料备份</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728477085935-windows-11/"><u>個別ファイルの再生成: Windows 11バックアップイメージでの方法</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728484601000-windows-111087/"><u>三种方法在Windows 11、10、8及7上复制已安装程序</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/beheben-sie-den-hangenden-fehler-beim-os-migrationsprozess-mit-paragon-auf-solid-state-drives-und-erkunde-verschiedene-strategien/"><u>Beheben Sie Den 'Hängenden' Fehler Beim OS-Migrationsprozess Mit Paragon Auf Solid State Drives Und Erkunde Verschiedene Strategien.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>In 2024, Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/prodotto-premium-per-la-creazione-dei-film-il-download-di-film-maker-con-movavi-e-iniziare/"><u>Prodotto Premium per La Creazione Dei Film: Il Download Di Film Maker Con Movavi È Iniziare!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/professionelle-anleitung-fur-das-klonen-des-systems-von-windows-11-so-machen-sie-es-ohne-dass-eine-neuinstallation-erforderlich-ist/"><u>Professionelle Anleitung Für Das Klonen Des Systems Von Windows 11 – So Machen Sie Es, Ohne Dass Eine Neuinstallation Erforderlich Ist</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/recover-your-lost-excel-data-for-free-a-step-by-step-guide-on-retrieving-deletions-beyond-the-recycle-bin/"><u>Recover Your Lost Excel Data for Free: A Step-by-Step Guide on Retrieving Deletions Beyond the Recycle Bin</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-zte-axon-40-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For ZTE Axon 40 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/transforming-smartphones-into-portable-cameras-for-2024/"><u>Transforming Smartphones Into Portable Cameras for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-persistent-graphic-card-failures-in-windows-10-expert-tips-from-yl-computing/"><u>Troubleshooting Persistent Graphic Card Failures in Windows 10: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlocking-hidden-potential-using-legacy-functions-in-new-windows-environments/"><u>Unlocking Hidden Potential: Using Legacy Functions in New Windows Environments</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-stunning-time-lapses-top-video-editing-software/"><u>Updated In 2024, Create Stunning Time-Lapses Top Video Editing Software</u></a></li>
 </ul></div>
 
