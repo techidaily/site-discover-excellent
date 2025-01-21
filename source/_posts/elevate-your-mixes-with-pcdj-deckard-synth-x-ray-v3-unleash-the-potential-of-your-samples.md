@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2025-01-09T18:38:41.164Z
-updated: 2025-01-15T01:37:19.739Z
+date: 2025-01-18T21:02:38.862Z
+updated: 2025-01-20T17:22:54.828Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -72,7 +72,7 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
@@ -80,7 +80,7 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -88,13 +88,13 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -116,20 +116,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-beginners-blueprint-zoom-clustered-conferencing/"><u>[New] In 2024, Beginner's Blueprint Zoom Clustered Conferencing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-3-techniques-for-exceptional-lol-gaming-broadcasts/"><u>[New] In 2024, Top 3 Techniques for Exceptional LOL Gaming Broadcasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategize-your-content-approach-unveil-youtube-metrics-via-social-blade/"><u>[Updated] Strategize Your Content Approach - Unveil YouTube Metrics via Social Blade</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-an-overview-of-youtube-short-content-basics/"><u>2024 Approved An Overview of YouTube Short Content Basics</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/3windows-10windows-11/"><u>將檔案輕鬆轉移：3種不用頭疼的方式從Windows 10移動到Windows 11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/6yen54plusplus6yg65asx5ycl5lq65oiw5bel5l2c55u46zec5pah5lu277ya5lqu56iu6zu76iwm5pcc57si5oqa6kgt55qe5oyh5y2x/"><u>重現遺失個人或工作相關文件：五種電腦搜索技術的指南</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-revolutionary-shift-in-location-comprehensive-review-of-watch-dogs-legion-unveiled/"><u>A Revolutionary Shift in Location: Comprehensive Review of Watch Dogs: Legion Unveiled</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/die-besten-drei-mac-synkrosoftwares-analysiert-vorteile-und-nachteile-mit-tutorial-hilfe/"><u>Die Besten Drei Mäc-Synkrosoftwares Analysiert: Vorteile Und Nachteile Mit Tutorial-Hilfe</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-and-prevent-iphones-airdrop-error-due-to-low-memory-capacity-issues/"><u>How to Fix and Prevent iPhone's Airdrop Error Due to Low Memory Capacity Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>In 2024, Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-picks-recommended-spots-for-procuring-snapchat-chime-for-2024/"><u>Premium Picks Recommended Spots for Procuring Snapchat Chime for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-to-setting-up-disk-mirroring-in-windows-server/"><u>Step-by-Step Guide to Setting Up Disk Mirroring in Windows Server</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uberspielen-von-windows-11-bilder-auf-einen-flash-speicher-zwei-methoden-erklart/"><u>Überspielen Von Windows 11 Bilder Auf Einen Flash-Speicher – Zwei Methoden Erklärt</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-instructions-for-performing-a-full-system-erase-and-reboot-on-an-hp-notebook-with-windows-10/"><u>Ultimate Instructions for Performing a Full System Erase and Reboot on an HP Notebook with Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nintendo-switch-capturing-your-playtime/"><u>[Updated] 2024 Approved Nintendo Switch Capturing Your Playtime</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-video-to-fit-instagrams-visual-taste-for-2024/"><u>[Updated] Enhance Video to Fit Instagram's Visual Taste for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028459562-androiddvd/"><u>「Androidタブレット上にてDVDビデオ視聴のためのガイド」</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-turning-up-the-focus-crafting-astonishing-slow-motion-videos-for-ig-reels/"><u>2024 Approved Turning Up the Focus Crafting Astonishing Slow Motion Videos for IG Reels</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/creative-tims-updated-angular-13-now-ui-admin-panel-with-bootstrap-ebased-framework-get-your-free-copy/"><u>Creative Tim's Updated Angular 13 Now UI Admin Panel with Bootstrap Ebased Framework - Get Your Free Copy!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/enhanced-ui-design-suite-pro-exclusive-bootstrap-5-professional-theme-bundle-by-creative-tim/"><u>Enhanced UI Design Suite Pro: Exclusive Bootstrap 5 Professional Theme Bundle by Creative Tim</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-downloads-premium-svelte-designs-and-template-packages-by-creative-tim/"><u>Free Downloads: Premium Svelte Designs & Template Packages by Creative Tim</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-v29-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo V29 Pro Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprerancial-free-imagery-tips-and-tricks/"><u>In 2024, Comprerancial Free Imagery Tips and Tricks</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/react-native-pro-softui-high-end-template-for-mobile-app-development-by-creative-tim/"><u>React Native Pro SoftUI: High-End Template for Mobile App Development by Creative Tim</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/vuejs-with-ant-design-top-template-and-theme-solutions-from-creativetim/"><u>Vue.js with Ant Design: Top Template and Theme Solutions From CreativeTim</u></a></li>
 </ul></div>
 

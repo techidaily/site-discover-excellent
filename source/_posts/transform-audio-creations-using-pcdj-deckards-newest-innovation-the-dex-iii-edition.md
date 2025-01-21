@@ -1,7 +1,7 @@
 ---
 title: Transform Audio Creations Using PCDJ Deckard's Newest Innovation - The DeX III Edition!
-date: 2025-01-08T17:05:51.955Z
-updated: 2025-01-14T16:23:31.753Z
+date: 2025-01-20T02:45:01.223Z
+updated: 2025-01-20T16:15:58.816Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
@@ -76,7 +76,11 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
@@ -84,18 +88,14 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -116,21 +116,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-diy-gif-creation-extracting-motion-from-youtube-videos-for-2024/"><u>[New] DIY GIF Creation Extracting Motion From YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-leveraging-hashtags-and-mentions-for-2024/"><u>[New] Leveraging Hashtags and Mentions for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-the-depths-of-photo-manipulation-for-2024/"><u>[Updated] Exploring the Depths of Photo Manipulation for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-recuperare-informazioni-da-un-ssd-che-rifiuta-lavvio-passaggi-chiave-per-il-successo/"><u>Come Recuperare Informazioni Da Un SSD Che Rifiuta L'avvio: Passaggi Chiave per Il Successo</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-usefulness-of-pagefilesys-backup-storage/"><u>Decoding Windows’ Usefulness of Pagefile.sys Backup Storage</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-server-protection-mastering-quick-backups-on-windows-server-2012-three-simple-strategies/"><u>Effortless Server Protection: Mastering Quick Backups on Windows Server 2012 - Three Simple Strategies</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/expert-tutorial-on-correcting-the-invalid-system-disk-message-in-windows/"><u>Expert Tutorial on Correcting the 'Invalid System Disk' Message in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exposing-effective-promotions/"><u>Exposing Effective Promotions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-z50-ultra-by-fonelab-android-recover-video/"><u>How to recover old videos from your Z50 Ultra</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/overcoming-issues-with-outlook-mail-in-windows/"><u>Overcoming Issues with Outlook Mail in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915315783-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/story-1-misconception-about-alcoholic-fatty-liver-disease-afld/"><u>Story 1: Misconception About Alcoholic Fatty Liver Disease (AFLD)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-how-to-mastering-the-use-of-an-sd-card-reader-on-android/"><u>Ultimate How-To: Mastering the Use of an SD Card Reader on Android</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stability-issues-on-call-of-duty-warzone-avoiding-crashes-on-the-pacific-map/"><u>Ultimate Solutions for Stability Issues on Call of Duty Warzone - Avoiding Crashes on the Pacific Map</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-full-power-of-your-nintendo-switch/"><u>Unlock the Full Power of Your Nintendo Switch</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/wie-mache-ich-ein-screenshot-auf-ihrem-iphone-se-schritt-fur-schritt-anleitungen/"><u>Wie Mache Ich Ein Screenshot Auf Ihrem iPhone SE: Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-youtube-gaming-income/"><u>[New] 2024 Approved Maximizing YouTube Gaming Income</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-guide-to-advanced-human-interface-systems/"><u>[New] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-negative-space-reverse-video-tricks-for-instagram-for-2024/"><u>[New] Mastering Negative Space Reverse Video Tricks for Instagram for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/"><u>[New] The Seamless Shift Your Path to Kinemaster Expertise for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-solution-for-obtaining-and-installing-essential-hp-device-drivers/"><u>Hassle-Free Solution for Obtaining & Installing Essential HP Device Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-k70-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi K70 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-provision-new-vms-with-iso-files-on-vmware-vsphere-a-comprehensive-tutorial/"><u>How To Provision New VMs With ISO Files on VMware vSphere - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/m2-ssd-loschung-mit-windows-1011-schritt-fur-schritt-vorgehen-fur-vollstandige-datenloschung/"><u>M.2 SSD Löschung Mit Windows 10/11 - Schritt-Für-Schritt-Vorgehen Für Vollständige Datenlöschung</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mac-mail/"><u>Mac Mailのアウトプット作成手順：全容ガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728473692025-onedrive/"><u>OneDrive同步问题瞬间修复：四种高效解决手段</u></a></li>
+<li><a href="https://discover-great.techidaily.com/stabile-videos-auf-pcs-macs-android-und-ios-geraten-erzeugen-tipps-and-tricks/"><u>Stabile Videos Auf PCs, Macs, Android- Und iOS-Geräten Erzeugen: Tipps & Tricks</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/tecnicas-expertas-para-implementar-volumen-de-copia-de-sombra-en-windows-10/"><u>Técnicas Expertas Para Implementar Volumen De Copia De Sombra en Windows 10</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-these-5-techniques-restore-deleted-word-documents-after-reboot/"><u>Uncover These 5 Techniques: Restore Deleted Word Documents After Reboot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-11-audio-fixes-no-sound-after-latest-update-resolved/"><u>Win 11 Audio Fixes: No Sound After Latest Update Resolved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2025-01-13T00:43:21.283Z
-updated: 2025-01-15T01:03:02.294Z
+date: 2025-01-16T17:00:01.787Z
+updated: 2025-01-20T22:42:41.655Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,22 +110,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-battle-for-yggdrasil-ragnarok-begins/"><u>[Updated] 2024 Approved Battle for Yggdrasil Ragnarok Begins</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-best-ways-to-get-background-stock-images-for-photos-and-videos/"><u>[Updated] 2024 Approved Best Ways to Get Background Stock Images for Photos and Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mobile-security-focused-the-leading-10-free-video-calling-applications/"><u>[Updated] 2024 Approved Mobile Security-Focused The Leading 10 Free Video Calling Applications</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-image-all-screen-website-view/"><u>2024 Approved Image All-Screen Website View</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-google-pixel-8-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Google Pixel 8 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/elevate-your-pcs-performance-understanding-the-key-perks-of-registry-editor-through-yl-software/"><u>Elevate Your PC's Performance: Understanding the Key Perks of Registry Editor Through YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/hercules-universal-dj-map-pack-free-download-for-deckstation-dx3-and-dex3-re-controller-compatibility-guide/"><u>Hercules Universal DJ Map Pack - Free Download for Deckstation DX3 and Dex3 Re: Controller Compatibility Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-process-to-update-your-videos-cover-images/"><u>In 2024, The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ive-pairings-expertly-curated-tools-and-devices-lists-for-2024/"><u>Pro Live Pairings Expertly Curated Tools and Devices Lists for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/resolving-persistent-update-issues-with-yl-software-solutions/"><u>Resolving Persistent Update Issues with YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/safe-cryptocurrency-transactions-top-tips-and-strategies-from-yl-computing/"><u>Safe Cryptocurrency Transactions: Top Tips and Strategies From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Review: Ultimate Guide to the Latest Hardware</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-reasons-behind-computer-overheating-insights-from-yl-computings-expertise/"><u>Understanding Reasons Behind Computer Overheating: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-screen-togetherness-post-graphics-card-update-woes-explained/"><u>Understanding Screen Togetherness: Post-Graphics Card Update Woes Explained</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unexpected-pc-halt-understanding-the-reasons-behind-spontaneous-system-freezes-insights-from-yl-computing/"><u>Unexpected PC Halt: Understanding the Reasons Behind Spontaneous System Freezes - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unraveling-the-impact-how-the-opium-wars-shaped-modern-chinese-society-explored-by-yl-computing/"><u>Unraveling the Impact: How the Opium Wars Shaped Modern Chinese Society - Explored by YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/raft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast-for-2024/"><u>[New] Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[Updated] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-25-essential-no-cost-photography-tools-for-creatives/"><u>2024 Approved 25 Essential No-Cost Photography Tools for Creatives</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/concealing-files-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Concealing Files on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968519957-get-your-insignia-usb-and-ethernet-cable-converters-newest-software-here/"><u>Get Your Insignia USB and Ethernet Cable Converter's Newest Software Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-narzo-60x-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme Narzo 60x 5G Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-m14-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy M14 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-videocapture-analysis-hub/"><u>In 2024, VideoCapture Analysis Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/turn-off-notification-alerts-on-windows-11-step-by-step-guide/"><u>Turn Off Notification Alerts on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-trailer-highlight-hodgepodge-for-2024/"><u>Ultimate Trailer Highlight Hodgepodge for 2024</u></a></li>
 </ul></div>
 

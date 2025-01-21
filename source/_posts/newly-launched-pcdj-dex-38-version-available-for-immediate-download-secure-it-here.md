@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2025-01-11T22:23:38.059Z
-updated: 2025-01-14T17:47:59.766Z
+date: 2025-01-19T21:57:07.881Z
+updated: 2025-01-21T04:33:14.148Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,21 +106,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[New] In 2024, Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-transcription-triumphs-quick-methods-for-fb-call-records-for-2024/"><u>[New] Transcription Triumphs Quick Methods for FB Call Records for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-accelerate-your-storytelling-with-customized-speed-settings/"><u>[Updated] Accelerate Your Storytelling with Customized Speed Settings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[Updated] In 2024, Charting Your Course in the Realm of YouTube Shorts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728474887694-windows-112/"><u>「新しいWindows 11環境におけるパーティションの複製・克隆手順：2つの解決策」</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-pushing-boundaries-together-leading-vr-accessories/"><u>2024 Approved Pushing Boundaries Together Leading VR Accessories</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/2024-cf/"><u>2024最新的免費商標牌教學: CF卡自救術</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/aufklarung-warum-wird-der-samsung-t7-in-windows/"><u>Aufklärung: Warum Wird Der Samsung T7 in Windows</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/efficiency-7-4-28/"><u>Efficiency = 7 4 = 28</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ejecucion-de-copia-sin-problemas-clonacion-de-unidad-m2-a-sata-y-habilitacion-del-cifrado-de-inicio-seguro/"><u>Ejecución De Copia Sin Problemas: Clonación De Unidad M.2 A SATA Y Habilitación Del Cifrado De Inicio Seguro</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/gratis-download-di-3-codec-video-modi-per-la-conversione-mts-a-mp4/"><u>Gratis Download Di 3 Codec Video Modi per La Conversione MTS a MP4</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/"><u>In 2024, Metaverse Mastery Rapidly Assemble Your Digital Self</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo T2 5G</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/netflix-offline-watching-a-comprehensive-guide-on-downloading-content/"><u>Netflix Offline Watching: A Comprehensive Guide on Downloading Content</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-the-mystery-of-divided-music-collections-in-itunes-effective-solutions-exposed/"><u>Solving the Mystery of Divided Music Collections in iTunes: Effective Solutions Exposed</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-moving-contacts-from-microsoft-outlook-to-another-platform-on-mac-os-x/"><u>Step-by-Step Guide: Moving Contacts From Microsoft Outlook to Another Platform on Mac OS X</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-trois-methodes-comment-retrouver-les-drivers-supprimes-sur-un-systeme-dexploitation-windows-11/"><u>1. [Trois Méthodes] Comment Retrouver Les Drivers Supprimés Sur Un Système D'Exploitation Windows 11 ?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/4-effektive-methoden-zum-testen-und-beheben-von-windows-11-festplattenfehlern/"><u>4 Effektive Methoden Zum Testen Und Beheben Von Windows 11-Festplattenfehlern</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728468311327-windows-10/"><u>二種方法：如何在 Windows 10 上將硬碟更換前進行資料备份</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728477085935-windows-11/"><u>個別ファイルの再生成: Windows 11バックアップイメージでの方法</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728484601000-windows-111087/"><u>三种方法在Windows 11、10、8及7上复制已安装程序</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/passaggi-fai-da-te-per-restaurare-la-slot-card-tutorial-dettagliato/"><u>Passaggi Fai-Da-Te Per Restaurare La Slot Card: Tutorial Dettagliato</u></a></li>
+<li><a href="https://driver-install.techidaily.com/patch-perfection-win95-win11-driver-flawlessness-for-startech/"><u>Patch Perfection: Win95-Win11 Driver Flawlessness for StarTech</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/professionelle-anleitung-fur-das-klonen-des-systems-von-windows-11-so-machen-sie-es-ohne-dass-eine-neuinstallation-erforderlich-ist/"><u>Professionelle Anleitung Für Das Klonen Des Systems Von Windows 11 – So Machen Sie Es, Ohne Dass Eine Neuinstallation Erforderlich Ist</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/social-sharing-simplified-photos-from-your-device-now/"><u>Social Sharing Simplified Photos From Your Device Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-correcting-palworld-search-function-glitches/"><u>Step-by-Step Guide: Correcting 'PalWorld' Search Function Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steps-to-solve-your-lg-printer-not-recognized-error-on-windows-10-8-and-7-platforms/"><u>Steps to Solve Your LG Printer Not Recognized Error on Windows 10, 8 & 7 Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stumped-by-missing-notifications-on-iphone-heres-how-to-resolve-it-in-7-ways/"><u>Stumped by Missing Notifications on iPhone? Here's How to Resolve It in 7 Ways</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210105546-9780578745626-turn-your-shit-into-magic/"><u>TURN YOUR SHIT INTO MAGIC | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlocking-hidden-potential-using-legacy-functions-in-new-windows-environments/"><u>Unlocking Hidden Potential: Using Legacy Functions in New Windows Environments</u></a></li>
 </ul></div>
 

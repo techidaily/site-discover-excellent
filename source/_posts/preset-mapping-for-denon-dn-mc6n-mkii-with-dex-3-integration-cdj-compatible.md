@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2025-01-12T23:46:55.021Z
-updated: 2025-01-14T21:03:26.383Z
+date: 2025-01-16T18:32:43.070Z
+updated: 2025-01-20T22:07:32.999Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,24 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-producers-path-to-procuring-cost-free-tunes-for-2024/"><u>[New] A Producer's Path to Procuring Cost-Free Tunes for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-10-must-have-screen-capture-tools-for-online-instructors/"><u>[New] In 2024, 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-trois-methodes-comment-retrouver-les-drivers-supprimes-sur-un-systeme-dexploitation-windows-11/"><u>1. [Trois Méthodes] Comment Retrouver Les Drivers Supprimés Sur Un Système D'Exploitation Windows 11 ?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/4-effektive-methoden-zum-testen-und-beheben-von-windows-11-festplattenfehlern/"><u>4 Effektive Methoden Zum Testen Und Beheben Von Windows 11-Festplattenfehlern</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728468311327-windows-10/"><u>二種方法：如何在 Windows 10 上將硬碟更換前進行資料备份</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728477085935-windows-11/"><u>個別ファイルの再生成: Windows 11バックアップイメージでの方法</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728484601000-windows-111087/"><u>三种方法在Windows 11、10、8及7上复制已安装程序</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/beheben-sie-den-hangenden-fehler-beim-os-migrationsprozess-mit-paragon-auf-solid-state-drives-und-erkunde-verschiedene-strategien/"><u>Beheben Sie Den 'Hängenden' Fehler Beim OS-Migrationsprozess Mit Paragon Auf Solid State Drives Und Erkunde Verschiedene Strategien.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>In 2024, Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
-<li><a href="https://blog-min.techidaily.com/prodotto-premium-per-la-creazione-dei-film-il-download-di-film-maker-con-movavi-e-iniziare/"><u>Prodotto Premium per La Creazione Dei Film: Il Download Di Film Maker Con Movavi È Iniziare!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/professionelle-anleitung-fur-das-klonen-des-systems-von-windows-11-so-machen-sie-es-ohne-dass-eine-neuinstallation-erforderlich-ist/"><u>Professionelle Anleitung Für Das Klonen Des Systems Von Windows 11 – So Machen Sie Es, Ohne Dass Eine Neuinstallation Erforderlich Ist</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/recover-your-lost-excel-data-for-free-a-step-by-step-guide-on-retrieving-deletions-beyond-the-recycle-bin/"><u>Recover Your Lost Excel Data for Free: A Step-by-Step Guide on Retrieving Deletions Beyond the Recycle Bin</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-zte-axon-40-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For ZTE Axon 40 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/transforming-smartphones-into-portable-cameras-for-2024/"><u>Transforming Smartphones Into Portable Cameras for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-persistent-graphic-card-failures-in-windows-10-expert-tips-from-yl-computing/"><u>Troubleshooting Persistent Graphic Card Failures in Windows 10: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlocking-hidden-potential-using-legacy-functions-in-new-windows-environments/"><u>Unlocking Hidden Potential: Using Legacy Functions in New Windows Environments</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-stunning-time-lapses-top-video-editing-software/"><u>Updated In 2024, Create Stunning Time-Lapses Top Video Editing Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[New] 2024 Approved Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dji-quadcopters-range-budget-upgraded-top-tier-4k-for-2024/"><u>[New] DJI Quadcopters Range Budget, Upgraded, Top-Tier 4K for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[Updated] In 2024, Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>[Updated] In 2024, Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-risoluzione-dei-problemi-con-lo-schermo-touch-delliphone-non-reattivo-dopo-laggiornamento-a-ios-15-e-ios-16/"><u>1. Risoluzione Dei Problemi Con Lo Schermo Touch Dell'iPhone Non Reattivo Dopo L'aggiornamento a iOS 15 E iOS 16</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728481668433-windows/"><u>簡易指南: Windows上如何遷移已安裝程序至其他機器</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/die-besten-drei-mac-synkrosoftwares-analysiert-vorteile-und-nachteile-mit-tutorial-hilfe/"><u>Die Besten Drei Mäc-Synkrosoftwares Analysiert: Vorteile Und Nachteile Mit Tutorial-Hilfe</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effizientes-hochladen-von-iphone-bildern-behebe-die-hurden-fur-ein-reibungsloses-ubertragen/"><u>Effizientes Hochladen Von iPhone-Bildern - Behebe Die Hürden Für Ein Reibungsloses Übertragen</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-facile-pour-transferer-des-fichiers-et-des-parametres-de-windows-7-a-windows-11/"><u>Guide Facile Pour Transférer Des Fichiers Et Des Paramètres De Windows 7 À Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-15-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 15 without Password?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-restore-deleted-photos-on-your-olympus-camera-expert-tips-and-tricks-with-myrecovery-tools/"><u>How to Restore Deleted Photos on Your Olympus Camera: Expert Tips & Tricks with MyRecovery Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
+<li><a href="https://win-dash.techidaily.com/someone-will-have-their-rights-violated/"><u>Someone Will Have Their Rights Violated.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-x5-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco X5 Pro Device</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uberspielen-von-windows-11-bilder-auf-einen-flash-speicher-zwei-methoden-erklart/"><u>Überspielen Von Windows 11 Bilder Auf Einen Flash-Speicher – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-instructions-for-performing-a-full-system-erase-and-reboot-on-an-hp-notebook-with-windows-10/"><u>Ultimate Instructions for Performing a Full System Erase and Reboot on an HP Notebook with Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-conversion-wizardry-from-youtube-to-igtv/"><u>Video Conversion Wizardry From Youtube to IGTV</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728486124115-windows-11/"><u>Windows 11 右鍵點擊復原方法 - 如何显示所有功能選單</u></a></li>
 </ul></div>
 
