@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2025-01-19T21:57:07.881Z
-updated: 2025-01-21T04:33:14.148Z
+date: 2025-01-23T02:24:55.786Z
+updated: 2025-01-26T17:58:26.290Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,20 +106,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-excellent.techidaily.com/1-trois-methodes-comment-retrouver-les-drivers-supprimes-sur-un-systeme-dexploitation-windows-11/"><u>1. [Trois Méthodes] Comment Retrouver Les Drivers Supprimés Sur Un Système D'Exploitation Windows 11 ?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/4-effektive-methoden-zum-testen-und-beheben-von-windows-11-festplattenfehlern/"><u>4 Effektive Methoden Zum Testen Und Beheben Von Windows 11-Festplattenfehlern</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728468311327-windows-10/"><u>二種方法：如何在 Windows 10 上將硬碟更換前進行資料备份</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728477085935-windows-11/"><u>個別ファイルの再生成: Windows 11バックアップイメージでの方法</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728484601000-windows-111087/"><u>三种方法在Windows 11、10、8及7上复制已安装程序</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/passaggi-fai-da-te-per-restaurare-la-slot-card-tutorial-dettagliato/"><u>Passaggi Fai-Da-Te Per Restaurare La Slot Card: Tutorial Dettagliato</u></a></li>
-<li><a href="https://driver-install.techidaily.com/patch-perfection-win95-win11-driver-flawlessness-for-startech/"><u>Patch Perfection: Win95-Win11 Driver Flawlessness for StarTech</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/professionelle-anleitung-fur-das-klonen-des-systems-von-windows-11-so-machen-sie-es-ohne-dass-eine-neuinstallation-erforderlich-ist/"><u>Professionelle Anleitung Für Das Klonen Des Systems Von Windows 11 – So Machen Sie Es, Ohne Dass Eine Neuinstallation Erforderlich Ist</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/social-sharing-simplified-photos-from-your-device-now/"><u>Social Sharing Simplified Photos From Your Device Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-correcting-palworld-search-function-glitches/"><u>Step-by-Step Guide: Correcting 'PalWorld' Search Function Glitches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/steps-to-solve-your-lg-printer-not-recognized-error-on-windows-10-8-and-7-platforms/"><u>Steps to Solve Your LG Printer Not Recognized Error on Windows 10, 8 & 7 Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stumped-by-missing-notifications-on-iphone-heres-how-to-resolve-it-in-7-ways/"><u>Stumped by Missing Notifications on iPhone? Here's How to Resolve It in 7 Ways</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210105546-9780578745626-turn-your-shit-into-magic/"><u>TURN YOUR SHIT INTO MAGIC | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlocking-hidden-potential-using-legacy-functions-in-new-windows-environments/"><u>Unlocking Hidden Potential: Using Legacy Functions in New Windows Environments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-selecting-among-top-9-free-logo-designers-for-2024/"><u>[New] Best Practices Selecting Among Top 9 Free Logo Designers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-exceptional-7-cameras-elevating-online-educational-vlogs-for-2024/"><u>[Updated] Exceptional 7 Cameras Elevating Online Educational Vlogs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-pro-level-youtube-tech-for-2024/"><u>[Updated] Getting Started with Pro-Level YouTube Tech for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-effective-techniques-for-streamlining-your-pc-by-eliminating-redundant-applications-insights-from-yl-computings-expertise/"><u>1. Effective Techniques for Streamlining Your PC by Eliminating Redundant Applications - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-teacher-friendly-video-capture-options-reviewed/"><u>2024 Approved Teacher-Friendly Video Capture Options Reviewed</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/concealing-files-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Concealing Files on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/efficiently-removing-software-expert-techniques-by-yl-software-solutions/"><u>Efficiently Removing Software: Expert Techniques by YL Software Solutions</u></a></li>
+<li><a href="https://solve-news.techidaily.com/effortless-drm-free-file-conversion-for-itunes-media-tips-and-techniques-for-movies-songs-and-books/"><u>Effortless DRM-Free File Conversion for iTunes Media: Tips and Techniques for Movies, Songs, & Books</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-windows-blue-screen-of-death-due-to-memory-issues-expert-advice-from-yl-computing/"><u>How to Fix Windows Blue Screen of Death Due to Memory Issues: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-gaming-experience-download-nvidia-rtx-3080-drivers-windows-1087/"><u>Secure Your Gaming Experience: Download NVIDIA RTX 3080 Drivers (Windows 10/8/7)</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/the-lasting-effects-of-the-chinese-civil-war-on-todays-china-an-analysis-by-yl-software-solutions/"><u>The Lasting Effects of the Chinese Civil War on Today's China: An Analysis by YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-ipad-steps-to-resolve-wi-fi-connection-issues/"><u>Troubleshooting Your iPad: Steps to Resolve Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/turn-off-notification-alerts-on-windows-11-step-by-step-guide/"><u>Turn Off Notification Alerts on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a60-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A60? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
