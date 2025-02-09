@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Classic Beats: Premium PCDJ SB2 DEX 3 Throwback Designs Featuring Iconic Red 5.2 Visual Skins"
-date: 2025-01-19T18:34:50.271Z
-updated: 2025-01-27T04:42:48.358Z
+date: 2025-02-05T00:37:28.745Z
+updated: 2025-02-08T18:18:21.532Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,24 +75,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-jump-into-gaming-evolution-explore-lgs-27ud68-monitor/"><u>[New] 2024 Approved Jump Into Gaming Evolution Explore LG's 27UD68 Monitor</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-to-checkbook-conversion-the-path-from-adsense-to-banking-for-2024/"><u>[New] Channel to Checkbook Conversion The Path From AdSense to Banking for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/plitscreen-designer/"><u>[New] SplitScreen Designer</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-first-steps-on-social-landscape-creating-a-facebook-account/"><u>[Updated] In 2024, First Steps on Social Landscape Creating a Facebook Account</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-relaxation-reigns-top-pc-titles/"><u>[Updated] Relaxation Reigns Top PC Titles</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-and-save-your-facebook-360-videos-as-mp4-mov-or-avi-files-on-pc-and-mac/"><u>Convert and Save Your Facebook 360 Videos as MP4, MOV or AVI Files on PC & Mac</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-epson-stylus-photo-es-400-scan-software-on-your-pc/"><u>Download & Setup Epson Stylus Photo ES-400 Scan Software on Your PC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/edit-like-a-pro-discover-the-leading-5-background-erasure-apps-for-large-scale-image-processing-tasks/"><u>Edit Like a Pro: Discover the Leading 5 Background Erasure Apps for Large-Scale Image Processing Tasks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortlessly-save-your-favorite-videos-with-telemb-downloader-supports-mp4-avi-and-more/"><u>Effortlessly Save Your Favorite Videos with TeleMB Downloader - Supports MP4, AVI and More!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/enhance-multitasking-efficiency-implement-intels-quick-sync-video-for-multi-display-setups-on-pc-desktops/"><u>Enhance Multitasking Efficiency: Implement Intel's Quick Sync Video for Multi-Display Setups on PC Desktops</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-m6-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco M6 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-access-essential-windows-10-tips/"><u>In 2024, Quick Access Essential Windows 10 Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015936922-logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-screen-recording-activating-dynamic-selection-tool-and-step-by-step-walkthrough/"><u>Mastering Screen Recording: Activating Dynamic Selection Tool & Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/steps-to-restore-accidentally-deleted-excel-spreadsheets/"><u>Steps to Restore Accidentally Deleted Excel Spreadsheets</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-90-lite-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor 90 Lite Location | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-step-by-step-instructions-mastering-your-idevice-management-from-a-windows-or-mac-computer/"><u>Ultimate Step-by-Step Instructions: Mastering Your iDevice Management From a Windows or Mac Computer</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlock-superior-gaming-footage-explore-the-power-of-nvidia-nvenc-with-h265-encoding/"><u>Unlock Superior Gaming Footage: Explore the Power of NVIDIA NVENC with H.265 Encoding</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/which-offers-more-privacy-a-comprehensive-look-at-duckduckgo-versus-google-for-confidential-browsing/"><u>Which Offers More Privacy? A Comprehensive Look at DuckDuckGo Versus Google for Confidential Browsing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-subscription-rate-monitoring-software/"><u>[Updated] Subscription Rate Monitoring Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-navigating-tax-consequences-a-comprehensive-guide-to-crypto-investment-and-its-fiscal-effects-insights-by-yl-computing/"><u>1. Navigating Tax Consequences: A Comprehensive Guide to Crypto Investment and Its Fiscal Effects - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-scarcity-pioneering-vr-content-shortcomings/"><u>2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/choosing-the-perfect-laptop-expert-analysis-from-yl-computing-and-yl-software-unveiled/"><u>Choosing the Perfect Laptop: Expert Analysis From YL Computing & YL Software Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-sem-custo-de-gifs-para-filmes-mpeg-online-via-movavi/"><u>Conversão Sem Custo De GIFs Para Filmes MPEG Online via Movavi</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/discover-how-windows-11-revolutionizes-user-experience-with-its-new-interface-features-analyzed-by-yl-software/"><u>Discover How Windows 11 Revolutionizes User Experience with Its New Interface Features – Analyzed by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/hd-summer-wallpaper-collection-high-resolution-seasonal-backgrounds-by-yl-software/"><u>HD Summer Wallpaper Collection - High-Resolution Seasonal Backgrounds by YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-camon-20-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Camon 20 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-create-custom-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>How to Create Custom Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-troubleshoot-a-malfunctioning-gpu-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning GPU: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-to-past-accessing-removed-reddit-threads-swiftly/"><u>In 2024, Hasten to Past Accessing Removed Reddit Threads Swiftly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-starter-kit-10-crucial-tips-to-know/"><u>In 2024, Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
 </ul></div>
 

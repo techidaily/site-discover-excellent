@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide
-date: 2025-01-25T04:58:14.309Z
-updated: 2025-01-27T05:32:17.601Z
+date: 2025-02-07T17:19:12.535Z
+updated: 2025-02-08T16:47:04.534Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where do you get Shaders?
@@ -38,6 +38,10 @@ Shaders also vary greatly on how much resources they will use — from light to 
 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shaders
 
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
@@ -47,7 +51,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
@@ -59,7 +63,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
@@ -67,7 +71,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
@@ -91,10 +95,6 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-08-01 11:43:222018-10-02 12:56:06DEX 3 DJ Software | How to Install ‘Shaders’ for On-Screen Visualizations from Shadertoy.com}
@@ -114,17 +114,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-excellent.techidaily.com/1732515254580-b-54/"><u> [B = 54 </u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphone-photography-wonders-capturing-surface-mirrors/"><u>[Updated] 2024 Approved IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cooperative-adventures-how-to-play-pokemon-go-with-your-buddy/"><u>Cooperative Adventures: How To Play Pokémon Go With Your Buddy</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/elevate-your-computer-speed-with-more-ram-the-ultimate-upgrade-strategies-from-yl-software-experts/"><u>Elevate Your Computer Speed with More RAM: The Ultimate Upgrade Strategies From YL Software Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-moto-g04-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Moto G04</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-note-50-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme Note 50?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-11-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme 11 Pro Unlock Without Password</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-visionary-insights-the-top-8k-cameras-guide/"><u>In 2024, Ultimate Visionary Insights The Top 8K Cameras Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/permanent-file-removal-techniques-detailed-guide-from-yl-computing/"><u>Permanent File Removal Techniques - Detailed Guide From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-transition-turning-mac-videos-into-discs-for-2024/"><u>Seamless Transition Turning Mac Videos Into Discs for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultra-hd-marvel-themed-desktop-pictures-and-walls-from-yl-computings-library/"><u>Ultra-HD Marvel Themed Desktop Pictures & Walls From YL Computing's Library</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uncovering-common-factors-leading-to-windows-memory-problems-a-guide-from-yl-software-experts/"><u>Uncovering Common Factors Leading to Windows Memory Problems: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elite-10-sound-enhancers-across-os-platforms/"><u>[New] In 2024, Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-the-download-of-your-youtube-playlist-today/"><u>[Updated] In 2024, Mastering the Download of Your YouTube Playlist Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-checklist-to-add-audio-to-your-facebook-vids-for-2024/"><u>[Updated] The Ultimate Checklist to Add Audio to Your Facebook Vids for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-mastery-top-10-gadgets/"><u>[Updated] The Ultimate Guide to Instagram Mastery Top 10 Gadgets</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/3windows-11107xp445/"><u>3最も使いやすい方法でWindows 11/10/7/XPのポート445を安全に閉じましょう!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/5aac5l2v57ep6kej5oko54sh5rov5pa85pys56uz6jmv55cg5a2y5yplusw5qyk6zmq5zwp6agm77yf/"><u>如何緩解您無法於本站處理存取權限問題？</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-output-5-essential-windows-11-workplace-apps/"><u>Enhance Output: 5 Essential Windows 11 Workplace Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-note-30-vip-racing-edition-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Note 30 VIP Racing Edition Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-note-50-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Note 50 Phone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/les-meilleurs-programmes-de-restauration-de-cartes-sd-en-2024-gratuit-et-paid/"><u>Les Meilleurs Programmes De Restauration De Cartes SD en 2024: Gratuit Et Paid</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/m2-nvme-ssdhdd/"><u>M.2 NVMe SSDへのHDDコピー:フリーデモ！正しい運用手順を学ぶ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-custom-ai-crafting-chatgpt-from-scratch/"><u>The Art of Custom AI: Crafting ChatGPT From Scratch</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
 </ul></div>
 

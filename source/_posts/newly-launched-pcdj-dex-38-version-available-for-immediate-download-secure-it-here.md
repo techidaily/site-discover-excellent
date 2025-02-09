@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2025-01-23T02:24:55.786Z
-updated: 2025-01-26T17:58:26.290Z
+date: 2025-02-02T17:42:29.760Z
+updated: 2025-02-08T18:26:29.452Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,22 +106,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-selecting-among-top-9-free-logo-designers-for-2024/"><u>[New] Best Practices Selecting Among Top 9 Free Logo Designers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-exceptional-7-cameras-elevating-online-educational-vlogs-for-2024/"><u>[Updated] Exceptional 7 Cameras Elevating Online Educational Vlogs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-pro-level-youtube-tech-for-2024/"><u>[Updated] Getting Started with Pro-Level YouTube Tech for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-effective-techniques-for-streamlining-your-pc-by-eliminating-redundant-applications-insights-from-yl-computings-expertise/"><u>1. Effective Techniques for Streamlining Your PC by Eliminating Redundant Applications - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-teacher-friendly-video-capture-options-reviewed/"><u>2024 Approved Teacher-Friendly Video Capture Options Reviewed</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/concealing-files-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Concealing Files on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/efficiently-removing-software-expert-techniques-by-yl-software-solutions/"><u>Efficiently Removing Software: Expert Techniques by YL Software Solutions</u></a></li>
-<li><a href="https://solve-news.techidaily.com/effortless-drm-free-file-conversion-for-itunes-media-tips-and-techniques-for-movies-songs-and-books/"><u>Effortless DRM-Free File Conversion for iTunes Media: Tips and Techniques for Movies, Songs, & Books</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-fix-windows-blue-screen-of-death-due-to-memory-issues-expert-advice-from-yl-computing/"><u>How to Fix Windows Blue Screen of Death Due to Memory Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-gaming-experience-download-nvidia-rtx-3080-drivers-windows-1087/"><u>Secure Your Gaming Experience: Download NVIDIA RTX 3080 Drivers (Windows 10/8/7)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-lasting-effects-of-the-chinese-civil-war-on-todays-china-an-analysis-by-yl-software-solutions/"><u>The Lasting Effects of the Chinese Civil War on Today's China: An Analysis by YL Software Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-ipad-steps-to-resolve-wi-fi-connection-issues/"><u>Troubleshooting Your iPad: Steps to Resolve Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/turn-off-notification-alerts-on-windows-11-step-by-step-guide/"><u>Turn Off Notification Alerts on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a60-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A60? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-avoiding-poverty-earning-in-beauty-media/"><u>[New] 2024 Approved Avoiding Poverty Earning in Beauty Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-ways-to-preserve-and-log-youtube-live-streams-for-2024/"><u>[New] Top Ways to Preserve and Log YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>[Updated] From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdwinxisodvd/"><u>【公式】DVDコピー専用WinXソフトウェアを無料で手に入れる！簡単な操作でISO形式、イメージ化、DVDフォルダーへの変換が可能。</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728467747963-1-windows-11/"><u>1. Windows 11 最新更新でファイル履歴機能改善:全てのファイルに自動バックアップ完了</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-audiences-delighted-best-editors-to-transform-youtube-shorts/"><u>2024 Approved Audiences Delighted Best Editors to Transform Youtube Shorts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/9-methoden-zum-wechseln-des-ruhemodus-auf-ihrem-pc-mit-windows-11/"><u>9 Methoden Zum Wechseln Des Ruhemodus Auf Ihrem PC Mit Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/come-recuperare-informazioni-da-un-ssd-che-rifiuta-lavvio-passaggi-chiave-per-il-successo/"><u>Come Recuperare Informazioni Da Un SSD Che Rifiuta L'avvio: Passaggi Chiave per Il Successo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-windows-artistry-free-to-feed-tools-guide/"><u>Creative Windows Artistry - FREE to FEE'd Tools Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-server-protection-mastering-quick-backups-on-windows-server-2012-three-simple-strategies/"><u>Effortless Server Protection: Mastering Quick Backups on Windows Server 2012 - Three Simple Strategies</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/expert-tutorial-on-correcting-the-invalid-system-disk-message-in-windows/"><u>Expert Tutorial on Correcting the 'Invalid System Disk' Message in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-image-management-in-iphones-and-macs-the-ultimate-downloading-and-editing-guide-for-apple-photos-users/"><u>Mastering Image Management in iPhones and Macs: The Ultimate Downloading and Editing Guide for Apple Photos Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-premiere-pro/"><u>MP4ビデオファイルの効率的な書き出し手順 - Premiere Pro</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/overcoming-issues-with-outlook-mail-in-windows/"><u>Overcoming Issues with Outlook Mail in Windows</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/story-1-misconception-about-alcoholic-fatty-liver-disease-afld/"><u>Story 1: Misconception About Alcoholic Fatty Liver Disease (AFLD)</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-how-to-mastering-the-use-of-an-sd-card-reader-on-android/"><u>Ultimate How-To: Mastering the Use of an SD Card Reader on Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-stunning-photos-with-a-new-phone-camera-its-worth-the-switch/"><u>Unlock Stunning Photos with a New Phone Camera - It's Worth the Switch!</u></a></li>
 </ul></div>
 

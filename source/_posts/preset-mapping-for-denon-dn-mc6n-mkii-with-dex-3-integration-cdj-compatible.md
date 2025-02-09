@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2025-01-16T18:32:43.070Z
-updated: 2025-01-20T22:07:32.999Z
+date: 2025-02-04T20:20:57.454Z
+updated: 2025-02-08T22:37:52.533Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,24 +56,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[New] 2024 Approved Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dji-quadcopters-range-budget-upgraded-top-tier-4k-for-2024/"><u>[New] DJI Quadcopters Range Budget, Upgraded, Top-Tier 4K for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[Updated] In 2024, Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>[Updated] In 2024, Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-risoluzione-dei-problemi-con-lo-schermo-touch-delliphone-non-reattivo-dopo-laggiornamento-a-ios-15-e-ios-16/"><u>1. Risoluzione Dei Problemi Con Lo Schermo Touch Dell'iPhone Non Reattivo Dopo L'aggiornamento a iOS 15 E iOS 16</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728481668433-windows/"><u>簡易指南: Windows上如何遷移已安裝程序至其他機器</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/die-besten-drei-mac-synkrosoftwares-analysiert-vorteile-und-nachteile-mit-tutorial-hilfe/"><u>Die Besten Drei Mäc-Synkrosoftwares Analysiert: Vorteile Und Nachteile Mit Tutorial-Hilfe</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effizientes-hochladen-von-iphone-bildern-behebe-die-hurden-fur-ein-reibungsloses-ubertragen/"><u>Effizientes Hochladen Von iPhone-Bildern - Behebe Die Hürden Für Ein Reibungsloses Übertragen</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-facile-pour-transferer-des-fichiers-et-des-parametres-de-windows-7-a-windows-11/"><u>Guide Facile Pour Transférer Des Fichiers Et Des Paramètres De Windows 7 À Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-15-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 15 without Password?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-restore-deleted-photos-on-your-olympus-camera-expert-tips-and-tricks-with-myrecovery-tools/"><u>How to Restore Deleted Photos on Your Olympus Camera: Expert Tips & Tricks with MyRecovery Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
-<li><a href="https://win-dash.techidaily.com/someone-will-have-their-rights-violated/"><u>Someone Will Have Their Rights Violated.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-x5-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco X5 Pro Device</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uberspielen-von-windows-11-bilder-auf-einen-flash-speicher-zwei-methoden-erklart/"><u>Überspielen Von Windows 11 Bilder Auf Einen Flash-Speicher – Zwei Methoden Erklärt</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-instructions-for-performing-a-full-system-erase-and-reboot-on-an-hp-notebook-with-windows-10/"><u>Ultimate Instructions for Performing a Full System Erase and Reboot on an HP Notebook with Windows 10</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-conversion-wizardry-from-youtube-to-igtv/"><u>Video Conversion Wizardry From Youtube to IGTV</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728486124115-windows-11/"><u>Windows 11 右鍵點擊復原方法 - 如何显示所有功能選單</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-auditory-gamespace-vaults-copyright-free/"><u>[New] Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[Updated] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-comprehensive-screen-shot/"><u>[Updated] In 2024, Capture Comprehensive Screen Shot</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seizing-screen-time-with-hd-downloads-from-fb-sources/"><u>[Updated] In 2024, Seizing Screen Time with HD Downloads From FB Sources</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-online-video-capture-tools/"><u>[Updated] In 2024, Top 5 Online Video Capture Tools</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-how-to-download-your-favorite-cartoon-network-shows-in-various-video-formats/"><u>1. How to Download Your Favorite Cartoon Network Shows in Various Video Formats</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/convert-and-download-animated-movie-files-mp4-avi-from-newgrounds-compatible-with-macos-and-windows/"><u>Convert and Download Animated Movie Files (MP4, AVI) From NewGrounds - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/convert-oklilive-tv-streams-download-hd-content-as-mp4-or-avi-files-for-pc-and-mac/"><u>Convert OkliLive TV Streams: Download HD Content as MP4 or AVI Files for PC & MAC</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/convert-your-favorite-bandcamp-music-collection-to-high-quality-mp3-files/"><u>Convert Your Favorite Bandcamp Music Collection to High-Quality MP3 Files</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/convert-your-videos-with-ease-downloading-youtube-content-into-final-cut-pro-in-apple-prores-format/"><u>Convert Your Videos with Ease: Downloading YouTube Content Into Final Cut Pro in Apple ProRes Format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-protecting-your-whatsapp-data-step-by-step-backup-processes-for-samsung-smartphones/"><u>Expert Tips for Protecting Your WhatsApp Data: Step-by-Step Backup Processes for Samsung Smartphones</u></a></li>
+<li><a href="https://facebook.techidaily.com/hack-proofing-your-life-on-social-platform-fb-with-these-7-rules/"><u>Hack-Proofing Your Life on Social Platform (FB) with These 7 Rules</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-payment-options-for-flipbuilders-uploading-services-a-step-by-nstep-guide/"><u>Navigating Payment Options for FlipBuilder's Uploading Services: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/securing-your-digital-content-expert-tips-on-safeguarding-flipbooks-with-flipbuilder/"><u>Securing Your Digital Content: Expert Tips on Safeguarding Flipbooks with FlipBuilder</u></a></li>
 </ul></div>
 

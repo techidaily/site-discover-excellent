@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2025-01-23T23:55:12.296Z
-updated: 2025-01-26T23:55:06.511Z
+date: 2025-02-05T17:40:33.091Z
+updated: 2025-02-08T16:09:59.500Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
@@ -80,7 +80,7 @@ SYSTEM REQUIREMENTS: MAC
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.11 Overview Videos
@@ -88,7 +88,7 @@ Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and 
 New Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,21 +110,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-best-online-mp3-extractors-from-tiktok-videos-top-6-rankings/"><u>[New] 2024 Approved Best Online MP3 Extractors From TikTok Videos - Top 6 Rankings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-effortlessly-enhance-your-watchlist-mastering-dual-display-in-netflix/"><u>[New] Effortlessly Enhance Your Watchlist - Mastering Dual Display in Netflix</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-proven-techniques-to-enhance-engagement-and-interaction-for-2024/"><u>[New] Proven Techniques to Enhance Engagement and Interaction for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expanding-your-audience-syncing-igtv-and-facebook/"><u>[Updated] 2024 Approved Expanding Your Audience Syncing IGTV & Facebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-circle-construction-techniques-for-the-aspiring-minecraft-artist/"><u>[Updated] Circle Construction Techniques for the Aspiring Minecraft Artist</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/elevate-your-pcs-performance-understanding-the-key-perks-of-registry-editor-through-yl-software/"><u>Elevate Your PC's Performance: Understanding the Key Perks of Registry Editor Through YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/identifying-the-cause-behind-blue-screen-errors-a-guide-from-yl-computing/"><u>Identifying the Cause Behind Blue Screen Errors: A Guide From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783047-9781594777110-krishna-in-the-sky-with-diamonds/"><u>Krishna in the Sky with Diamonds | Free Book</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/lyrxs-ultimate-karaoke-software-on-mac-unveiled-explore-enhanced-overlay-capabilities-in-crystal-clear-quality-tutorial/"><u>LYRX's Ultimate Karaoke Software on Mac Unveiled: Explore Enhanced Overlay Capabilities in Crystal-Clear Quality (Tutorial)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-moment-for-podcast-debuts/"><u>Perfect Moment for Podcast Debuts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/resolving-persistent-update-issues-with-yl-software-solutions/"><u>Resolving Persistent Update Issues with YL Software Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-screen-togetherness-post-graphics-card-update-woes-explained/"><u>Understanding Screen Togetherness: Post-Graphics Card Update Woes Explained</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unexpected-pc-halt-understanding-the-reasons-behind-spontaneous-system-freezes-insights-from-yl-computing/"><u>Unexpected PC Halt: Understanding the Reasons Behind Spontaneous System Freezes - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/updating-your-scanners-drivers-made-easy-step-by-step-guide/"><u>Updating Your Scanner's Drivers Made Easy - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfecting-profile-collaboration-add-linktree-to-your-tiktok-bio/"><u>[New] 2024 Approved Perfecting Profile Collaboration Add Linktree to Your TikTok Bio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-full-guide-to-google-docs-speech-to-text-service-for-2024/"><u>[Updated] Full Guide to Google Docs Speech to Text Service for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728482458272-windows-10/"><u>解決方式： Windows 10 脫隊時無法升級檔案的同步問題</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-guide-restoring-virtual-machines-using-vsphere-replication-step-by-step-instructions/"><u>Comprehensive Guide: Restoring Virtual Machines Using vSphere Replication - Step-by-Step Instructions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-15-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 15 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/schritt-fur-schritt-anleitung-zur-reparatur-einer-beschadigten-sd-karte-einfach-und-effektiv/"><u>Schritt-Für-Schritt-Anleitung Zur Reparatur Einer Beschädigten SD-Karte: Einfach Und Effektiv</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-game-changer-how-to-optimize-your-fb-giveaway-posts/"><u>The Game-Changer How to Optimize Your FB Giveaway Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-6-fixes-overcoming-ssd-compatibility-issues-with-windows-11-installation/"><u>Top 6 Fixes: Overcoming SSD Compatibility Issues with Windows 11 Installation</u></a></li>
+<li><a href="https://win-web3.techidaily.com/unlocking-your-pcs-potential-accessing-the-bios-in-windows-with-yl-computing-expertise/"><u>Unlocking Your PC's Potential: Accessing the BIOS in Windows with YL Computing Expertise</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10.</u></a></li>
 </ul></div>
 

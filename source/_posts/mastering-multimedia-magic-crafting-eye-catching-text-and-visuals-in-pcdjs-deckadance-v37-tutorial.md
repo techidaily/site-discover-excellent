@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial"
-date: 2025-01-23T01:30:03.994Z
-updated: 2025-01-26T19:24:28.407Z
+date: 2025-02-07T18:52:32.459Z
+updated: 2025-02-08T22:20:31.976Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-silence-unwanted-post-suggestions-on-insta/"><u>[New] In 2024, Silence Unwanted Post Suggestions on Insta</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-leading-caller-id-changers-with-enchanting-options/"><u>[Updated] 2024 Approved Leading Caller ID Changers with Enchanting Options</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-adventure-to-audience-transforming-gopro-footage-with-social-media/"><u>2024 Approved From Adventure to Audience Transforming Gopro Footage with Social Media</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/antibiotic-resistance-is-a-significant-challenge-leading-to-limited-treatment-options-for-pediatric-patients/"><u>Antibiotic Resistance Is a Significant Challenge, Leading to Limited Treatment Options for Pediatric Patients.</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-gestisci-i-computers-di-clienti-in-rete-attraverso-sottoreti-multipli/"><u>Come Gestisci I Computers Di Clienti in Rete Attraverso Sottoreti Multipli</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-mpow-bluetooth-drivers-and-compatibility-with-win-1087-enhance-your-connectivity/"><u>Easy Download: Updated MPOW Bluetooth Drivers & Compatibility with Win 10/8/7 - Enhance Your Connectivity</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-pratique-restaurer-un-disque-dur-wd-exterieur-raw-en-securite-sans-pertes-dinformations/"><u>Guide Pratique : Restaurer Un Disque Dur WD Extérieur RAW en Sécurité, Sans Pertes D'Informations</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-how-to-download-free-picture-frame-videos/"><u>In 2024, How to Download Free Picture Frame Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterpieces-of-modern-mythology-top-youtube-storytellers-for-2024/"><u>Masterpieces of Modern Mythology - Top YouTube Storytellers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/numbers-in-focus-yearly-yt-trends-and-trivia-2017-for-2024/"><u>Numbers in Focus! Yearly YT Trends & Trivia (2017) for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/resolved-issue-overcoming-elden-rings-persistent-start-up-delay-on-ps4-xbox-and-pc/"><u>Resolved Issue: Overcoming Elden Ring's Persistent Start-Up Delay on PS4, Xbox & PC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/restoring-lost-data-two-effective-methods-for-retrieving-deleted-files-on-windows-server-2016/"><u>Restoring Lost Data: Two Effective Methods for Retrieving Deleted Files on Windows Server 2016</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/strategie-efficaci-per-la-generazione-delle-immagini-di-sistema-su-windows-server/"><u>Strategie Efficaci per La Generazione Delle Immagini Di Sistema Su Windows Server</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-spectrum-of-sharing-navigating-video-distribution-on-fb-for-2024/"><u>[New] The Spectrum of Sharing Navigating Video Distribution on FB for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-guide-uploading-subtitles-via-social-networks/"><u>2024 Approved Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/can-upgrading-to-windows/"><u>Can Upgrading to Windows</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comment-restaurer-avec-succes-les-versions-de-demonstration-de-windows-11serveur-a-partir-dune-image-iso-un-manuel-complet/"><u>Comment Restaurer Avec Succès Les Versions De Démonstration De Windows 11/Serveur À Partir D'une Image ISO : Un Manuel Complet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effizientes-hochladen-von-iphone-bildern-behebe-die-hurden-fur-ein-reibungsloses-ubertragen/"><u>Effizientes Hochladen Von iPhone-Bildern - Behebe Die Hürden Für Ein Reibungsloses Übertragen</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-beyond-basiccams-prospects-of-elevated-performance/"><u>In 2024, Beyond BasicCams Prospects of Elevated Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-to-skyrocket-item-acquisition-in-dayzs-first-person-shooter-experience/"><u>Quick Fixes to Skyrocket Item Acquisition in DayZ's First-Person Shooter Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tv-sizing-guide-finding-your-optimal-display-dimensions-for-ultimate-viewing-comfort/"><u>TV Sizing Guide: Finding Your Optimal Display Dimensions for Ultimate Viewing Comfort</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-divide-and-conquer-a-step-by-step-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-missing-in-apple-vision-pro-analysis-on-key-ar-apps-not-included-by-tech-experts-at-zdnet/"><u>What’s Missing in Apple Vision Pro?: Analysis on Key AR Apps Not Included by Tech Experts at ZDNet</u></a></li>
 </ul></div>
 

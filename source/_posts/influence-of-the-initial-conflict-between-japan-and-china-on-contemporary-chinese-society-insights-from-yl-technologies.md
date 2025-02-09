@@ -1,7 +1,7 @@
 ---
 title: Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies
-date: 2025-01-21T02:06:25.266Z
-updated: 2025-01-26T22:00:17.986Z
+date: 2025-02-01T16:45:30.925Z
+updated: 2025-02-09T00:04:21.244Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,17 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-fisheye-photography-for-full-spheres/"><u>[New] 2024 Approved Mastering Fisheye Photography for Full Spheres</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-pixelperfect-screen-capture-software/"><u>[New] In 2024, PixelPerfect Screen Capture Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-7-social-media-screen-grabs/"><u>[Updated] 2024 Approved Top 7 Social Media Screen Grabs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/bandicam-unveiled-a-thorough-examination-of-its-recording-capabilities/"><u>Bandicam Unveiled A Thorough Examination of Its Recording Capabilities</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/correct-time-display-on-windows-pcs-adjust-settings-for-accurate-time-zones-tips-from-yl-software-experts/"><u>Correct Time Display on Windows PCs: Adjust Settings for Accurate Time Zones – Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-speed-up-your-computers-boot-process-essential-tips-from-yl-software-experts/"><u>How to Speed Up Your Computer's Boot Process: Essential Tips From YL Software Experts</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-artisans-guide-to-personal-branding-via-youtube/"><u>In 2024, The Artisan's Guide to Personal Branding via YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware-experts/"><u>Mastering Electronics: The Ultimate Resource by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://techidaily.com/mastering-performance-troubleshooting-and-improving-elder-scrolls-online-frame-rate/"><u>Mastering Performance: Troubleshooting and Improving Elder Scrolls Online Frame Rate</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/setting-up-a-static-ip-configuration-on-your-windows-computer-a-comprehensive-guide-yl-computing/"><u>Setting Up a Static IP Configuration on Your Windows Computer: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-the-distinctions-between-32-bit-and-64-bit-registry-systems-expert-analysis-by-yl-software/"><u>Understanding the Distinctions Between 32-Bit and 64-Bit Registry Systems - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expedite-your-file-format-journey-from-srt-to-txt/"><u>[New] Expedite Your File Format Journey From SRT to TXT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-inside-track-to-premiere-pro-full-screen-viewing-for-2024/"><u>[New] Inside Track to Premiere Pro Full Screen Viewing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-captivating-youtube-headlines/"><u>[New] The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-portable-guide-mastering-disk-image-creation-with-win32-disk-imaging-tool/"><u>1. Portable Guide: Mastering Disk Image Creation with Win32 Disk Imaging Tool</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-secure-your-digital-assets-update-your-apple-id-with-no-data-loss/"><u>1. Secure Your Digital Assets: Update Your Apple ID with No Data Loss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-blaze-2-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Blaze 2 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-ms-word-to-immediately-switch-to-reading-view-on-attachments/"><u>Configure MS Word to Immediately Switch to Reading View on Attachments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-these-10-cost-free-movie-platforms-instead-of-netflix/"><u>Enjoy These 10 Cost-Free Movie Platforms Instead of Netflix</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/evaluating-different-releases-of-aomei-backupper-your-ultimate-guide/"><u>Evaluating Different Releases of AOMEI Backupper - Your Ultimate Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/expert-tips-on-reducing-boot-time-for-faster-windows-11-user-authentication/"><u>Expert Tips on Reducing Boot Time for Faster Windows 11 User Authentication</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/gratis-auto-synchroniseren-van-bestandjes-naar-externe-hardschijven-top-tools-ontdekken/"><u>Gratis Auto-Synchroniseren Van Bestandjes Naar Externe Hardschijven: Top Tools Ontdekken</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco F5 Pro 5G FRP</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovative-iphone-close-up-techniques-for-photo-excellence-for-2024/"><u>Innovative iPhone Close-Up Techniques for Photo Excellence for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/recupera-immagini-da-un-disco-rigido-inutilizzato-su-windows/"><u>Recupera Immagini Da Un Disco Rigido Inutilizzato Su Windows</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/revamp-your-inbox-solving-outlook-cannot-identify-email-with-5-effective-strategies/"><u>Revamp Your Inbox: Solving 'Outlook Cannot Identify Email' With 5 Effective Strategies</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/section-4b-five-facts-to-remember/"><u>Section 4B: Five Facts to Remember</u></a></li>
+<li><a href="https://win11.techidaily.com/steer-clear-from-cheap-windows-codes-a-cautionary-tale/"><u>Steer Clear From Cheap Windows Codes: A Cautionary Tale</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/syncing-your-favorite-mp3s-with-apple-music-on-iphone-a-step-by-step-guide/"><u>Syncing Your Favorite MP3s with Apple Music on iPhone: A Step-by-Step Guide</u></a></li>
 </ul></div>
 
