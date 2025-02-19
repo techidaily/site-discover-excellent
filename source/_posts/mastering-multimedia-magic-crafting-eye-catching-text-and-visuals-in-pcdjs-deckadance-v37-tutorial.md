@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial"
-date: 2025-02-07T18:52:32.459Z
-updated: 2025-02-08T22:20:31.976Z
+date: 2025-02-17T22:16:46.661Z
+updated: 2025-02-19T00:44:33.485Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-spectrum-of-sharing-navigating-video-distribution-on-fb-for-2024/"><u>[New] The Spectrum of Sharing Navigating Video Distribution on FB for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-guide-uploading-subtitles-via-social-networks/"><u>2024 Approved Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-upgrading-to-windows/"><u>Can Upgrading to Windows</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-restaurer-avec-succes-les-versions-de-demonstration-de-windows-11serveur-a-partir-dune-image-iso-un-manuel-complet/"><u>Comment Restaurer Avec Succès Les Versions De Démonstration De Windows 11/Serveur À Partir D'une Image ISO : Un Manuel Complet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effizientes-hochladen-von-iphone-bildern-behebe-die-hurden-fur-ein-reibungsloses-ubertragen/"><u>Effizientes Hochladen Von iPhone-Bildern - Behebe Die Hürden Für Ein Reibungsloses Übertragen</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-beyond-basiccams-prospects-of-elevated-performance/"><u>In 2024, Beyond BasicCams Prospects of Elevated Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-to-skyrocket-item-acquisition-in-dayzs-first-person-shooter-experience/"><u>Quick Fixes to Skyrocket Item Acquisition in DayZ's First-Person Shooter Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/tv-sizing-guide-finding-your-optimal-display-dimensions-for-ultimate-viewing-comfort/"><u>TV Sizing Guide: Finding Your Optimal Display Dimensions for Ultimate Viewing Comfort</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-divide-and-conquer-a-step-by-step-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-missing-in-apple-vision-pro-analysis-on-key-ar-apps-not-included-by-tech-experts-at-zdnet/"><u>What’s Missing in Apple Vision Pro?: Analysis on Key AR Apps Not Included by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop/"><u>[New] 2024 Approved Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-optimizing-your-youtube-video-preservation/"><u>[New] In 2024, Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-essential-guide-to-du-recorder-functionality-for-2024/"><u>[New] The Essential Guide to Du Recorder Functionality for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-ultimate-bootstrap-4-user-interface-kit-by-creative-tim-free-download/"><u>1. Ultimate Bootstrap 4 User Interface Kit by Creative Tim - Free Download</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-the-impact-of-the-grand-canal-on-tang-dynasty-prosperity-insights-from-yl-computing-and-yl-software/"><u>Exploring the Impact of the Grand Canal on Tang Dynasty Prosperity - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exploring-various-energy-saving-modes-a-comprehensive-guide-to-windows-10-power-options-insights-by-yl-software/"><u>Exploring Various Energy Saving Modes: A Comprehensive Guide to Windows 10 Power Options - Insights by YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-11-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme 11 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-ace-2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus Ace 2 Is Unlocked</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-excel-file-distribution-in-windows-environments-by-yl-software-experts/"><u>Mastering the Art of Excel File Distribution in Windows Environments by YL Software Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-instagram-filter-use-for-2024/"><u>Mastering the Art of Instagram Filter Use for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-splitter-merger/"><u>PDF Merger & PDF Splitter</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-to-eliminating-display-failure-in-winoses/"><u>Quick Guide to Eliminating “Display Failure” In WinOSes</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/selecting-the-right-cryptocurrency-trading-platform-insights-from-yl-computing/"><u>Selecting the Right Cryptocurrency Trading Platform: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-display-malfunctions-could-it-be-your-gpu-driver-expert-advice-by-yl-software/"><u>Troubleshooting Display Malfunctions: Could It Be Your GPU Driver? Expert Advice by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-could-be-your-go-to-resource-for-health-tips/"><u>Why ChatGPT Could Be Your Go-To Resource for Health Tips?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-softwares-ultimate-strategy-for-discovering-credible-cryptocurrency-information-and-updates-online/"><u>YL Software's Ultimate Strategy for Discovering Credible Cryptocurrency Information and Updates Online</u></a></li>
 </ul></div>
 

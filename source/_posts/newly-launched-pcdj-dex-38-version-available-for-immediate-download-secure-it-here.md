@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2025-02-02T17:42:29.760Z
-updated: 2025-02-08T18:26:29.452Z
+date: 2025-02-11T23:16:17.242Z
+updated: 2025-02-18T19:49:15.603Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,22 +106,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-avoiding-poverty-earning-in-beauty-media/"><u>[New] 2024 Approved Avoiding Poverty Earning in Beauty Media</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-ways-to-preserve-and-log-youtube-live-streams-for-2024/"><u>[New] Top Ways to Preserve and Log YouTube Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>[Updated] From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdwinxisodvd/"><u>【公式】DVDコピー専用WinXソフトウェアを無料で手に入れる！簡単な操作でISO形式、イメージ化、DVDフォルダーへの変換が可能。</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728467747963-1-windows-11/"><u>1. Windows 11 最新更新でファイル履歴機能改善:全てのファイルに自動バックアップ完了</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-audiences-delighted-best-editors-to-transform-youtube-shorts/"><u>2024 Approved Audiences Delighted Best Editors to Transform Youtube Shorts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/9-methoden-zum-wechseln-des-ruhemodus-auf-ihrem-pc-mit-windows-11/"><u>9 Methoden Zum Wechseln Des Ruhemodus Auf Ihrem PC Mit Windows 11</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-recuperare-informazioni-da-un-ssd-che-rifiuta-lavvio-passaggi-chiave-per-il-successo/"><u>Come Recuperare Informazioni Da Un SSD Che Rifiuta L'avvio: Passaggi Chiave per Il Successo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creative-windows-artistry-free-to-feed-tools-guide/"><u>Creative Windows Artistry - FREE to FEE'd Tools Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-server-protection-mastering-quick-backups-on-windows-server-2012-three-simple-strategies/"><u>Effortless Server Protection: Mastering Quick Backups on Windows Server 2012 - Three Simple Strategies</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/expert-tutorial-on-correcting-the-invalid-system-disk-message-in-windows/"><u>Expert Tutorial on Correcting the 'Invalid System Disk' Message in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-image-management-in-iphones-and-macs-the-ultimate-downloading-and-editing-guide-for-apple-photos-users/"><u>Mastering Image Management in iPhones and Macs: The Ultimate Downloading and Editing Guide for Apple Photos Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4-premiere-pro/"><u>MP4ビデオファイルの効率的な書き出し手順 - Premiere Pro</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/overcoming-issues-with-outlook-mail-in-windows/"><u>Overcoming Issues with Outlook Mail in Windows</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/story-1-misconception-about-alcoholic-fatty-liver-disease-afld/"><u>Story 1: Misconception About Alcoholic Fatty Liver Disease (AFLD)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-how-to-mastering-the-use-of-an-sd-card-reader-on-android/"><u>Ultimate How-To: Mastering the Use of an SD Card Reader on Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-stunning-photos-with-a-new-phone-camera-its-worth-the-switch/"><u>Unlock Stunning Photos with a New Phone Camera - It's Worth the Switch!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-flawless-frequency-facilitator-for-voices/"><u>[New] In 2024, Flawless Frequency Facilitator for Voices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-best-android-animal-games-for-2024/"><u>[Updated] The Ultimate Guide to Best Android Animal Games for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-quick-fix-guide-restoring-documents-following-a-word-program-failure/"><u>1. Quick Fix Guide: Restoring Documents Following a Word Program Failure</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-quick-guide-understanding-the-seven-phases-of-it-disaster-recovery/"><u>1. Quick Guide: Understanding the Seven Phases of IT Disaster Recovery</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728479558684-windows-11/"><u>如何利用Windows 11功能免费保存和恢复个人电脑文件到云空间</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-troubleshooting-setting-up-a-printer-with-windows-n-11-expert-advice-by-yl-software/"><u>Easy Troubleshooting: Setting Up a Printer with Windows N 11 – Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ejecucion-completa-como-vuelve-a-hacer-uso-de-su-respaldo-en-aomei-cloud/"><u>Ejecución Completa: Cómo Vuelve a Hacer Uso De Su Respaldo en AOMEI Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-4-must-visit-achievement-resources/"><u>Enhance Performance: 4 Must-Visit Achievement Resources</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/esperti-di-it-procedura-dettagliata-per-il-ripristino-dei-file-e-delle-cartelle-sul-computer/"><u>Esperti Di IT: Procedura Dettagliata per Il Ripristino Dei File E Delle Cartelle Sul Computer</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-can-i-stop-windows-defender-from-deleting-a-file/"><u>How Can I Stop Windows Defender From Deleting a File?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-or-download-your-dell-dell-d3100-printers-software/"><u>Quick & Easy Way to Update or Download Your DELL Dell D3100 Printer's Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/recovering-from-oversight-a-guide-to-restoring-data-after-accidentally-overwriting-in-microsoft-word/"><u>Recovering From Oversight: A Guide to Restoring Data After Accidentally Overwriting in Microsoft Word</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722875470609-resolving-d3dx92ndll-missing-error-a-step-by-step-guide/"><u>Resolving d3dx9_2n.dll Missing Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/tecnicas-confirmadas-para-consertar-falhas-no-inicializacao-do-windows-10-e-11/"><u>Técnicas Confirmadas Para Consertar Falhas No Inicialização Do Windows 10 E 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unshutdown-windows-10-on-your-pc-solution/"><u>Troubleshooting Steps for Unshutdown Windows 10 on Your PC - SOLUTION</u></a></li>
 </ul></div>
 
