@@ -1,7 +1,7 @@
 ---
 title: "Schritt-Für-Schritt-Anleitung Zur Reparatur Einer Beschädigten SD-Karte: Einfach Und Effektiv"
-date: 2025-02-06T21:31:13.810Z
-updated: 2025-02-09T00:52:26.214Z
+date: 2025-03-05T16:33:17.386Z
+updated: 2025-03-07T16:30:03.742Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f8ccc6c9a1b115c4c6f0d9e6.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -42,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -93,25 +81,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,20 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-inexpensive-pc-monitoring-software/"><u>[New] 2024 Approved Inexpensive PC Monitoring Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728499842042-windows-1011/"><u>効果的な方法でWindows 10と11を同時に起動する - 詳しい解説</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728470435892-windows-1011/"><u>直感的な設置手引き：Windows 10/11 - クラウド配信対物理インストール比較</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/chromebook-windows/"><u>Chromebook 対 Windows - それぞれの特長と最適な使用シナリオは何ですか?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complimentary-guide-retrieving-lost-information-on-a-deleted-external-hard-drive/"><u>Complimentary Guide: Retrieving Lost Information on a Deleted External Hard Drive</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guida-completa-per-il-ripristino-di-iphone-senza-perdita-dei-dati/"><u>Guida Completa per Il Ripristino Di iPhone Senza Perdita Dei Dati</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-repair-non-responsive-windows-11-pin-login-errors-effectively-with-myrecover/"><u>How To Repair Non-Responsive Windows 11 PIN Login Errors Effectively With MyRecover</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>In 2024, Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/master-the-art-of-captivating-instagram-video-audiences-for-2024/"><u>Master the Art of Captivating Instagram Video Audiences for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/oplossing-vinden-voor-verdwenen-fotos-op-je-camerase-sd-plaat/"><u>Oplossing Vinden Voor Verdwenen Fotos Op Je Camerase SD-Plaat</u></a></li>
-<li><a href="https://facebook.techidaily.com/peak-analysis-facebooks-global-growth/"><u>Peak Analysis: Facebook's Global Growth</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fixes-to-address-compatibility-and-functionality-in-i2c-human-interface-drivers/"><u>Quick Fixes to Address Compatibility and Functionality in I2C Human Interface Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-imessage-problems-when-it-wont-send-messages-from-your-iphone/"><u>Solve iMessage Problems When It Won't Send Messages From Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-ios-devices-for-an-ultimate-reading-experience-iphones-and-ipads/"><u>Top 6 iOS Devices for an Ultimate Reading Experience: IPhones and iPads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-vegaspro-the-19-edition/"><u>Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-to-premium-no-cost-online-recorders/"><u>[New] 2024 Approved Comprehensive Guide to Premium, No-Cost Online Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-toolwiz-app-for-professional-photos/"><u>2024 Approved A Deep Dive Into Toolwiz App for Professional Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-compile-list-of-cost-efficient-vecto-art-sites/"><u>2024 Approved Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-core-of-vimeo-empowering-video-artists-and-audiences/"><u>2024 Approved The Core of Vimeo Empowering Video Artists & Audiences</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/accelerate-system-speed-with-yl-software-techniques-expert-tips-for-faster-processing/"><u>Accelerate System Speed with YL Software Techniques - Expert Tips for Faster Processing!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/audio-archive-checkout-and-scrutiny/"><u>Audio Archive Checkout & Scrutiny</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-windows-defender-for-shielding-against-phishing-threats-discover-more-from-yl-computings-expertise/"><u>Can You Rely on Windows Defender for Shielding Against Phishing Threats? Discover More From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/cherry-blossoms-springtime-theme-high-resolution-wallpapers-and-backgrounds-yl-digital-creations/"><u>Cherry Blossoms Springtime Theme - High-Resolution Wallpapers & Backgrounds | YL Digital Creations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-brother-hl-2280dw-printer-drivers-for-windows-111087-fast-and-easy-installation/"><u>Compatible Brother HL-2280DW Printer Drivers for Windows 11/10/8/7: Fast and Easy Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-activate-a-turned-off-wireless-connection-solutions-and-tips/"><u>How to Activate a Turned Off Wireless Connection - Solutions and Tips</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-boost-your-pcs-speed-and-responsiveness-with-yl-software-strategies/"><u>How to Boost Your PC's Speed and Responsiveness with YL Software Strategies</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-set-up-network-adapters-using-the-control-panel-a-guide-by-yl-computing/"><u>How to Set Up Network Adapters Using the Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/identifying-and-dealing-with-dead-pixels-on-displays-a-guide-by-yl-computings-expertise/"><u>Identifying and Dealing with Dead Pixels on Displays: A Guide by YL Computing's Expertise</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/instant-success-with-pc-and-mac-videos-on-tiktok-for-2024/"><u>Instant Success with PC and Mac Videos on TikTok for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-cryptocurrency-chart-analysis-a-comprehensive-guide-by-yl-computing/"><u>Mastering Cryptocurrency Chart Analysis: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

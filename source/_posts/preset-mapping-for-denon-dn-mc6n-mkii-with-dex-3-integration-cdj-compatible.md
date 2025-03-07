@@ -1,7 +1,7 @@
 ---
 title: Preset Mapping for Denon DN-MC6n MKII with DEX 3 Integration | CDJ Compatible
-date: 2025-02-04T20:20:57.454Z
-updated: 2025-02-08T22:37:52.533Z
+date: 2025-03-04T16:23:00.781Z
+updated: 2025-03-07T16:14:17.948Z
 tags:
   - product
 categories:
@@ -33,10 +33,6 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-04-17 12:51:322023-04-10 17:04:26Denon DN-MC6000 MKII Mapping File For DEX 3}
@@ -56,20 +52,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-auditory-gamespace-vaults-copyright-free/"><u>[New] Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[Updated] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-comprehensive-screen-shot/"><u>[Updated] In 2024, Capture Comprehensive Screen Shot</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seizing-screen-time-with-hd-downloads-from-fb-sources/"><u>[Updated] In 2024, Seizing Screen Time with HD Downloads From FB Sources</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-online-video-capture-tools/"><u>[Updated] In 2024, Top 5 Online Video Capture Tools</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-how-to-download-your-favorite-cartoon-network-shows-in-various-video-formats/"><u>1. How to Download Your Favorite Cartoon Network Shows in Various Video Formats</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-and-download-animated-movie-files-mp4-avi-from-newgrounds-compatible-with-macos-and-windows/"><u>Convert and Download Animated Movie Files (MP4, AVI) From NewGrounds - Compatible with macOS & Windows</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-oklilive-tv-streams-download-hd-content-as-mp4-or-avi-files-for-pc-and-mac/"><u>Convert OkliLive TV Streams: Download HD Content as MP4 or AVI Files for PC & MAC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-your-favorite-bandcamp-music-collection-to-high-quality-mp3-files/"><u>Convert Your Favorite Bandcamp Music Collection to High-Quality MP3 Files</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-your-videos-with-ease-downloading-youtube-content-into-final-cut-pro-in-apple-prores-format/"><u>Convert Your Videos with Ease: Downloading YouTube Content Into Final Cut Pro in Apple ProRes Format</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-protecting-your-whatsapp-data-step-by-step-backup-processes-for-samsung-smartphones/"><u>Expert Tips for Protecting Your WhatsApp Data: Step-by-Step Backup Processes for Samsung Smartphones</u></a></li>
-<li><a href="https://facebook.techidaily.com/hack-proofing-your-life-on-social-platform-fb-with-these-7-rules/"><u>Hack-Proofing Your Life on Social Platform (FB) with These 7 Rules</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/navigating-payment-options-for-flipbuilders-uploading-services-a-step-by-nstep-guide/"><u>Navigating Payment Options for FlipBuilder's Uploading Services: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/securing-your-digital-content-expert-tips-on-safeguarding-flipbooks-with-flipbuilder/"><u>Securing Your Digital Content: Expert Tips on Safeguarding Flipbooks with FlipBuilder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pioneering-headsets-elevating-drone-use/"><u>[Updated] 2024 Approved Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplewin10-screen-grab-utility/"><u>[Updated] 2024 Approved SimpleWin10 Screen Grab Utility</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-clicks-top-tags-for-gamers-content/"><u>[Updated] Crafting Clicks Top Tags for Gamers' Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-online-income-from-youtubes-adsense-to-direct-payments-for-2024/"><u>[Updated] Mastering Online Income From YouTube's AdSense to Direct Payments for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/best-5-cost-free-android-contact-management-apps/"><u>Best 5 Cost-Free Android Contact Management Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-ios-slideshow-software-from-x-to-ios13-for-2024/"><u>Best iOS Slideshow Software From X to IOS13 for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/best-legal-sites-for-free-mp3-downloads-top-10-picks/"><u>Best Legal Sites for Free MP3 Downloads: Top 10 Picks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/769663-9781448116669-boundless-love/"><u>Boundless Love | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-the-most-advanced-server-racks-and-enclosures/"><u>Expert Picks: The Most Advanced Server Racks and Enclosures</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/fixing-windows-10-game-bar-issues-top-troubleshooting-tips/"><u>Fixing Windows 10 Game Bar Issues: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-note-30i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Note 30i to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-8t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 8T IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/invoicereceipt-conversion-from-pdf-to-excel-a-must-have-skill-set-for-financial-professionals/"><u>Invoice/Receipt Conversion From PDF to Excel: A Must-Have Skill Set for Financial Professionals</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/master-your-game-sessions-the-ultimate-guide-to-recording-on-ps4/"><u>Master Your Game Sessions: The Ultimate Guide to Recording on PS4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-guide/"><u>Navigating the Latest in Computer Hardware with Tom's Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/seamless-transfer-syncing-your-iphone-with-your-samsung-smart-television/"><u>Seamless Transfer: Syncing Your iPhone with Your Samsung Smart Television</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-techniques-for-transferring-data-from-your-iphone-x-to-an-android-device/"><u>Top Techniques for Transferring Data From Your iPhone X to an Android Device</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-rated-2x2-image-editing-software-advanced-cropping-and-customizable-background-colors/"><u>Top-Rated 2X2 Image Editing Software : Advanced Cropping & Customizable Background Colors</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlock-audio-tracks-in-movies-with-these-three-simple-techniques/"><u>Unlock Audio Tracks in Movies with These Three Simple Techniques</u></a></li>
 </ul></div>
 

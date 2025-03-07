@@ -1,7 +1,7 @@
 ---
 title: Complete Solutions for Restoring Deleted Data on a Toshiba Canvio USB Hard Disk
-date: 2025-02-04T00:30:51.988Z
-updated: 2025-02-09T00:41:58.877Z
+date: 2025-03-01T16:20:16.808Z
+updated: 2025-03-07T16:20:31.936Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc58c9a3e57e1e4c2f555ef0b.jpg
@@ -37,10 +37,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -78,10 +74,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -114,10 +106,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -125,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -153,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -164,10 +144,6 @@ Sicherer Download
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -243,15 +215,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,21 +232,19 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-breaking-down-barriers-to-affordable-editing-power-for-2024/"><u>[New] Breaking Down Barriers to Affordable Editing Power for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-video-based-instruction-using-youtube-for-2024/"><u>[New] Mastering the Art of Video-Based Instruction Using YouTube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-nuances-of-ppt-voiceover-performance/"><u>[Updated] Navigating the Nuances of PPT Voiceover Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-snipers-manual-to-capturing-live-online-music/"><u>[Updated] The Sniper’s Manual to Capturing Live Online Music</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-changing-your-preferred-languages-in-yl-computing-a-comprehensive-guide-by-yl-software/"><u>1. Changing Your Preferred Languages in YL Computing - A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/exploring-the-consequences-a-detailed-look-into-the-impact-of-the-taiping-rebellion-insights-from-yl-computing-and-yl-software/"><u>Exploring the Consequences: A Detailed Look Into the Impact of the Taiping Rebellion - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/leading-techniques-for-video-transformation-youtube-to-mpeg-for-2024/"><u>Leading Techniques for Video Transformation - YouTube-to-MPEG for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/master-your-live-set-with-wireless-singer-technology-explore-kjs-insider-tips-and-tricks/"><u>Master Your Live Set with Wireless Singer Technology - Explore KJ's Insider Tips & Tricks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-crypto-management-with-yl-software-solutions-storage-and-usage-guide/"><u>Mastering Crypto Management with YL Software Solutions - Storage and Usage Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-highlight-control-in-windows-11-os/"><u>Mastering Highlight Control in Windows 11 OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/melodic-messaging-audio-enhancements-for-status-for-2024/"><u>Melodic Messaging Audio Enhancements for Status for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/navigating-pc-hardware-needs-what-you-must-know-about-minimum-gpu-requirements-expert-advice-from-yl-technology-solutions/"><u>Navigating PC Hardware Needs: What You Must Know About Minimum GPU Requirements - Expert Advice From YL Technology Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/space-shooter-and-smiles-exploring-the-entertaining-storyline-and-mechanics-of-the-outer-worlds/"><u>Space, Shooter and Smiles: Exploring the Entertaining Storyline & Mechanics of The Outer Worlds</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubled-by-video-drivers-discover-easy-fixes-with-yl-computings-expert-advice/"><u>Troubled by Video Drivers? Discover Easy Fixes with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-guide-why-isnt-your-audio-hardware-functional-expert-insights-from-yl-computing/"><u>Troubleshooting Guide: Why Isn't Your Audio Hardware Functional? Expert Insights From YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-camcorders-for-deer-stalking-success/"><u>[New] Best Camcorders for Deer Stalking Success</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-experience-hassle-free-mixing-with-complimentary-dj-programs-and-techniques/"><u>1. Experience Hassle-Free Mixing with Complimentary DJ Programs and Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pioneering-the-digital-universe-the-present-and-future-landscape/"><u>2024 Approved Pioneering the Digital Universe The Present & Future Landscape</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/boost-your-gameplay-expert-tips-on-tweaking-gpu-settings-for-enhanced-graphics-and-speed-yl-computing/"><u>Boost Your Gameplay: Expert Tips on Tweaking GPU Settings for Enhanced Graphics and Speed - YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-top-30-steadicam-models-for-premium-dslr-cinematography/"><u>Discovering Top 30 Steadicam Models for Premium DSLR Cinematography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/find-zen-with-these-10-game-choices-for-2024/"><u>Find Zen with These 10 Game Choices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-social-network-savants-secret-for-downloading-chats/"><u>In 2024, The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-price-guide-for-cloud-storage-services/"><u>In 2024, Ultimate Price Guide for Cloud Storage Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-using-windows-tips-from-yl-software/"><u>Step-by-Step Guide: Locating Any File on Your PC Using Windows - Tips From YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-discounted-items-on-amazon-september-2024-special-offers-zdnet/"><u>Top Discounted Items on Amazon - September 2024 Special Offers | ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-to-secure-your-data-the-best-methods-for-file-backups-according-to-yl-software/"><u>Ultimate Guide to Secure Your Data: The Best Methods for File Backups, According to YL Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>Updated Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/vibrant-american-flag-background-imagery-and-graphics-1920x1/"><u>Vibrant American Flag Background Imagery & Graphics (1920X1</u></a></li>
 </ul></div>
 

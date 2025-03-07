@@ -1,7 +1,7 @@
 ---
 title: Press Statement on DEX 3.11.0.1 Release - New Features and Enhancements for PCDJ Professional DJing Tools
-date: 2025-02-16T20:40:30.814Z
-updated: 2025-02-18T20:56:25.682Z
+date: 2025-03-02T16:19:34.204Z
+updated: 2025-03-07T16:26:48.136Z
 tags:
   - product
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DJ Software and Karaoke Software designers Digital 1 Audio have raised the bar for Disc Jockey’s and venues with their DEX 3.11 all-in-one entertainment software update.
 
@@ -79,17 +75,9 @@ SYSTEM REQUIREMENTS: MAC
 
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DEX 3.11 Overview Videos
 
 New Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -110,19 +98,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/dex3-press-release.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>[New] In 2024, The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-previews-a-compreayer-approach-for-youtube-for-2024/"><u>[Updated] Elevating Video Previews A Compreayer Approach for YouTube for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professional-techniques-for-home-based-podcast-capture/"><u>[Updated] In 2024, Professional Techniques for Home-Based Podcast Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-countdown-best-zombie-games-ranked/"><u>[Updated] The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/buy-the-advanced-macx-video-converter-professional-edition/"><u>Buy the Advanced MacX Video Converter Professional Edition</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-enregistrer-avec-succes-un-fichier-pst-dans-onedrive-solution-etablie/"><u>Comment Enregistrer Avec Succès Un Fichier PST Dans OneDrive - Solution Établie</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/funf-moglichkeiten-screenshots-von-dell-computern-in-windows-1187-zu-erstellen-schritt-fur-schritt-anleitung/"><u>Fünf Möglichkeiten, Screenshots Von Dell Computern in Windows 11/8/7 Zu Erstellen – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imoviemp4moviphonemac/"><u>IMovieでMP4/MOV動画を正常読み込めない場合の解決策~iPhone/Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>Mastering TikTok How to Set & Modify Your Profile Age</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/proteggi-il-tuo-business-digitale-con-metodi-di-backup-efficaci-e-semplici-da-usare/"><u>Proteggi Il Tuo Business Digitale Con Metodi Di Backup Efficaci E Semplici Da Usare</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-innovation-how-technology-shapes-industry-standards/"><u>SRT Innovation How Technology Shapes Industry Standards</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-step-by-step-tutorial-speed-up-your-windows-10-login/"><u>Ultimate Step-by-Step Tutorial: Speed Up Your Windows 10 Login</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728485841245-windows-117/"><u>Windows 11で素早くコマンドプロンプトを閉じるための7つの方法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-charting-a-course-to-your-signature-sphere/"><u>[New] 2024 Approved Charting a Course to Your Signature Sphere</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-diverse-video-realms-sites-outshining-youtube/"><u>[Updated] In 2024, Diverse Video Realms Sites Outshining Youtube</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elevate-your-vision-experience-these-7-grading-styles/"><u>2024 Approved Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/customizing-your-typing-experience-on-windows-a-comprehensive-tutorial-from-yl-softwares-perspective/"><u>Customizing Your Typing Experience on Windows: A Comprehensive Tutorial From YL Software's Perspective</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/elevate-your-mixes-with-pcdj-deckard-synth-x-ray-v3-unleash-the-potential-of-your-samples/"><u>Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-resolution-lego-wallpaper-hd-backgrounds-and-images-download-gallery-by-yl-computing/"><u>High-Resolution Lego Wallpaper HD Backgrounds & Images - Download Gallery by YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-update-names-in-google-meet-cross-platform-for-2024/"><u>How to Update Names in Google Meet - Cross Platform for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/identifying-and-fixing-memory-issues-on-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Fixing Memory Issues on Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-11x-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 11X 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-snapchat-memories-shine-2-lens-creation-methods/"><u>In 2024, Make Snapchat Memories Shine 2 Lens-Creation Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/microsofts-vision-of-tomorrow-with-hololens-exploration-for-2024/"><u>Microsoft’s Vision of Tomorrow With HoloLens Exploration for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/personalizing-user-profiles-a-comprehensive-guide-with-yl-computing/"><u>Personalizing User Profiles: A Comprehensive Guide with YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-guide-setting-up-hotkeys-for-instant-date-and-time-entry-across-all-programs-tips-by-yl-tech-experts/"><u>Quick Guide: Setting Up Hotkeys for Instant Date & Time Entry Across All Programs - Tips by YL Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888071180-samsung-galaxy-s25-anticipated-costs-release-schedule-and-specs-all-the-rumored-details/"><u>Samsung Galaxy S25: Anticipated Costs, Release Schedule & Specs - All The Rumored Details!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-sound-problems-in-windows-and-macos-understanding-why-your-sound-card-fails-to-function-expert-advice-from-yl-software/"><u>Solving Sound Problems in Windows & MacOS: Understanding Why Your Sound Card Fails to Function - Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-modifying-system-power-settings-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Modifying System Power Settings - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality-for-2024/"><u>The Ultimate LG Screen Chronicles A Complete Review of 4K Quality for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-sims-4-memories-key-methods-to-document-gameplay-success/"><u>Unlocking Sims 4 Memories Key Methods to Document Gameplay Success</u></a></li>
 </ul></div>
 

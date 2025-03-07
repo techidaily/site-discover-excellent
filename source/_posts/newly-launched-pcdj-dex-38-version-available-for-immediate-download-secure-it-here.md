@@ -1,7 +1,7 @@
 ---
 title: Newly Launched PCDJ DEX 3.8 Version Available for Immediate Download – Secure It Here
-date: 2025-02-11T23:16:17.242Z
-updated: 2025-02-18T19:49:15.603Z
+date: 2025-03-04T16:28:42.251Z
+updated: 2025-03-07T16:23:19.109Z
 tags:
   - product
 categories:
@@ -35,10 +35,6 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
 
@@ -75,17 +71,9 @@ For controller scripts (mappings) we have added the following:
 
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DEX 3.8 | NEW FEATURES OVERVIEW
 
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -106,22 +94,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-flawless-frequency-facilitator-for-voices/"><u>[New] In 2024, Flawless Frequency Facilitator for Voices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-best-android-animal-games-for-2024/"><u>[Updated] The Ultimate Guide to Best Android Animal Games for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-quick-fix-guide-restoring-documents-following-a-word-program-failure/"><u>1. Quick Fix Guide: Restoring Documents Following a Word Program Failure</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-quick-guide-understanding-the-seven-phases-of-it-disaster-recovery/"><u>1. Quick Guide: Understanding the Seven Phases of IT Disaster Recovery</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728479558684-windows-11/"><u>如何利用Windows 11功能免费保存和恢复个人电脑文件到云空间</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-troubleshooting-setting-up-a-printer-with-windows-n-11-expert-advice-by-yl-software/"><u>Easy Troubleshooting: Setting Up a Printer with Windows N 11 – Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ejecucion-completa-como-vuelve-a-hacer-uso-de-su-respaldo-en-aomei-cloud/"><u>Ejecución Completa: Cómo Vuelve a Hacer Uso De Su Respaldo en AOMEI Cloud</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-performance-4-must-visit-achievement-resources/"><u>Enhance Performance: 4 Must-Visit Achievement Resources</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/esperti-di-it-procedura-dettagliata-per-il-ripristino-dei-file-e-delle-cartelle-sul-computer/"><u>Esperti Di IT: Procedura Dettagliata per Il Ripristino Dei File E Delle Cartelle Sul Computer</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-can-i-stop-windows-defender-from-deleting-a-file/"><u>How Can I Stop Windows Defender From Deleting a File?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-or-download-your-dell-dell-d3100-printers-software/"><u>Quick & Easy Way to Update or Download Your DELL Dell D3100 Printer's Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/recovering-from-oversight-a-guide-to-restoring-data-after-accidentally-overwriting-in-microsoft-word/"><u>Recovering From Oversight: A Guide to Restoring Data After Accidentally Overwriting in Microsoft Word</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722875470609-resolving-d3dx92ndll-missing-error-a-step-by-step-guide/"><u>Resolving d3dx9_2n.dll Missing Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/tecnicas-confirmadas-para-consertar-falhas-no-inicializacao-do-windows-10-e-11/"><u>Técnicas Confirmadas Para Consertar Falhas No Inicialização Do Windows 10 E 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unshutdown-windows-10-on-your-pc-solution/"><u>Troubleshooting Steps for Unshutdown Windows 10 on Your PC - SOLUTION</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-camera-duel-sj6-against-xiaomis-yi-visionary/"><u>[New] In 2024, The Ultimate Camera Duel SJ6 Against Xiaomi's Yi Visionary</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-classic-captures-portraiture-on-the-xiphone/"><u>[Updated] Classic Captures Portraiture on the XiPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-warriors-pantheon-valhalla-rebirth/"><u>[Updated] In 2024, Warriors' Pantheon Valhalla Rebirth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-12-affordable-and-accessible-online-video-playing-software-pctabletphone/"><u>2024 Approved Best 12 Affordable & Accessible Online Video Playing Software (PC/Tablet/Phone)</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anticipated-advancements-the-future-features-we-seek-in-gpt-5/"><u>Anticipated Advancements: The Future Features We Seek in GPT-5</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ensuring-optimal-safety-for-your-windows-system-using-windows-defender-tips-and-strategies-by-yl-software-experts/"><u>Ensuring Optimal Safety for Your Windows System Using Windows Defender - Tips & Strategies by YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-coffee-themed-desktop-backgrounds-and-wallsavers-by-yl-computing-your-trusted-source-for-digital-art/"><u>High-Definition Coffee Themed Desktop Backgrounds & Wallsavers by YL Computing - Your Trusted Source for Digital Art</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-fix-your-gpu-not-recognized-in-windows-solutions-from-yl-computing/"><u>How to Fix Your GPU Not Recognized in Windows: Solutions From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-set-up-network-adapters-using-the-control-panel-a-guide-by-yl-computing/"><u>How to Set Up Network Adapters Using the Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-deciphering-the-world-of-youtube-media-conglomerates/"><u>In 2024, Deciphering the World of YouTube Media Conglomerates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-n3-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find N3 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-track-blending-effortlessly-using-pcdj-dex-3s-cutting-edge-artificial-intelligence/"><u>Mastering Track Blending Effortlessly Using PCDJ DEX 3’S Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-start-guide-access-to-computer-controls/"><u>Quick Start Guide: Access to Computer Controls</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-and-repairing-your-graphics-card-expert-tips-from-yl-computing/"><u>Troubleshooting and Repairing Your Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-the-reasons-behind-your-scanners-low-quality-images-an-expert-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Low-Quality Images: An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-computings-latest-innovation-imdesktop-enhance-your-pc-with-dynamic-live-and-high-quality-video-wallpapers/"><u>YL Computing's Latest Innovation: ImDesktop - Enhance Your PC with Dynamic Live and High-Quality Video Wallpapers</u></a></li>
 </ul></div>
 

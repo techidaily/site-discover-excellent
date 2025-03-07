@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Classic Beats: Premium PCDJ SB2 DEX 3 Throwback Designs Featuring Iconic Red 5.2 Visual Skins"
-date: 2025-02-05T00:37:28.745Z
-updated: 2025-02-08T18:18:21.532Z
+date: 2025-03-04T16:21:07.745Z
+updated: 2025-03-07T16:28:32.829Z
 tags:
   - product
 categories:
@@ -26,19 +26,11 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
 
 Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ software skin based on the original look and feel of PCDJ RED 5.2, but with all the on-screen controls to take advantage of DEX 3’s much more robust feature set.
 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
 
@@ -51,10 +43,6 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [Here’s How To Load and Use Skins With DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -75,17 +63,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-subscription-rate-monitoring-software/"><u>[Updated] Subscription Rate Monitoring Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-navigating-tax-consequences-a-comprehensive-guide-to-crypto-investment-and-its-fiscal-effects-insights-by-yl-computing/"><u>1. Navigating Tax Consequences: A Comprehensive Guide to Crypto Investment and Its Fiscal Effects - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2023s-scarcity-pioneering-vr-content-shortcomings/"><u>2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/choosing-the-perfect-laptop-expert-analysis-from-yl-computing-and-yl-software-unveiled/"><u>Choosing the Perfect Laptop: Expert Analysis From YL Computing & YL Software Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversao-sem-custo-de-gifs-para-filmes-mpeg-online-via-movavi/"><u>Conversão Sem Custo De GIFs Para Filmes MPEG Online via Movavi</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/discover-how-windows-11-revolutionizes-user-experience-with-its-new-interface-features-analyzed-by-yl-software/"><u>Discover How Windows 11 Revolutionizes User Experience with Its New Interface Features – Analyzed by YL Software</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/hd-summer-wallpaper-collection-high-resolution-seasonal-backgrounds-by-yl-software/"><u>HD Summer Wallpaper Collection - High-Resolution Seasonal Backgrounds by YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-camon-20-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Camon 20 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-create-custom-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>How to Create Custom Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-troubleshoot-a-malfunctioning-gpu-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning GPU: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-to-past-accessing-removed-reddit-threads-swiftly/"><u>In 2024, Hasten to Past Accessing Removed Reddit Threads Swiftly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-starter-kit-10-crucial-tips-to-know/"><u>In 2024, Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[Updated] 2024 Approved Digital Dialogue Mastery Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/onlinevideoconverter/"><u>【重要】OnlineVideoConverterでウイルスリスクが高まっている！安全な動画変換手段を学ぶ</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/accelerate-online-browsing-enhancing-your-internet-connection-with-yl-software-solutions/"><u>Accelerate Online Browsing: Enhancing Your Internet Connection with YL Software Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-your-windows-pc-with-our-scanner-overcoming-compatibility-concerns-by-yl-computing/"><u>Can You Rely on Your Windows PC with Our Scanner - Overcoming Compatibility Concerns by YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-sub4sub-really-enhance-viewing-experience/"><u>Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/connect-securely-through-vpn-on-windows-using-yls-easy-instructions/"><u>Connect Securely Through VPN on Windows Using YL's Easy Instructions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/enhance-your-deck-setup-in-dex-3-using-shader-visuals-from-shadertoy-easy-installation-guide/"><u>Enhance Your Deck Setup in DEX 3 Using Shader Visuals From Shadertoy - Easy Installation Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gaining-more-likes-and-followers-on-instagram-easily/"><u>Gaining More Likes and Followers on Instagram Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-world-of-digital-backdrops-a-beginners-guide-to-chroma-keying/"><u>In 2024, Navigating the World of Digital Backdrops A Beginner's Guide to Chroma Keying</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/influence-of-the-initial-conflict-between-japan-and-china-on-contemporary-chinese-society-insights-from-yl-technologies/"><u>Influence of the Initial Conflict Between Japan and China on Contemporary Chinese Society – Insights From YL Technologies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y100-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/transform-audio-creations-using-pcdj-deckards-newest-innovation-the-dex-iii-edition/"><u>Transform Audio Creations Using PCDJ Deckard's Newest Innovation - The DeX III Edition!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-a-complete-lack-of-display-at-startup-causes-and-fixes-by-yl-experts-in-computing-and-software-development/"><u>Troubleshooting a Complete Lack of Display at Startup: Causes & Fixes by YL Experts in Computing and Software Development</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unboxing-viva-a-user-guide-to-its-videos/"><u>Unboxing Viva A User Guide to Its Videos</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-softwares-comprehensive-tutorial-on-modifying-installed-programs-through-the-windows-control-center/"><u>YL Software's Comprehensive Tutorial on Modifying Installed Programs Through the Windows Control Center</u></a></li>
 </ul></div>
 

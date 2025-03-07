@@ -1,7 +1,7 @@
 ---
 title: "Complimentary Guide: Retrieving Lost Information on a Deleted External Hard Drive"
-date: 2025-02-02T00:31:01.152Z
-updated: 2025-02-08T18:44:45.507Z
+date: 2025-03-06T16:27:44.254Z
+updated: 2025-03-07T16:20:41.592Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c72eb15814464402850a760a.jpg
@@ -68,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -101,10 +97,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -114,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -169,10 +157,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -180,23 +164,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -210,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -240,10 +208,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -279,10 +243,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -298,22 +258,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhance-your-instagram-presence-with-obs-based-streaming/"><u>[New] Enhance Your Instagram Presence with OBS-Based Streaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-whatsapp-advanced-features-you-need-to-know-for-2024/"><u>[New] Mastering WhatsApp Advanced Features You Need to Know for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastery-in-free-graphics-top-online-resource-directory/"><u>[New] Mastery in FREE Graphics Top Online Resource Directory</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/peed-focused-chroma-keying-101/"><u>[New] Speed-Focused Chroma Keying 101</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-craft-your-online-identity-with-customized-youtube-urls/"><u>[Updated] Craft Your Online Identity with Customized YouTube URLs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-available-exterior-bd-drive-models-for-optimal-media-viewing/"><u>Best Available Exterior BD Drive Models for Optimal Media Viewing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/customizing-your-windows-10-taskbar-a-step-by-step-guide-insights-by-yl-computing/"><u>Customizing Your Windows 10 Taskbar: A Step-by-Step Guide - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-file-removal-techniques-for-windows-users-insights-by-yl-software-experts/"><u>Effortless File Removal Techniques for Windows Users - Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/expert-strategies-for-spotting-bitcoin-and-altcoin-frauds-with-yl-computings-comprehensive-tutorial/"><u>Expert Strategies for Spotting Bitcoin & Altcoin Frauds with YL Computing's Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/exploring-the-influence-of-sun-yat-sens-three-principles-on-chinese-nationalism-insights-by-yl-tech-solutions/"><u>Exploring the Influence of Sun Yat-Sen's Three Principles on Chinese Nationalism - Insights by YL Tech Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-ipados-and-macos-integrate-apple-openais-chatgpt-technology-techzoomed/"><u>IOS, iPadOS & macOS Integrate Apple-OpenAI's ChatGPT Technology | TechZoomed</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/permanent-file-removal-techniques-detailed-guide-from-yl-computing/"><u>Permanent File Removal Techniques - Detailed Guide From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/premium-collection-of-attack-on-titans-colossal-titan-themes-full-hd-backgrounds-and-walls-for-pc/"><u>Premium Collection of Attack on Titan's Colossal Titan Themes – Full HD Backgrounds and Walls for PC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/smoothen-your-videoplay-experience-on-karbonix-the-ultimate-solution-codec-suite-recommendation/"><u>Smoothen Your Videoplay Experience on Karbonix: The Ultimate Solution Codec Suite Recommendation</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlocking-system-performance-a-detailed-walkthrough-of-the-windows-memory-diagnostic-utility-by-yl-software-experts/"><u>Unlocking System Performance: A Detailed Walkthrough of the Windows Memory Diagnostic Utility by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/why-opt-for-dxvk-in-windows-gaming-scene/"><u>Why Opt for DXVK in Windows' Gaming Scene?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-anti-fog-strategies-optimal-gopro-video-quality-for-2024/"><u>[New] Anti-Fog Strategies Optimal GoPro Video Quality for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-why-does-my-gpu-freezecrash-and-how-to-fix-it-insights-from-yl-computing-experts/"><u>1. Why Does My GPU Freeze/Crash and How to Fix It: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-guiding-you-through-youtubes-view-limitations/"><u>2024 Approved Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/distinguishing-between-trivia-and-dj-services-essential-insights-for-your-pcdj-business/"><u>Distinguishing Between Trivia and DJ Services: Essential Insights for Your PCDJ Business</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-started-with-ea-play-ps5-sign-up-and-exploration-steps/"><u>Get Started with EA Play PS5: Sign-Up & Exploration Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuit-mov-videofile-naar-swf-konverteren-online-professionele-dienst-van-moviemaker/"><u>Gratuit MOV-Videofile Naar SWF Konverteren Online - Professionele Dienst Van MovieMaker</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/high-definition-gold-desktop-scenes-premium-visuals-by-yl-computing/"><u>High-Definition Gold Desktop Scenes - Premium Visuals by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>In 2024, Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-googlen-gemini-the-next-big-thing-or-just-a-shiny-distraction-from-chatgpt/"><u>Is Google'n Gemini the Next Big Thing or Just a Shiny Distraction From ChatGPT?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-pc-hardware-needs-what-you-must-know-about-minimum-gpu-requirements-expert-advice-from-yl-technology-solutions/"><u>Navigating PC Hardware Needs: What You Must Know About Minimum GPU Requirements - Expert Advice From YL Technology Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/navigating-through-system-alerts-expert-advice-on-fixing-computer-messages-with-yl-computings-guidance/"><u>Navigating Through System Alerts: Expert Advice on Fixing Computer Messages with YL Computing's Guidance</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-strategies-to-combat-memory-issues-on-your-windows-system-tips-by-yl-computing/"><u>Top Strategies to Combat Memory Issues on Your Windows System - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/alhl-alfaaly-lmshkla-ithbat-alsora-bastkhdam-acronis-true-image/"><u>الحل الفعلي لمشكلة إثبات الصورة باستخدام Acronis True Image</u></a></li>
 </ul></div>
 

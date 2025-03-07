@@ -1,7 +1,7 @@
 ---
 title: Transform Audio Creations Using PCDJ Deckard's Newest Innovation - The DeX III Edition!
-date: 2025-02-14T02:04:56.962Z
-updated: 2025-02-18T22:58:21.394Z
+date: 2025-03-02T16:22:44.790Z
+updated: 2025-03-07T16:27:15.046Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -75,25 +71,9 @@ We can talk compensation if we choose to use your skin in future updates of DEX 
 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _**And A 4 Deck Version:**_
 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -116,20 +96,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-screenflow-pros-mac-saga-full-evaluation-report/"><u>[New] In 2024, ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimize-your-facebook-streaming-experience-with-these-methods/"><u>2024 Approved Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-going-unseen-during-instagram-live-events/"><u>2024 Approved The Art of Going Unseen During Instagram Live Events</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-5-cost-free-android-contact-management-apps/"><u>Best 5 Cost-Free Android Contact Management Apps</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-legal-sites-for-free-mp3-downloads-top-10-picks/"><u>Best Legal Sites for Free MP3 Downloads: Top 10 Picks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-unlock-professional-icloud-activation-bypass-utility/"><u>Effortless Unlock: Professional iCloud Activation Bypass Utility</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/fixing-windows-10-game-bar-issues-top-troubleshooting-tips/"><u>Fixing Windows 10 Game Bar Issues: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-seamlessly-stream-apple-device-screen-onto-a-roku-fire-tv-box/"><u>How to Seamlessly Stream Apple Device Screen Onto a Roku Fire TV Box</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ishowu-audio-capture-review/"><u>In 2024, IShowU Audio Capture Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-window-11-taskbar-icon-separation/"><u>Master Window 11 Taskbar Icon Separation</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashes-a-comprehensive-tutorial-for-repairing-pacific-drive-stability-issues/"><u>No More Crashes: A Comprehensive Tutorial for Repairing Pacific Drive Stability Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-getting-origin-up-and-running-in-windows-10-and-11/"><u>Overcoming Launch Problems: Getting Origin Up and Running in Windows 10 & 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/612931-9781429983907-questions-from-earth-answers-from-heaven/"><u>Questions From Earth, Answers From Heaven | Free Book</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/seamless-transfer-syncing-your-iphone-with-your-samsung-smart-television/"><u>Seamless Transfer: Syncing Your iPhone with Your Samsung Smart Television</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-techniques-for-transferring-data-from-your-iphone-x-to-an-android-device/"><u>Top Techniques for Transferring Data From Your iPhone X to an Android Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[Updated] 2024 Approved Facebook Streaming Made Simple Tips for Android & iPhones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>2024 Approved YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/como-transferir-tu-backup-total-de-dispositivo-al-google-drive-un-tutorial-esencial-para-usuarios-de-windows/"><u>Cómo Transferir Tu Backup Total De Dispositivo Al Google Drive: Un Tutorial Esencial Para Usuarios De Windows</u></a></li>
+<li><a href="https://solve-help.techidaily.com/high-quality-hd-looped-wallpaper-blue-and-purple-hues-with-white-aperture-design-by-yl-computing/"><u>High-Quality HD Looped Wallpaper: Blue & Purple Hues with White Aperture Design by YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-long-does-it-take-in-hours-to-learn-a-language/"><u>How Long Does It Take in Hours to Learn a Language?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-access-chatgpt-in-the-palm-of-your-hand-with-this-new-ios-app/"><u>How to Access ChatGPT in the Palm of Your Hand with This New iOS App!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-edit-and-reverse-your-video-clips-with-windows-movie-maker/"><u>How To Edit & Reverse Your Video Clips With Windows Movie Maker</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/"><u>In 2024, Tailored Content Creation How to Cropped & Export Videos for Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-strategies-for-in-depth-nba-game-watching/"><u>In 2024, Top Strategies for In-Depth NBA Game Watching</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolucion-del-error-de-la-copia-de-seguridad-de-windows-11-guia-paso-a-paso/"><u>Resolución Del Error De La Copia De Seguridad De Windows 11 - Guía Paso a Paso</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-surviving-the-rise-of-ai-at-work/"><u>The Future Is Now: Surviving the Rise of AI at Work</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-6-fixes-overcoming-ssd-compatibility-issues-with-windows-11-installation/"><u>Top 6 Fixes: Overcoming SSD Compatibility Issues with Windows 11 Installation</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlocking-the-power-of-three-key-approaches/"><u>Unlocking the Power of Three: Key Approaches</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/verstandnis-von-heic-konvertierungstechniken-fur-high-efficiency-image-container/"><u>Verständnis Von HEIC - Konvertierungstechniken Für High Efficiency Image Container.</u></a></li>
 </ul></div>
 

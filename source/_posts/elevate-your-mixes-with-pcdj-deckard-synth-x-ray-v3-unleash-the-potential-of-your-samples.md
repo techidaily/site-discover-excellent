@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixes with PCDJ Deckard Synth X-Ray V3: Unleash the Potential of Your Samples!"
-date: 2025-02-05T22:31:21.955Z
-updated: 2025-02-08T21:40:08.754Z
+date: 2025-03-04T16:29:28.696Z
+updated: 2025-03-07T16:19:41.268Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ## Our PCDJ DEX 3 DJ Software will launch soon and one of the key core upgrades is the overhaul to our graphics engine.
 
 The graphics engine is still _“skin based”_ – meaning you can still selected different skins in options to change the entire look and feel of the DEX 3 GUI. DEX 3 will come with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (_showcasing separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We’re looking for additional user submitted skins we can include on PCDJ.com for download for DEX 3, complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer. DJs have different needs and requirements while they mix, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
 
@@ -71,31 +67,15 @@ Please sent any PCDJ DEX 3 DJ mixing software skin submissions to [SUBMIT@PCDJ.C
 
 We can talk compensation if we choose to use your skin in future updates of DEX 3!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Here are a couple example DEX 3 skin files you can download to work from:**
 
 [![DEX3_2_decks_video_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_2_decks_video_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1171)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _**And A 4 Deck Version:**_
 
 [![DEX3_4_decks_rev2](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/07/DEX3_4_decks_rev2-741x1030.png?resize=741%2C1030&ssl=1)](https://www.pcdj.com/?attachment%5Fid=1172)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -116,16 +96,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/skinguidecoverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] In 2024, Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/a-beginners-guide-to-purchasing-digital-assets-insights-from-yl-computing-experts/"><u>A Beginner's Guide to Purchasing Digital Assets: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/behind-the-scenes-insight-how-vimeo-record-works-for-2024/"><u>Behind-the-Scenes Insight How Vimeo Record Works for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comparing-wmv-and-mp4-determining-the-superior-format-for-quality-and-file-size/"><u>Comparing WMV and MP4: Determining the Superior Format for Quality & File Size</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/concealing-files-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Concealing Files on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-resolving-error-0x80070091-for-successful-system-restores-in-windows-11-expert-tips/"><u>Deciphering and Resolving Error 0X80070091 for Successful System Restores in Windows 11 - Expert Tips!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/efficiently-removing-software-expert-techniques-by-yl-software-solutions/"><u>Efficiently Removing Software: Expert Techniques by YL Software Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c210-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C210</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro/"><u>In 2024, Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintain-your-iphone-13s-fresh-look-with-these-essential-accessories-suggested-by-zdnet/"><u>Maintain Your iPhone 13'S Fresh Look with These Essential Accessories, Suggested by ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-steps-for-fixing-your-unresponsive-laptop-expert-advice-from-yl-computing/"><u>Troubleshooting Steps for Fixing Your Unresponsive Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-superior-asmr-video-curation/"><u>[New] In 2024, Superior ASMR Video Curation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ush-youtube-boundaries-with-creative-studio-expertise-and-tactics/"><u>[New] Push Youtube Boundaries with Creative Studio Expertise and Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x/"><u>[Updated] In 2024, Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmonizing-with-instagram-a-songwriters-legal-framework/"><u>[Updated] In 2024, Harmonizing with Instagram A Songwriter’s Legal Framework</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-protect-your-digital-wealth-expert-strategies-for-cryptocurrency-security-insights-from-yl-computing/"><u>1. Protect Your Digital Wealth: Expert Strategies for Cryptocurrency Security - Insights From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-6-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-alienware-aurora-r7-high-end-gaming-at-what-cost/"><u>Comprehensive Analysis of the Alienware Aurora R7 - High-End Gaming at What Cost?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-does-memory-malfunction-lead-to-computer-shutdowns-insights-from-yl-computings-experts/"><u>How Does Memory Malfunction Lead to Computer Shutdowns? - Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mobile-apps-for-real-time-tracking-of-crypto-wallet-balances-features-and-reviews-developed-by-yl-computing/"><u>Mobile Apps for Real-Time Tracking of Crypto Wallet Balances: Features & Reviews - Developed by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/optimizing-power-consumption-expert-tips-from-yl-software-specialists/"><u>Optimizing Power Consumption: Expert Tips From YL Software Specialists</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-the-mystery-of-missing-sounds-on-windows-systems-with-expert-tips-from-yl-computing/"><u>Solving the Mystery of Missing Sounds on Windows Systems with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-print-mishap-uncovered/"><u>Technical Print Mishap Uncovered</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-masterclass-for-aspiring-filmmakers-on-youtube/"><u>Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
 </ul></div>
 
